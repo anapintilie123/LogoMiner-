@@ -14,7 +14,7 @@ This repository contains a set of scripts that:
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/yourusername/logo_clustering_pipeline.git
+   git clone (https://github.com/anapintilie123/LogoMiner-.git)
    cd logo_clustering_pipeline
 
 2. **Create and activate a virtual environment (optional but recommended)**:
