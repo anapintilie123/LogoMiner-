@@ -1,0 +1,2534 @@
+--- aamco-councilbluffs_com.png ---
+Domain         : aamco-councilbluffs.com
+DCT bands    : [ 5.84987500e+03 -5.19766617e+00 -1.37487450e+01 ...  4.27246094e-03
+  6.63248682e-03  1.77490234e-01]
+phash         : 8111fe4e91bbd4e4
+Top 5 Coeffs   : [ 5.84988e+03 -5.20000e+00 -1.37500e+01 -8.88000e+00 -3.61200e+01]
+
+--- aamco-newbraunfels_com.png ---
+Domain         : aamco-newbraunfels.com
+DCT bands    : [ 5.84987500e+03 -5.19766617e+00 -1.37487450e+01 ...  4.27246094e-03
+  6.63248682e-03  1.77490234e-01]
+phash         : 8111fe4e91bbd4e4
+Top 5 Coeffs   : [ 5.84988e+03 -5.20000e+00 -1.37500e+01 -8.88000e+00 -3.61200e+01]
+
+--- aamco-omahasouth_com.png ---
+Domain         : aamco-omahasouth.com
+DCT bands    : [ 5.84987500e+03 -5.19766617e+00 -1.37487450e+01 ...  4.27246094e-03
+  6.63248682e-03  1.77490234e-01]
+phash         : 8111fe4e91bbd4e4
+Top 5 Coeffs   : [ 5.84988e+03 -5.20000e+00 -1.37500e+01 -8.88000e+00 -3.61200e+01]
+
+--- aamcoconwaysc_com.png ---
+Domain         : aamcoconwaysc.com
+DCT bands    : [ 5.84987500e+03 -5.19766617e+00 -1.37487450e+01 ...  4.27246094e-03
+  6.63248682e-03  1.77490234e-01]
+phash         : 8111fe4e91bbd4e4
+Top 5 Coeffs   : [ 5.84988e+03 -5.20000e+00 -1.37500e+01 -8.88000e+00 -3.61200e+01]
+
+--- aamcoindependencemo_com.webp ---
+Domain         : aamcoindependencemo.com
+DCT bands    : [ 5.08196875e+03 -1.15523643e+01  3.31585121e+01 ...  6.65283203e-03
+  8.07698537e-03  1.35172531e-01]
+phash         : a111eecea33bb464
+Top 5 Coeffs   : [5081.97  -11.55   33.16  -24.06  -11.65]
+
+--- aamcoseguin_com.png ---
+Domain         : aamcoseguin.com
+DCT bands    : [ 5.84987500e+03 -5.19766617e+00 -1.37487450e+01 ...  4.27246094e-03
+  6.63248682e-03  1.77490234e-01]
+phash         : 8111fe4e91bbd4e4
+Top 5 Coeffs   : [ 5.84988e+03 -5.20000e+00 -1.37500e+01 -8.88000e+00 -3.61200e+01]
+
+--- aamcowintervillenc_com.png ---
+Domain         : aamcowintervillenc.com
+DCT bands    : [ 5.84987500e+03 -5.19766617e+00 -1.37487450e+01 ...  4.27246094e-03
+  6.63248682e-03  1.77490234e-01]
+phash         : 8111fe4e91bbd4e4
+Top 5 Coeffs   : [ 5.84988e+03 -5.20000e+00 -1.37500e+01 -8.88000e+00 -3.61200e+01]
+
+--- actemium_ch.png ---
+Domain         : actemium.ch
+DCT bands    : [6.83587451e+03 1.61910324e+02 5.80129639e+02 ... 3.13313794e-03
+ 2.09554029e-03 1.98750809e-01]
+phash         : fb9c8562da8f2194
+Top 5 Coeffs   : [6.83587e+03 1.61910e+02 5.80130e+02 5.61000e+00 2.49260e+02]
+
+--- actemium_com.png ---
+Domain         : actemium.com
+DCT bands    : [6.83587451e+03 1.61910324e+02 5.80129639e+02 ... 3.13313794e-03
+ 2.09554029e-03 1.98750809e-01]
+phash         : fb9c8562da8f2194
+Top 5 Coeffs   : [6.83587e+03 1.61910e+02 5.80130e+02 5.61000e+00 2.49260e+02]
+
+--- actemium_pt.png ---
+Domain         : actemium.pt
+DCT bands    : [6.83587451e+03 1.61910324e+02 5.80129639e+02 ... 3.13313794e-03
+ 2.09554029e-03 1.98750809e-01]
+phash         : fb9c8562da8f2194
+Top 5 Coeffs   : [6.83587e+03 1.61910e+02 5.80130e+02 5.61000e+00 2.49260e+02]
+
+--- adecco_cl.png ---
+Domain         : adecco.cl
+DCT bands    : [6.20721875e+03 1.19879372e+02 8.79295654e+02 ... 5.26936864e-03
+ 7.44628906e-03 1.79117844e-01]
+phash         : eae5961ac9d823d8
+Top 5 Coeffs   : [6207.22  119.88  879.3    10.33  307.56]
+
+--- adecco_com_sg.png ---
+Domain         : adecco.com.sg
+DCT bands    : [ 3.88284351e+03 -7.52864075e+01 -7.06296265e+02 ...  3.92659521e-03
+  6.59179688e-03  1.45670576e-02]
+phash         : 961961e66e36c9c9
+Top 5 Coeffs   : [3882.84  -75.29 -706.3    58.29  -36.11]
+
+--- adecco_co_th.ico ---
+Domain         : adecco.co.th
+DCT bands    : [ 4.08537451e+03 -7.16801300e+01 -7.37752441e+02 ...  6.18489599e-03
+  8.68733693e-03  1.23697920e-02]
+phash         : 961861e63e27d837
+Top 5 Coeffs   : [4085.37  -71.68 -737.75   38.54 -122.89]
+
+--- adlatus-nordwestschweiz_ch.png ---
+Domain         : adlatus-nordwestschweiz.ch
+DCT bands    : [5.06412500e+03 1.93169617e+02 4.61721252e+02 ... 1.60725915e-03
+ 1.81070960e-03 1.67521164e-01]
+phash         : eaf5b51f9470c0c8
+Top 5 Coeffs   : [5064.12  193.17  461.72 -244.59  921.4 ]
+
+--- adra_org_pe.png ---
+Domain         : adra.org.pe
+DCT bands    : [ 6.55896826e+03 -2.13687181e-01  4.60493469e+02 ...  1.54622400e-03
+  4.33349609e-03  2.21659347e-01]
+phash         : a688f96a84a19bde
+Top 5 Coeffs   : [ 6.55897e+03 -2.10000e-01  4.60490e+02 -1.20000e-01 -2.89800e+01]
+
+--- affidea_ba.png ---
+Domain         : affidea.ba
+DCT bands    : [ 5.65321826e+03 -1.30510330e+02  9.84598999e+02 ...  6.32731104e-03
+  6.63248682e-03  1.30798340e-01]
+phash         : afa5d04a835a8f5a
+Top 5 Coeffs   : [5653.22 -130.51  984.6   -77.43  441.64]
+
+--- affidea_pt.png ---
+Domain         : affidea.pt
+DCT bands    : [ 5.65321826e+03 -1.30510330e+02  9.84598999e+02 ...  6.32731104e-03
+  6.63248682e-03  1.30798340e-01]
+phash         : afa5d04a835a8f5a
+Top 5 Coeffs   : [5653.22 -130.51  984.6   -77.43  441.64]
+
+--- africell_ao.png ---
+Domain         : africell.ao
+DCT bands    : [ 4.59628125e+03  1.00207329e+02 -6.92709839e+02 ...  4.15039062e-03
+  6.16455078e-03  8.43302384e-02]
+phash         : d3e64f4e3434a331
+Top 5 Coeffs   : [4596.28  100.21 -692.71  221.26 -344.82]
+
+--- airbnb_rs.png ---
+Domain         : airbnb.rs
+DCT bands    : [ 5.00465625e+03 -8.06572914e-01 -3.29715393e+02 ...  2.70589185e-03
+  3.92659521e-03  3.01106777e-02]
+phash         : 850e3be926936ca7
+Top 5 Coeffs   : [ 5.00466e+03 -8.10000e-01 -3.29720e+02  2.60000e-01 -6.82800e+01]
+
+--- algeco_sk.ico ---
+Domain         : algeco.sk
+DCT bands    : [ 5.72859326e+03 -4.71774750e+01  1.28613501e+03 ...  5.26936864e-03
+  6.71386719e-03  1.70939133e-01]
+phash         : adb7924ac24b3b0d
+Top 5 Coeffs   : [5728.59  -47.18 1286.14  -79.38  785.11]
+
+--- algordanza_com_au.png ---
+Domain         : algordanza.com.au
+DCT bands    : [ 7.23484375e+03 -1.28452539e+01  4.30416962e+02 ...  6.97835302e-03
+  2.10367832e-02  2.14904785e-01]
+phash         : bf2ec4f0b0889b93
+Top 5 Coeffs   : [ 7.23484e+03 -1.28500e+01  4.30420e+02  4.00000e+00  1.87880e+02]
+
+--- allianz-kuhlemann_de.png ---
+Domain         : allianz-kuhlemann.de
+DCT bands    : [ 5.02515576e+03 -1.06425362e+01  6.26231323e+02 ...  9.66389943e-03
+  1.03963213e-02  1.24165855e-01]
+phash         : b9b3ba6c644c64c6
+Top 5 Coeffs   : [5025.16  -10.64  626.23   23.12   38.62]
+
+--- allianz-rose_info.png ---
+Domain         : allianz-rose.info
+DCT bands    : [ 5.02515576e+03 -1.06425362e+01  6.26231323e+02 ...  9.66389943e-03
+  1.03963213e-02  1.24165855e-01]
+phash         : b9b3ba6c644c64c6
+Top 5 Coeffs   : [5025.16  -10.64  626.23   23.12   38.62]
+
+--- allianz_nl.png ---
+Domain         : allianz.nl
+DCT bands    : [ 4.96246826e+03 -2.63850174e+01  6.41245300e+02 ...  4.45556641e-03
+  3.58072924e-03  1.60257980e-01]
+phash         : b9b3ab6c644c64c6
+Top 5 Coeffs   : [4962.47  -26.39  641.25   27.73   50.24]
+
+--- amnesty_id.png ---
+Domain         : amnesty.id
+DCT bands    : [6.75828076e+03 4.23857594e+00 5.73557495e+02 ... 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00]
+phash         : e6c68c38c9b33366
+Top 5 Coeffs   : [ 6.75828e+03  4.24000e+00  5.73560e+02 -1.27400e+01 -3.49530e+02]
+
+--- amnesty_is.png ---
+Domain         : amnesty.is
+DCT bands    : [6778.4375       17.78944206  682.65563965 ...    0.            0.
+    0.        ]
+phash         : e6868e2cc9339b63
+Top 5 Coeffs   : [6778.44   17.79  682.66  -46.02 -410.13]
+
+--- aonsolutions_com_cy.png ---
+Domain         : aonsolutions.com.cy
+DCT bands    : [7.19846826e+03 1.71060829e+01 4.02411255e+02 ... 2.56347656e-03
+ 3.05175781e-03 2.62756348e-01]
+phash         : fe3c910369e4361e
+Top 5 Coeffs   : [7.19847e+03 1.71100e+01 4.02410e+02 2.56000e+00 3.14910e+02]
+
+--- astrazeneca_hu.ico ---
+Domain         : astrazeneca.hu
+DCT bands    : [7.31518652e+03 8.01403580e+01 6.05715515e+02 ... 2.78727221e-03
+ 3.39762378e-03 2.01721191e-01]
+phash         : e696b1c24b87ac9a
+Top 5 Coeffs   : [7315.19   80.14  605.72 -101.03  -58.34]
+
+--- astrazeneca_ua.ico ---
+Domain         : astrazeneca.ua
+DCT bands    : [7.31518652e+03 8.01403580e+01 6.05715515e+02 ... 2.78727221e-03
+ 3.39762378e-03 2.01721191e-01]
+phash         : e696b1c24b87ac9a
+Top 5 Coeffs   : [7315.19   80.14  605.72 -101.03  -58.34]
+
+--- atalian_hu.ico ---
+Domain         : atalian.hu
+DCT bands    : [ 7.00606201e+03 -1.90551849e+02  5.46080383e+02 ...  3.72314453e-03
+  5.43212891e-03  1.97937012e-01]
+phash         : b7e0d81fc939801f
+Top 5 Coeffs   : [7006.06 -190.55  546.08   45.93 -196.88]
+
+--- atalian_pl.ico ---
+Domain         : atalian.pl
+DCT bands    : [ 7.00606201e+03 -1.90551849e+02  5.46080383e+02 ...  3.72314453e-03
+  5.43212891e-03  1.97937012e-01]
+phash         : b7e0d81fc939801f
+Top 5 Coeffs   : [7006.06 -190.55  546.08   45.93 -196.88]
+
+--- autosecuritas-barlin_fr.png ---
+Domain         : autosecuritas-barlin.fr
+DCT bands    : [7.51943701e+03 2.19090836e+02 5.65136719e+02 ... 4.27246094e-04
+ 1.74967444e-03 2.92215973e-01]
+phash         : edc69a31668c6963
+Top 5 Coeffs   : [7519.44  219.09  565.14 -382.42   50.19]
+
+--- autosecuritas-ct-notre-dame-doe_fr.png ---
+Domain         : autosecuritas-ct-notre-dame-doe.fr
+DCT bands    : [7.51943701e+03 2.19090836e+02 5.65136719e+02 ... 4.27246094e-04
+ 1.74967444e-03 2.92215973e-01]
+phash         : edc69a31668c6963
+Top 5 Coeffs   : [7519.44  219.09  565.14 -382.42   50.19]
+
+--- autosecuritas-ct-seysses_fr.png ---
+Domain         : autosecuritas-ct-seysses.fr
+DCT bands    : [7.51943701e+03 2.19090836e+02 5.65136719e+02 ... 4.27246094e-04
+ 1.74967444e-03 2.92215973e-01]
+phash         : edc69a31668c6963
+Top 5 Coeffs   : [7519.44  219.09  565.14 -382.42   50.19]
+
+--- avia-belgomine_be.png ---
+Domain         : avia-belgomine.be
+DCT bands    : [4.51062500e+03 3.36126938e+01 6.83871231e+01 ... 7.56835938e-03
+ 2.72623706e-03 9.74934921e-02]
+phash         : ebeb6ce4c141c1e1
+Top 5 Coeffs   : [4510.62   33.61   68.39  -41.64  161.51]
+
+--- avia_ch.png ---
+Domain         : avia.ch
+DCT bands    : [6.58893701e+03 1.06138039e+01 5.82937988e+02 ... 1.93277991e-03
+ 7.03938818e-03 2.11669922e-01]
+phash         : efc4843a933b2ec4
+Top 5 Coeffs   : [6588.94   10.61  582.94  -20.06  473.25]
+
+--- axabreakdown_co_uk.ico ---
+Domain         : axabreakdown.co.uk
+DCT bands    : [7.16125000e+03 1.37200022e+01 2.86024109e+02 ... 4.55729151e-03
+ 6.49007177e-03 2.27335617e-01]
+phash         : fac21af206fc017d
+Top 5 Coeffs   : [7161.25   13.72  286.02   12.43  185.3 ]
+
+--- azets_ie.ico ---
+Domain         : azets.ie
+DCT bands    : [ 7.32440674e+03 -1.38076202e+02  1.87611633e+02 ...  3.43831372e-03
+  3.98763036e-03  2.44384766e-01]
+phash         : bab1c94a16cfc62a
+Top 5 Coeffs   : [7324.41 -138.08  187.61  248.85  137.43]
+
+--- bakertilly_bg.png ---
+Domain         : bakertilly.bg
+DCT bands    : [4.61178076e+03 2.24588287e+02 9.97769653e+02 ... 9.35872376e-04
+ 1.77001953e-03 1.41296387e-01]
+phash         : eb97b4d891b06362
+Top 5 Coeffs   : [4611.78  224.59  997.77 -111.75  434.14]
+
+--- bakertilly_ci.png ---
+Domain         : bakertilly.ci
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bakertilly_dk.png ---
+Domain         : bakertilly.dk
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bakertilly_es.png ---
+Domain         : bakertilly.es
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bakertilly_ke.png ---
+Domain         : bakertilly.ke
+DCT bands    : [8.15999951e+03 0.00000000e+00 0.00000000e+00 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : 8000000000000000
+Top 5 Coeffs   : [8160.    0.    0.    0.    0.]
+
+--- bakertilly_ky.png ---
+Domain         : bakertilly.ky
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bakertilly_lu.png ---
+Domain         : bakertilly.lu
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bakertilly_lv.png ---
+Domain         : bakertilly.lv
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bakertilly_sg.png ---
+Domain         : bakertilly.sg
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bakertilly_sl.png ---
+Domain         : bakertilly.sl
+DCT bands    : [5.92437451e+03 1.27354118e+02 1.19151685e+03 ... 1.52587891e-03
+ 1.62760413e-03 2.04833984e-01]
+phash         : eb96946893234e6d
+Top 5 Coeffs   : [5924.37  127.35 1191.52 -162.35  476.28]
+
+--- bauder_at.png ---
+Domain         : bauder.at
+DCT bands    : [5.97128125e+03 2.79581757e+01 1.07745102e+02 ... 6.57145167e-03
+ 7.46663427e-03 8.07495117e-02]
+phash         : eeee3e9181c1c1c5
+Top 5 Coeffs   : [5971.28   27.96  107.75  -12.39   76.78]
+
+--- bauder_lt.png ---
+Domain         : bauder.lt
+DCT bands    : [5.97128125e+03 2.79581757e+01 1.07745102e+02 ... 6.57145167e-03
+ 7.46663427e-03 8.07495117e-02]
+phash         : eeee3e9181c1c1c5
+Top 5 Coeffs   : [5971.28   27.96  107.75  -12.39   76.78]
+
+--- baywa-re_es.ico ---
+Domain         : baywa-re.es
+DCT bands    : [4.26806250e+03 6.26723511e+02 7.70411438e+02 ... 8.34147155e-04
+ 3.66210938e-04 2.99682617e-02]
+phash         : f870a078f5a351a7
+Top 5 Coeffs   : [4268.06  626.72  770.41  332.92  137.44]
+
+--- baywa-re_vn.ico ---
+Domain         : baywa-re.vn
+DCT bands    : [4.26806250e+03 6.26723511e+02 7.70411438e+02 ... 8.34147155e-04
+ 3.66210938e-04 2.99682617e-02]
+phash         : f870a078f5a351a7
+Top 5 Coeffs   : [4268.06  626.72  770.41  332.92  137.44]
+
+--- bbraun_ae.ico ---
+Domain         : bbraun.ae
+DCT bands    : [ 6.06093652e+03 -9.83012695e+01  4.91842987e+02 ...  5.28971339e-03
+  9.90804005e-03  1.23413086e-01]
+phash         : bfa5b35284a5d84a
+Top 5 Coeffs   : [ 6.06094e+03 -9.83000e+01  4.91840e+02  2.23000e+00  1.13563e+03]
+
+--- bbraun_ca.ico ---
+Domain         : bbraun.ca
+DCT bands    : [ 6.06093652e+03 -9.83012695e+01  4.91842987e+02 ...  5.28971339e-03
+  9.90804005e-03  1.23413086e-01]
+phash         : bfa5b35284a5d84a
+Top 5 Coeffs   : [ 6.06094e+03 -9.83000e+01  4.91840e+02  2.23000e+00  1.13563e+03]
+
+--- bbraun_ph.ico ---
+Domain         : bbraun.ph
+DCT bands    : [ 6.06093652e+03 -9.83012695e+01  4.91842987e+02 ...  5.28971339e-03
+  9.90804005e-03  1.23413086e-01]
+phash         : bfa5b35284a5d84a
+Top 5 Coeffs   : [ 6.06094e+03 -9.83000e+01  4.91840e+02  2.23000e+00  1.13563e+03]
+
+--- bbraun_rs.ico ---
+Domain         : bbraun.rs
+DCT bands    : [ 6.06093652e+03 -9.83012695e+01  4.91842987e+02 ...  5.28971339e-03
+  9.90804005e-03  1.23413086e-01]
+phash         : bfa5b35284a5d84a
+Top 5 Coeffs   : [ 6.06094e+03 -9.83000e+01  4.91840e+02  2.23000e+00  1.13563e+03]
+
+--- benu_ee.ico ---
+Domain         : benu.ee
+DCT bands    : [ 6.05678125e+03 -3.52842407e+01  5.55859863e+02 ...  3.09244799e-03
+  2.15657544e-03  1.27176926e-01]
+phash         : b436e1cd06371ace
+Top 5 Coeffs   : [6056.78  -35.28  555.86   11.02  -73.06]
+
+--- berlitz-augsburg_de.png ---
+Domain         : berlitz-augsburg.de
+DCT bands    : [ 3.83721851e+03 -5.91304565e+02  8.99769287e+02 ...  2.25240067e-01
+  2.69571934e-02  8.11360702e-02]
+phash         : afa537d0a5349c4a
+Top 5 Coeffs   : [3837.22 -591.3   899.77 -219.99 1272.81]
+
+--- berlitz-dublin_ie.jpg ---
+Domain         : berlitz-dublin.ie
+DCT bands    : [ 4.27496875e+03  3.54627533e+01 -8.91016617e+01 ...  1.22477217e-02
+  2.12198887e-02  1.81477871e-02]
+phash         : dfd3cf0cd2a0b4c0
+Top 5 Coeffs   : [4274.97   35.46  -89.1    33.49  414.06]
+
+--- berlitzph_com.ico ---
+Domain         : berlitzph.com
+DCT bands    : [ 3.79918726e+03 -5.84494019e+02  9.08325195e+02 ...  2.16084793e-01
+  2.45157871e-02  6.65893555e-02]
+phash         : afa537d0a5349c4a
+Top 5 Coeffs   : [3799.19 -584.49  908.33 -229.49 1269.15]
+
+--- besins-healthcare_se.png ---
+Domain         : besins-healthcare.se
+DCT bands    : [ 4.11171875e+03 -1.71309647e+02  9.49439545e+01 ...  7.83284474e-03
+  2.09960938e-02  3.06193028e-02]
+phash         : ab0af422d91bf433
+Top 5 Coeffs   : [4111.72 -171.31   94.94 -135.55  396.44]
+
+--- bioderma-sk_com.ico ---
+Domain         : bioderma-sk.com
+DCT bands    : [ 6.81196826e+03 -1.08697319e+02  1.20311462e+03 ...  2.42106128e-03
+  3.01106763e-03  2.52034515e-01]
+phash         : bc36c3c9c326cd89
+Top 5 Coeffs   : [6811.97 -108.7  1203.11  158.72  125.34]
+
+--- bioderma_co_za.ico ---
+Domain         : bioderma.co.za
+DCT bands    : [ 6.81196826e+03 -1.08697319e+02  1.20311462e+03 ...  2.42106128e-03
+  3.01106763e-03  2.52034515e-01]
+phash         : bc36c3c9c326cd89
+Top 5 Coeffs   : [6811.97 -108.7  1203.11  158.72  125.34]
+
+--- bioderma_it.ico ---
+Domain         : bioderma.it
+DCT bands    : [ 6.81196826e+03 -1.08697319e+02  1.20311462e+03 ...  2.42106128e-03
+  3.01106763e-03  2.52034515e-01]
+phash         : bc36c3c9c326cd89
+Top 5 Coeffs   : [6811.97 -108.7  1203.11  158.72  125.34]
+
+--- bmw-motorrad-euromotos-lyon_fr.ico ---
+Domain         : bmw-motorrad-euromotos-lyon.fr
+DCT bands    : [ 6.15849951e+03 -9.40105629e+00  5.36010376e+02 ...  8.23974609e-03
+  8.03629588e-03  1.82902023e-01]
+phash         : a53bebe4f09030cd
+Top 5 Coeffs   : [ 6.1585e+03 -9.4000e+00  5.3601e+02 -2.2000e+00 -3.1980e+01]
+
+--- bonprix_nl.ico ---
+Domain         : bonprix.nl
+DCT bands    : [ 6.43190625e+03 -6.42931442e+01  2.47256409e+02 ...  5.37109375e-03
+  6.53076172e-03  2.11018875e-01]
+phash         : b49cfa6361636598
+Top 5 Coeffs   : [6431.91  -64.29  247.26  112.89 -216.53]
+
+--- bosch-industry-consulting_com.ico ---
+Domain         : bosch-industry-consulting.com
+DCT bands    : [ 6.58696826e+03  1.73103309e+00 -6.77533188e+01 ...  8.32112599e-03
+  7.58870458e-03  1.82128906e-01]
+phash         : d857afea2505603d
+Top 5 Coeffs   : [ 6.58697e+03  1.73000e+00 -6.77500e+01  7.49000e+00  3.88720e+02]
+
+--- brother_com_pe.svg ---
+Domain         : brother.com.pe
+DCT bands    : [8.15999951e+03 0.00000000e+00 0.00000000e+00 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : 8000000000000000
+Top 5 Coeffs   : [8160.    0.    0.    0.    0.]
+
+--- carglass_cz.png ---
+Domain         : carglass.cz
+DCT bands    : [ 5.61268701e+03 -1.45768335e+03  2.60513246e-01 ...  1.11897790e-03
+  0.00000000e+00  1.62780762e-01]
+phash         : aa7aca5af246fc01
+Top 5 Coeffs   : [ 5.61269e+03 -1.45768e+03  2.60000e-01 -1.61560e+02  2.50000e-01]
+
+--- carglass_gr.ico ---
+Domain         : carglass.gr
+DCT bands    : [6.24587500e+03 9.51379395e+01 5.05517670e+02 ... 6.10351562e-04
+ 4.78108739e-03 2.06339523e-01]
+phash         : e95696a160573de8
+Top 5 Coeffs   : [6245.88   95.14  505.52  -41.91   67.12]
+
+--- carglass_hu.ico ---
+Domain         : carglass.hu
+DCT bands    : [ 6.51493652e+03 -7.82536499e+02  3.63608521e+02 ...  8.34147155e-04
+  1.93277991e-03  2.30875656e-01]
+phash         : bf6ac09c90e50d79
+Top 5 Coeffs   : [6514.94 -782.54  363.61  199.35  329.15]
+
+--- carglass_rs.png ---
+Domain         : carglass.rs
+DCT bands    : [7.84531250e+03 1.07440582e+02 1.81570236e+02 ... 1.44449866e-03
+ 5.49316406e-04 2.98421234e-01]
+phash         : ee4a91a56e5a91a5
+Top 5 Coeffs   : [7845.31  107.44  181.57 -106.79   17.84]
+
+--- carlsjr_com_sg.png ---
+Domain         : carlsjr.com.sg
+DCT bands    : [7.46928125e+03 6.21070938e+01 5.34586853e+02 ... 2.92968750e-03
+ 4.41487646e-03 2.18159989e-01]
+phash         : e4968d71531cbd43
+Top 5 Coeffs   : [ 7.46928e+03  6.21100e+01  5.34590e+02 -1.04240e+02 -1.13000e+00]
+
+--- caspak_co_nz.ico ---
+Domain         : caspak.co.nz
+DCT bands    : [ 6.01621924e+03 -3.05410810e-02  2.98706360e+02 ...  9.09423828e-03
+  9.23665334e-03  1.45446777e-01]
+phash         : eac3a056934e9f16
+Top 5 Coeffs   : [ 6.01622e+03 -3.00000e-02  2.98710e+02  2.30000e-01  7.69050e+02]
+
+--- cdlbarreiras_com_br.jpg ---
+Domain         : cdlbarreiras.com.br
+DCT bands    : [5.12331250e+03 3.78965881e+02 1.09812842e+03 ... 1.42415368e-03
+ 6.91731786e-03 1.34073898e-01]
+phash         : fad0853fc017d44b
+Top 5 Coeffs   : [5123.31  378.97 1098.13  207.93  591.06]
+
+--- cdu-aldenhoven_de.png ---
+Domain         : cdu-aldenhoven.de
+DCT bands    : [ 7.29784326e+03 -8.57809296e+01  4.81733765e+02 ...  1.62760422e-04
+  2.64485687e-04  2.64526367e-01]
+phash         : bec1953ec13e30c5
+Top 5 Coeffs   : [7297.84  -85.78  481.73   95.49  177.01]
+
+--- cdviberica_com.png ---
+Domain         : cdviberica.com
+DCT bands    : [5.51215576e+03 1.26980022e-01 3.81658600e+02 ... 1.56656897e-03
+ 2.78727221e-03 1.82312012e-01]
+phash         : ea8ae837a2351dd8
+Top 5 Coeffs   : [ 5.51216e+03  1.30000e-01  3.81660e+02 -3.00000e-02  8.39600e+01]
+
+--- chip_pl.png ---
+Domain         : chip.pl
+DCT bands    : [ 4.62518750e+03  3.26125702e+02 -5.23324219e+02 ...  1.85139978e-03
+  3.39762378e-03  9.88159180e-02]
+phash         : c1391ec66b39246f
+Top 5 Coeffs   : [4625.19  326.13 -523.32 -351.8  -964.09]
+
+--- compo_de.png ---
+Domain         : compo.de
+DCT bands    : [5.22893701e+03 5.85729828e+01 1.26557983e+03 ... 8.13802108e-05
+ 0.00000000e+00 5.20833321e-02]
+phash         : eae5c43e968c9a92
+Top 5 Coeffs   : [5228.94   58.57 1265.58  -43.9   472.56]
+
+--- crif_pl.ico ---
+Domain         : crif.pl
+DCT bands    : [7.66312451e+03 2.66192932e+02 1.34178772e+02 ... 2.88899732e-03
+ 3.98763036e-03 2.59724945e-01]
+phash         : ea98952b5a64c79a
+Top 5 Coeffs   : [7663.12  266.19  134.18 -132.14   67.62]
+
+--- crocssa_co_za.png ---
+Domain         : crocssa.co.za
+DCT bands    : [ 5.21775000e+03  3.54704201e-01 -2.99578339e+02 ...  2.76692701e-03
+  3.68245435e-03  4.21142578e-02]
+phash         : c1493eb685497bb4
+Top 5 Coeffs   : [ 5.21775e+03  3.50000e-01 -2.99580e+02 -8.30000e+00 -1.27810e+02]
+
+--- crocs_ch.png ---
+Domain         : crocs.ch
+DCT bands    : [ 5.22287500e+03  5.86908770e+00 -2.99013306e+02 ...  5.08626283e-04
+  6.71386719e-04  5.91227226e-02]
+phash         : c1497eb685497bb0
+Top 5 Coeffs   : [5222.88    5.87 -299.01  -10.23 -128.19]
+
+--- crocs_co_id.png ---
+Domain         : crocs.co.id
+DCT bands    : [ 5.37662500e+03  2.16222878e+01 -2.45690125e+02 ...  5.90006530e-04
+  5.69661439e-04  3.40779610e-02]
+phash         : c3693c96c3697896
+Top 5 Coeffs   : [5376.62   21.62 -245.69  -26.98  -55.44]
+
+--- culliganheartland_com.ico ---
+Domain         : culliganheartland.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- culliganquadcities_com.ico ---
+Domain         : culliganquadcities.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- culligansiouxcity_com.ico ---
+Domain         : culligansiouxcity.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- culligantotalwater_com.ico ---
+Domain         : culligantotalwater.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- culligantulsa_com.ico ---
+Domain         : culligantulsa.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- culliganwatertreatment_com.ico ---
+Domain         : culliganwatertreatment.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- culliganwi_com.ico ---
+Domain         : culliganwi.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- cvjm-hemer_de.png ---
+Domain         : cvjm-hemer.de
+DCT bands    : [ 5.02412500e+03 -3.81171570e+01  7.40723022e+02 ...  5.35074854e-03
+  3.07210279e-03  1.21948242e-01]
+phash         : b71fcae0481735f0
+Top 5 Coeffs   : [5024.12  -38.12  740.72   19.08 -122.41]
+
+--- cvjm-muensingen_de.jpg ---
+Domain         : cvjm-muensingen.de
+DCT bands    : [6.02774951e+03 4.73562012e+02 6.14631226e+02 ... 3.47900391e-03
+ 3.68245435e-03 7.91422501e-02]
+phash         : ee7392ce850dd095
+Top 5 Coeffs   : [6027.75  473.56  614.63  -38.76  216.99]
+
+--- cvjm-pfalz_de.ico ---
+Domain         : cvjm-pfalz.de
+DCT bands    : [5.21331250e+03 9.88218307e+01 6.75914734e+02 ... 5.69661474e-03
+ 5.77799464e-03 1.31469727e-01]
+phash         : eb1ecbe29405d2c9
+Top 5 Coeffs   : [5213.31   98.82  675.91  -61.41   28.43]
+
+--- daikin-ksa_com.png ---
+Domain         : daikin-ksa.com
+DCT bands    : [ 6.80559326e+03 -8.98629089e+02  1.19419876e+02 ...  1.62760422e-04
+  8.34350586e-02  2.19909668e-01]
+phash         : bf3fe0c8d0c2c6c4
+Top 5 Coeffs   : [6805.59 -898.63  119.42  256.59  363.97]
+
+--- daikincareers_com.ico ---
+Domain         : daikincareers.com
+DCT bands    : [ 6.24056250e+03 -1.36739783e+03 -2.74254669e+02 ...  8.96809921e-02
+  1.74764004e-02  1.76289871e-01]
+phash         : 882b6b1f78705755
+Top 5 Coeffs   : [ 6.24056e+03 -1.36740e+03 -2.74250e+02 -1.43240e+02  1.71000e+00]
+
+--- daikinkuwait_com.png ---
+Domain         : daikinkuwait.com
+DCT bands    : [ 6.80559326e+03 -8.98629089e+02  1.19419876e+02 ...  1.62760422e-04
+  8.34350586e-02  2.19909668e-01]
+phash         : bf3fe0c8d0c2c6c4
+Top 5 Coeffs   : [6805.59 -898.63  119.42  256.59  363.97]
+
+--- daikintexastechnologypark_com.png ---
+Domain         : daikintexastechnologypark.com
+DCT bands    : [ 6.18406250e+03 -1.48875378e+03 -3.19688110e+02 ...  1.34277344e-03
+  9.88973007e-02  1.88069656e-01]
+phash         : 882f4f1ff8727601
+Top 5 Coeffs   : [ 6.18406e+03 -1.48875e+03 -3.19690e+02 -1.71520e+02  2.57000e+00]
+
+--- daikin_com_sg.png ---
+Domain         : daikin.com.sg
+DCT bands    : [ 6.51937549e+03 -1.02187531e+03 -4.33841438e+01 ...  2.50244141e-03
+  8.56526718e-02  1.89229324e-01]
+phash         : 9f3fe0e0c2871c39
+Top 5 Coeffs   : [ 6519.38 -1021.88   -43.38   151.35   334.13]
+
+--- daikin_com_vn.ico ---
+Domain         : daikin.com.vn
+DCT bands    : [ 6.24525000e+03 -1.36269946e+03 -2.70661224e+02 ...  8.56119767e-02
+  1.75374355e-02  1.74987793e-01]
+phash         : 882b6b1f78705755
+Top 5 Coeffs   : [ 6.24525e+03 -1.36270e+03 -2.70660e+02 -1.40130e+02  1.47000e+00]
+
+--- daikin_ge.png ---
+Domain         : daikin.ge
+DCT bands    : [ 6.80559326e+03 -8.98629089e+02  1.19419876e+02 ...  1.62760422e-04
+  8.34350586e-02  2.19909668e-01]
+phash         : bf3fe0c8d0c2c6c4
+Top 5 Coeffs   : [6805.59 -898.63  119.42  256.59  363.97]
+
+--- deheus_com_vn.png ---
+Domain         : deheus.com.vn
+DCT bands    : [ 6.52837451e+03 -4.06717926e+02  7.62666687e+02 ...  1.77001953e-03
+  2.84830737e-03  2.01314285e-01]
+phash         : bfcac0358b383c53
+Top 5 Coeffs   : [6528.37 -406.72  762.67  227.03  326.04]
+
+--- demeter-bw_de.ico ---
+Domain         : demeter-bw.de
+DCT bands    : [ 6.77243750e+03 -5.11925411e+00  7.79009033e+02 ...  4.27246094e-03
+  5.26936864e-03  1.65812179e-01]
+phash         : b24bd0a58d3c4f74
+Top 5 Coeffs   : [ 6.77244e+03 -5.12000e+00  7.79010e+02  2.90400e+01 -1.92520e+02]
+
+--- demetercs_eu.png ---
+Domain         : demetercs.eu
+DCT bands    : [ 6.51290625e+03 -8.28324814e+01 -7.10292101e+00 ...  9.76562500e-04
+  1.32242835e-03  1.89941406e-01]
+phash         : 94708b8bf5943a6b
+Top 5 Coeffs   : [6512.91  -82.83   -7.1    26.09  -29.29]
+
+--- despec_eu.svg ---
+Domain         : despec.eu
+DCT bands    : [8.15999951e+03 0.00000000e+00 0.00000000e+00 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : 8000000000000000
+Top 5 Coeffs   : [8160.    0.    0.    0.    0.]
+
+--- dulux_pl.png ---
+Domain         : dulux.pl
+DCT bands    : [1.81362488e+03 2.02647980e+02 1.25633812e+01 ... 3.45865876e-04
+ 3.45865876e-04 1.38346350e-03]
+phash         : ea2a3fc0ca3a2ecc
+Top 5 Coeffs   : [1813.62  202.65   12.56 -131.86   -1.91]
+
+--- dysartsservicecenter_com.jpg ---
+Domain         : dysartsservicecenter.com
+DCT bands    : [3399.28125     -53.68548584 -367.300354   ...    0.            0.
+    0.        ]
+phash         : 8d96b2a9694e53b8
+Top 5 Coeffs   : [3399.28  -53.69 -367.3   -54.72   50.87]
+
+--- ebayglobalshipping_com.ico ---
+Domain         : ebayglobalshipping.com
+DCT bands    : [ 3.52481250e+03 -3.73200317e+02  2.37300217e+02 ...  2.31933594e-03
+  3.86555982e-03  4.99674492e-02]
+phash         : b9ec64b3b2326266
+Top 5 Coeffs   : [3524.81 -373.2   237.3   277.46   95.88]
+
+--- ebay_cn.ico ---
+Domain         : ebay.cn
+DCT bands    : [ 5.33300000e+03 -5.44161743e+02  6.86216431e+02 ...  3.03141284e-03
+  6.42903661e-03  6.65893555e-02]
+phash         : bbc4e4e4e2333233
+Top 5 Coeffs   : [5333.   -544.16  686.22  549.69  541.34]
+
+--- ecslupsk_pl.png ---
+Domain         : ecslupsk.pl
+DCT bands    : [ 6.78290576e+03 -3.08561230e+01  3.97057983e+02 ...  3.29589844e-03
+  3.15348315e-03  2.27132156e-01]
+phash         : ae4bf0b5874a988d
+Top 5 Coeffs   : [6782.91  -30.86  397.06  -15.06  448.11]
+
+--- edenred_es.png ---
+Domain         : edenred.es
+DCT bands    : [5.34843701e+03 1.06394397e+03 1.11425195e+03 ... 3.56038404e-03
+ 5.10660792e-03 1.07421875e-01]
+phash         : eec8a1cdb507303b
+Top 5 Coeffs   : [5348.44 1063.94 1114.25 -260.79  287.25]
+
+--- einhell_ba.png ---
+Domain         : einhell.ba
+DCT bands    : [ 3.40309351e+03  1.16501381e+02 -9.62728760e+02 ...  8.34147155e-04
+  4.61832667e-03  3.82283516e-02]
+phash         : cf3830c7cd9a9265
+Top 5 Coeffs   : [3403.09  116.5  -962.73 -208.61   64.21]
+
+--- einhell_com_ar.png ---
+Domain         : einhell.com.ar
+DCT bands    : [ 3.40309351e+03  1.16501381e+02 -9.62728760e+02 ...  8.34147155e-04
+  4.61832667e-03  3.82283516e-02]
+phash         : cf3830c7cd9a9265
+Top 5 Coeffs   : [3403.09  116.5  -962.73 -208.61   64.21]
+
+--- einhell_hr.png ---
+Domain         : einhell.hr
+DCT bands    : [ 3.40309351e+03  1.16501381e+02 -9.62728760e+02 ...  8.34147155e-04
+  4.61832667e-03  3.82283516e-02]
+phash         : cf3830c7cd9a9265
+Top 5 Coeffs   : [3403.09  116.5  -962.73 -208.61   64.21]
+
+--- engie-africa_com.png ---
+Domain         : engie-africa.com
+DCT bands    : [ 6.09874951e+03 -2.87717667e+01  1.82784149e+02 ...  5.59488917e-03
+  5.51350927e-03  1.73258469e-01]
+phash         : aff0f087429e6961
+Top 5 Coeffs   : [6098.75  -28.77  182.78  -49.02  252.55]
+
+--- engie_cl.png ---
+Domain         : engie.cl
+DCT bands    : [7.59609375e+03 1.97639513e+00 9.37301331e+01 ... 2.01416016e-02
+ 3.24503593e-02 2.72318512e-01]
+phash         : eebc91431efc6130
+Top 5 Coeffs   : [ 7.59609e+03  1.98000e+00  9.37300e+01 -1.03500e+01  3.05300e+01]
+
+--- engie_co_uk.png ---
+Domain         : engie.co.uk
+DCT bands    : [ 7.16212500e+03 -2.76632595e+01  5.99950378e+02 ...  0.00000000e+00
+  0.00000000e+00  3.33333343e-01]
+phash         : bcc3d31e693186c3
+Top 5 Coeffs   : [7162.12  -27.66  599.95    9.75  304.47]
+
+--- engie_de.png ---
+Domain         : engie.de
+DCT bands    : [ 7.38296826e+03 -9.74782658e+00  5.98596680e+02 ...  4.02221680e-02
+  2.37630215e-02  2.69348145e-01]
+phash         : bc83c33ccc6196ce
+Top 5 Coeffs   : [7382.97   -9.75  598.6     9.67  128.93]
+
+--- equans_hu.png ---
+Domain         : equans.hu
+DCT bands    : [ 7.44631201e+03 -1.05802811e+02  5.29949341e+02 ...  5.79833984e-03
+  7.50732422e-03  2.43265793e-01]
+phash         : bc61c39e969c3163
+Top 5 Coeffs   : [7446.31 -105.8   529.95  153.71   99.61]
+
+--- esseskincare_sg.png ---
+Domain         : esseskincare.sg
+DCT bands    : [ 7.70962500e+03 -7.07450342e+00 -5.57174149e+01 ...  3.09244799e-03
+  4.59798193e-03  2.81941742e-01]
+phash         : 8a9cf5e1801e4b5f
+Top 5 Coeffs   : [ 7.70962e+03 -7.07000e+00 -5.57200e+01 -4.29400e+01  1.34800e+01]
+
+--- europa-union-sachsen-anhalt_de.ico ---
+Domain         : europa-union-sachsen-anhalt.de
+DCT bands    : [ 5.80115625e+03 -3.78670715e+02  9.28152832e+02 ...  3.05175781e-03
+  3.49934888e-03  1.68660477e-01]
+phash         : bfe0496a9660c51f
+Top 5 Coeffs   : [5801.16 -378.67  928.15  181.77  473.97]
+
+--- flashbay_ca.ico ---
+Domain         : flashbay.ca
+DCT bands    : [ 6.18493701e+03 -1.09670534e+01  3.38387085e+02 ...  4.82177734e-03
+  6.12386083e-03  1.83797196e-01]
+phash         : a3c6edcee40c9349
+Top 5 Coeffs   : [6184.94  -10.97  338.39   -8.86 -131.  ]
+
+--- flashbay_com_my.ico ---
+Domain         : flashbay.com.my
+DCT bands    : [ 6.18493701e+03 -1.09670534e+01  3.38387085e+02 ...  4.82177734e-03
+  6.12386083e-03  1.83797196e-01]
+phash         : a3c6edcee40c9349
+Top 5 Coeffs   : [6184.94  -10.97  338.39   -8.86 -131.  ]
+
+--- flashbay_co_nz.ico ---
+Domain         : flashbay.co.nz
+DCT bands    : [ 6.18493701e+03 -1.09670534e+01  3.38387085e+02 ...  4.82177734e-03
+  6.12386083e-03  1.83797196e-01]
+phash         : a3c6edcee40c9349
+Top 5 Coeffs   : [6184.94  -10.97  338.39   -8.86 -131.  ]
+
+--- fleishmanhillard_cn.png ---
+Domain         : fleishmanhillard.cn
+DCT bands    : [ 6.63021826e+03  3.34562836e+02 -6.34530212e+02 ...  1.79036465e-02
+  4.92350245e-03  2.09248856e-01]
+phash         : d5aaaa29aa8f2175
+Top 5 Coeffs   : [ 6630.22   334.56  -634.53   248.   -1051.18]
+
+--- fleishmanhillard_ph.png ---
+Domain         : fleishmanhillard.ph
+DCT bands    : [ 6.63021826e+03  3.34562836e+02 -6.34530212e+02 ...  1.79036465e-02
+  4.92350245e-03  2.09248856e-01]
+phash         : d5aaaa29aa8f2175
+Top 5 Coeffs   : [ 6630.22   334.56  -634.53   248.   -1051.18]
+
+--- fmc-mexico_com.ico ---
+Domain         : fmc-mexico.com
+DCT bands    : [ 6.66109375e+03 -3.84135132e+01  7.39808716e+02 ...  6.89697266e-03
+  9.29768849e-03  2.23714188e-01]
+phash         : ba0cc3d0d4d3d335
+Top 5 Coeffs   : [ 6.66109e+03 -3.84100e+01  7.39810e+02  6.29000e+00  4.04000e+00]
+
+--- ford_dn_ua.ico ---
+Domain         : ford.dn.ua
+DCT bands    : [ 4.27743750e+03  2.37038956e+02 -2.87792084e+02 ...  1.75984707e-02
+  1.67846680e-02  2.41902675e-02]
+phash         : de87c932849de2b2
+Top 5 Coeffs   : [4277.44  237.04 -287.79  156.38  167.75]
+
+--- ford_if_ua.svg ---
+Domain         : ford.if.ua
+DCT bands    : [ 6.68175000e+03 -1.52360565e+02  4.84921265e+02 ...  3.96728516e-03
+  5.45247411e-03  2.42390946e-01]
+phash         : ba34d54bc09a1fe4
+Top 5 Coeffs   : [6681.75 -152.36  484.92   61.83  281.7 ]
+
+--- ford_pl_ua.svg ---
+Domain         : ford.pl.ua
+DCT bands    : [ 6.68175000e+03 -1.52360565e+02  4.84921265e+02 ...  3.96728516e-03
+  5.45247411e-03  2.42390946e-01]
+phash         : ba34d54bc09a1fe4
+Top 5 Coeffs   : [6681.75 -152.36  484.92   61.83  281.7 ]
+
+--- ford_vn_ua.svg ---
+Domain         : ford.vn.ua
+DCT bands    : [ 6.68175000e+03 -1.52360565e+02  4.84921265e+02 ...  3.96728516e-03
+  5.45247411e-03  2.42390946e-01]
+phash         : ba34d54bc09a1fe4
+Top 5 Coeffs   : [6681.75 -152.36  484.92   61.83  281.7 ]
+
+--- freseniusmedicalcare_ca.png ---
+Domain         : freseniusmedicalcare.ca
+DCT bands    : [ 6.98693701e+03 -6.30450487e-01  7.20318237e+02 ...  3.03141284e-03
+  4.65901708e-03  2.59399414e-01]
+phash         : bb2fcbd2d0c0a331
+Top 5 Coeffs   : [ 6.98694e+03 -6.30000e-01  7.20320e+02  1.50000e-01  1.58300e+01]
+
+--- globalconnectcarrier_com.png ---
+Domain         : globalconnectcarrier.com
+DCT bands    : [ 3.99112500e+03 -1.16546192e+01  4.11511780e+02 ...  5.61523438e-03
+  8.21940135e-03  1.11328125e-01]
+phash         : abadbc5261ad9609
+Top 5 Coeffs   : [3991.12  -11.65  411.51 -353.42  332.28]
+
+--- globalconnectgroup_com.png ---
+Domain         : globalconnectgroup.com
+DCT bands    : [ 3.96178101e+03 -9.60701656e+00  4.13070374e+02 ...  1.44449866e-03
+  2.56347656e-03  1.44368485e-01]
+phash         : abadbc5261ad9609
+Top 5 Coeffs   : [3961.78   -9.61  413.07 -362.17  343.26]
+
+--- grantthornton_com_sv.png ---
+Domain         : grantthornton.com.sv
+DCT bands    : [5.55206201e+03 1.49536247e+01 8.88234009e+02 ... 3.23486328e-03
+ 4.74039698e-03 1.31164551e-01]
+phash         : fb90a48b9d7085ce
+Top 5 Coeffs   : [5552.06   14.95  888.23    8.46  711.53]
+
+--- grantthornton_com_ve.png ---
+Domain         : grantthornton.com.ve
+DCT bands    : [5.55206201e+03 1.49536247e+01 8.88234009e+02 ... 3.23486328e-03
+ 4.74039698e-03 1.31164551e-01]
+phash         : fb90a48b9d7085ce
+Top 5 Coeffs   : [5552.06   14.95  888.23    8.46  711.53]
+
+--- greatplacetowork_com_bo.png ---
+Domain         : greatplacetowork.com.bo
+DCT bands    : [ 3.27962476e+03  5.28224487e+02 -2.89518188e+02 ...  3.25520843e-04
+  6.10351562e-05  4.06901054e-05]
+phash         : d09e9d213edb2561
+Top 5 Coeffs   : [3279.62  528.22 -289.52    5.21 -192.66]
+
+--- greatplacetowork_com_cy.png ---
+Domain         : greatplacetowork.com.cy
+DCT bands    : [ 7.74068750e+03 -5.65835724e+01  3.41154909e+00 ...  1.45263672e-02
+  7.52360001e-02  1.99483231e-01]
+phash         : aff8d807d039603b
+Top 5 Coeffs   : [ 7.74069e+03 -5.65800e+01  3.41000e+00 -3.83100e+01  7.63000e+00]
+
+--- greatplacetowork_se.png ---
+Domain         : greatplacetowork.se
+DCT bands    : [ 3.86971851e+03  4.27700195e+02 -2.66638367e+02 ...  3.01106763e-03
+  2.62451172e-03  2.86865234e-03]
+phash         : c09e1f613edb2561
+Top 5 Coeffs   : [3869.72  427.7  -266.64  -37.79 -170.09]
+
+--- honda-pirola_com.ico ---
+Domain         : honda-pirola.com
+DCT bands    : [6.39081250e+03 1.16727705e+01 1.69078735e+02 ... 4.13004542e-03
+ 2.17692065e-03 2.09696457e-01]
+phash         : fa81857eaa1959a3
+Top 5 Coeffs   : [6390.81   11.67  169.08   16.92  984.63]
+
+--- hyundaiblacktown_com_au.png ---
+Domain         : hyundaiblacktown.com.au
+DCT bands    : [ 6.57259326e+03 -2.02755022e+00  4.31721588e+02 ...  4.31315089e-03
+  5.94075536e-03  2.25748703e-01]
+phash         : b9f3c60e45701a97
+Top 5 Coeffs   : [ 6.57259e+03 -2.03000e+00  4.31720e+02  4.12000e+00  3.79390e+02]
+
+--- ibc-solar_jp.png ---
+Domain         : ibc-solar.jp
+DCT bands    : [ 7.37868652e+03 -1.07312103e+02  3.95510010e+02 ...  1.72932947e-03
+  2.54313159e-03  2.64221191e-01]
+phash         : bf3cc0c1c136b696
+Top 5 Coeffs   : [7378.69 -107.31  395.51  100.32  247.36]
+
+--- ibc-solar_pl.png ---
+Domain         : ibc-solar.pl
+DCT bands    : [ 7.37868652e+03 -1.07312103e+02  3.95510010e+02 ...  1.72932947e-03
+  2.54313159e-03  2.64221191e-01]
+phash         : bf3cc0c1c136b696
+Top 5 Coeffs   : [7378.69 -107.31  395.51  100.32  247.36]
+
+--- ikea_com_hk.png ---
+Domain         : ikea.com.hk
+DCT bands    : [ 6.24471826e+03  4.96912289e+00 -2.11774612e+02 ...  3.90625000e-03
+  5.20833349e-03  1.71875000e-01]
+phash         : c414bbfb44ac1755
+Top 5 Coeffs   : [ 6.24472e+03  4.97000e+00 -2.11770e+02 -2.09800e+01 -1.05890e+02]
+
+--- ikea_com_tr.ico ---
+Domain         : ikea.com.tr
+DCT bands    : [ 6.39162500e+03 -8.14685249e+00 -2.20709503e+02 ...  0.00000000e+00
+  5.20833349e-03  1.87500000e-01]
+phash         : 90b5ef4b30b4474b
+Top 5 Coeffs   : [6391.62   -8.15 -220.71   15.92  -83.13]
+
+--- ikea_ee.ico ---
+Domain         : ikea.ee
+DCT bands    : [ 6.55521826e+03  6.73316669e+00 -2.48447998e+02 ...  0.00000000e+00
+  0.00000000e+00  1.97916672e-01]
+phash         : d03aafc57a3a05c5
+Top 5 Coeffs   : [6555.22    6.73 -248.45   12.63  -53.11]
+
+--- ikea_es.ico ---
+Domain         : ikea.es
+DCT bands    : [ 6.51790576e+03  6.18526220e+00 -2.50934082e+02 ...  5.20833349e-03
+  0.00000000e+00  1.87500000e-01]
+phash         : d03aafc57a3a05c5
+Top 5 Coeffs   : [ 6.51791e+03  6.19000e+00 -2.50930e+02  1.24500e+01 -5.58100e+01]
+
+--- immunospot_eu.png ---
+Domain         : immunospot.eu
+DCT bands    : [ 6.57918701e+03 -1.45771973e+02  2.65593811e+02 ...  5.35074854e-03
+  6.89697266e-03  2.01761886e-01]
+phash         : bee6e4195b9c82c4
+Top 5 Coeffs   : [6579.19 -145.77  265.59  112.18  304.85]
+
+--- inductothermgroup_com_br.png ---
+Domain         : inductothermgroup.com.br
+DCT bands    : [ 7.34068652e+03 -3.12214565e+00  9.70889771e+02 ...  4.25211573e-03
+  5.14729833e-03  2.31689453e-01]
+phash         : b2328acecf8b8b38
+Top 5 Coeffs   : [ 7.34069e+03 -3.12000e+00  9.70890e+02  6.40000e+00 -5.23910e+02]
+
+--- inductotherm_co_kr.png ---
+Domain         : inductotherm.co.kr
+DCT bands    : [ 7.34068652e+03 -3.12214565e+00  9.70889771e+02 ...  4.25211573e-03
+  5.14729833e-03  2.31689453e-01]
+phash         : b2328acecf8b8b38
+Top 5 Coeffs   : [ 7.34069e+03 -3.12000e+00  9.70890e+02  6.40000e+00 -5.23910e+02]
+
+--- infiniti-abudhabi_com.png ---
+Domain         : infiniti-abudhabi.com
+DCT bands    : [ 7.19371826e+03 -1.32464540e+00 -1.11249924e+02 ...  8.87044240e-03
+  1.13728838e-02  2.16613770e-01]
+phash         : 88f6ff0d40d63f20
+Top 5 Coeffs   : [ 7.19372e+03 -1.32000e+00 -1.11250e+02 -6.80000e-01  9.20700e+01]
+
+--- infiniti-bahrain_com.png ---
+Domain         : infiniti-bahrain.com
+DCT bands    : [ 7.19371826e+03 -1.32464540e+00 -1.11249924e+02 ...  8.87044240e-03
+  1.13728838e-02  2.16613770e-01]
+phash         : 88f6ff0d40d63f20
+Top 5 Coeffs   : [ 7.19372e+03 -1.32000e+00 -1.11250e+02 -6.80000e-01  9.20700e+01]
+
+--- infiniti-dubai_com.png ---
+Domain         : infiniti-dubai.com
+DCT bands    : [ 7.19371826e+03 -1.32464540e+00 -1.11249924e+02 ...  8.87044240e-03
+  1.13728838e-02  2.16613770e-01]
+phash         : 88f6ff0d40d63f20
+Top 5 Coeffs   : [ 7.19372e+03 -1.32000e+00 -1.11250e+02 -6.80000e-01  9.20700e+01]
+
+--- intersport-arc1950_com.png ---
+Domain         : intersport-arc1950.com
+DCT bands    : [ 6.73675000e+03 -1.93868980e+01  8.10513184e+02 ...  1.48518884e-03
+  3.21451831e-03  2.41292313e-01]
+phash         : b84e87b1664f38cc
+Top 5 Coeffs   : [6736.75  -19.39  810.51  153.84  371.72]
+
+--- intersport-martinique-guadeloupe_fr.png ---
+Domain         : intersport-martinique-guadeloupe.fr
+DCT bands    : [6.90018701e+03 8.25905762e+02 4.51092072e+02 ... 1.24104822e-03
+ 1.68863928e-03 2.57100433e-01]
+phash         : e699ac6b53a48965
+Top 5 Coeffs   : [6900.19  825.91  451.09 -297.97 -285.66]
+
+--- intertongn_es.jpg ---
+Domain         : intertongn.es
+DCT bands    : [6.17784424e+03 6.86311722e-02 8.26616577e+02 ... 0.00000000e+00
+ 0.00000000e+00 0.00000000e+00]
+phash         : e630993399cc669b
+Top 5 Coeffs   : [ 6.17784e+03  7.00000e-02  8.26620e+02 -1.40000e-01 -7.38550e+02]
+
+--- isic_de.png ---
+Domain         : isic.de
+DCT bands    : [5.91500000e+03 9.98550892e+00 4.60624451e+02 ... 9.54182912e-03
+ 1.06608076e-02 8.00577775e-02]
+phash         : eae3ad1cd063869c
+Top 5 Coeffs   : [ 5.9150e+03  9.9900e+00  4.6062e+02 -1.6100e+00  1.2794e+02]
+
+--- isover_hu.png ---
+Domain         : isover.hu
+DCT bands    : [6.90262500e+03 6.35539368e+02 5.77194641e+02 ... 3.41796875e-03
+ 5.39143896e-03 1.98750809e-01]
+phash         : ea91956b9a256d94
+Top 5 Coeffs   : [6902.62  635.54  577.19 -503.72  408.  ]
+
+--- isover_se.png ---
+Domain         : isover.se
+DCT bands    : [6.90262500e+03 6.35539368e+02 5.77194641e+02 ... 3.41796875e-03
+ 5.39143896e-03 1.98750809e-01]
+phash         : ea91956b9a256d94
+Top 5 Coeffs   : [6902.62  635.54  577.19 -503.72  408.  ]
+
+--- isover_ua.png ---
+Domain         : isover.ua
+DCT bands    : [6.90262500e+03 6.35539368e+02 5.77194641e+02 ... 3.41796875e-03
+ 5.39143896e-03 1.98750809e-01]
+phash         : ea91956b9a256d94
+Top 5 Coeffs   : [6902.62  635.54  577.19 -503.72  408.  ]
+
+--- julis-nuernberg_de.png ---
+Domain         : julis-nuernberg.de
+DCT bands    : [ 4.40065625e+03 -9.31637764e+00 -4.33616943e+02 ...  4.19108057e-03
+  0.00000000e+00  0.00000000e+00]
+phash         : 93923c65c96f6139
+Top 5 Coeffs   : [4400.66   -9.32 -433.62   51.42 -186.91]
+
+--- julis-sh_de.png ---
+Domain         : julis-sh.de
+DCT bands    : [6.26115625e+03 2.38112688e+00 5.93470093e+02 ... 2.03450516e-04
+ 8.13802108e-05 2.84830737e-03]
+phash         : ecc79b3026c9cc65
+Top 5 Coeffs   : [ 6.26116e+03  2.38000e+00  5.93470e+02 -4.97000e+01  1.30550e+02]
+
+--- jungheinrich_com_sg.ico ---
+Domain         : jungheinrich.com.sg
+DCT bands    : [5.79593750e+03 7.59738922e+01 2.15637549e+03 ... 2.25830078e-03
+ 3.94693995e-03 2.01436356e-01]
+phash         : e5c396c499c69a36
+Top 5 Coeffs   : [5795.94   75.97 2156.38 -128.88 -204.77]
+
+--- kalyanmachines_com.png ---
+Domain         : kalyanmachines.com
+DCT bands    : [ 6.46259424e+03 -4.06724892e+01  1.23806946e+03 ...  1.01969399e-01
+  2.07722988e-02  9.54793319e-02]
+phash         : bc34c7619e869999
+Top 5 Coeffs   : [6462.59  -40.67 1238.07   30.4   113.71]
+
+--- kapanfastigheter_se.png ---
+Domain         : kapanfastigheter.se
+DCT bands    : [ 6.30056152e+03 -1.49282023e-01  4.72975616e+02 ...  3.76383471e-03
+  1.85139978e-03  1.52750656e-01]
+phash         : abe3f4d8816fc908
+Top 5 Coeffs   : [ 6.30056e+03 -1.50000e-01  4.72980e+02 -7.00000e-02  4.96160e+02]
+
+--- kia-ci_com.jpg ---
+Domain         : kia-ci.com
+DCT bands    : [ 7.31743799e+03 -2.74463501e+01  4.86352158e+00 ...  3.13313794e-03
+  8.52457713e-03  2.66377777e-01]
+phash         : b2d2ed2c12d3ad2c
+Top 5 Coeffs   : [ 7.31744e+03 -2.74500e+01  4.86000e+00  6.56500e+01 -1.60300e+02]
+
+--- kia-crimea_ru.png ---
+Domain         : kia-crimea.ru
+DCT bands    : [ 7.51499951e+03 -1.70925713e+01  5.12553673e+01 ...  3.74348951e-03
+  4.25211573e-03  2.68839508e-01]
+phash         : b252cd8d3672c1ad
+Top 5 Coeffs   : [7515.    -17.09   51.26   55.01  -46.04]
+
+--- kia-plt_ru.png ---
+Domain         : kia-plt.ru
+DCT bands    : [ 7.51499951e+03 -1.70925713e+01  5.12553673e+01 ...  3.74348951e-03
+  4.25211573e-03  2.68839508e-01]
+phash         : b252cd8d3672c1ad
+Top 5 Coeffs   : [7515.    -17.09   51.26   55.01  -46.04]
+
+--- kierpensions_co_uk.png ---
+Domain         : kierpensions.co.uk
+DCT bands    : [ 5.41128076e+03 -1.00331921e+03  4.26948944e+02 ...  7.36490870e-03
+  7.08007812e-03  1.12874351e-01]
+phash         : a03ad26fd83b7614
+Top 5 Coeffs   : [ 5411.28 -1003.32   426.95  -599.38   -48.9 ]
+
+--- kumonla_com.ico ---
+Domain         : kumonla.com
+DCT bands    : [ 4.64225000e+03 -4.34550171e+02  6.73794434e+02 ...  1.34745285e-01
+  5.52368164e-02  9.05354787e-03]
+phash         : be34c94c93d9e622
+Top 5 Coeffs   : [4642.25 -434.55  673.79  188.41  500.77]
+
+--- kuraray_us_com.png ---
+Domain         : kuraray.us.com
+DCT bands    : [ 7.47193701e+03 -2.24112396e+02  4.36089935e+02 ...  0.00000000e+00
+  7.09838867e-02  2.62349457e-01]
+phash         : bc9ac936c36cc319
+Top 5 Coeffs   : [7471.94 -224.11  436.09  198.25  273.69]
+
+--- lamborghini-zh_ch.png ---
+Domain         : lamborghini-zh.ch
+DCT bands    : [ 5.95421875e+03 -1.08959000e+02  1.49498987e+03 ...  4.74039698e-03
+  6.42903661e-03  1.92260742e-01]
+phash         : bb6085de9c32c378
+Top 5 Coeffs   : [5954.22 -108.96 1494.99   95.76  -10.74]
+
+--- linde-electronics_com.png ---
+Domain         : linde-electronics.com
+DCT bands    : [ 2.69046851e+03 -2.18233551e+02 -2.24741287e+02 ...  3.23486328e-03
+  2.84830737e-03  1.17797852e-02]
+phash         : 956ab8b3668c699c
+Top 5 Coeffs   : [2690.47 -218.23 -224.74  102.52  -25.67]
+
+--- linde-finance_com.png ---
+Domain         : linde-finance.com
+DCT bands    : [ 2.69028101e+03 -2.41945381e+01 -2.19635590e+02 ...  2.54313159e-03
+  2.56347656e-03  2.06298828e-02]
+phash         : 8c3933c6cc39b3c6
+Top 5 Coeffs   : [2690.28  -24.19 -219.64  -28.2    61.04]
+
+--- linde-gas_at.png ---
+Domain         : linde-gas.at
+DCT bands    : [ 2.69046851e+03 -2.18233551e+02 -2.24741287e+02 ...  3.23486328e-03
+  2.84830737e-03  1.17797852e-02]
+phash         : 956ab8b3668c699c
+Top 5 Coeffs   : [2690.47 -218.23 -224.74  102.52  -25.67]
+
+--- linde-gas_ee.png ---
+Domain         : linde-gas.ee
+DCT bands    : [ 2.75115625e+03 -2.17393829e+02 -2.17764923e+02 ...  2.36002612e-03
+  1.93277991e-03  1.50960283e-02]
+phash         : 956ab8b3668c699c
+Top 5 Coeffs   : [2751.16 -217.39 -217.76  100.76  -26.01]
+
+--- linde-gas_fi.png ---
+Domain         : linde-gas.fi
+DCT bands    : [ 2.75115625e+03 -2.17393829e+02 -2.17764923e+02 ...  2.36002612e-03
+  1.93277991e-03  1.50960283e-02]
+phash         : 956ab8b3668c699c
+Top 5 Coeffs   : [2751.16 -217.39 -217.76  100.76  -26.01]
+
+--- linde-gas_nl.png ---
+Domain         : linde-gas.nl
+DCT bands    : [5.24353076e+03 3.17739067e+01 1.23737439e+03 ... 5.06591797e-03
+ 5.87972021e-03 1.42272949e-01]
+phash         : eee1b01e8784da69
+Top 5 Coeffs   : [5243.53   31.77 1237.37  -94.91  451.88]
+
+--- linde-gaz_pl.png ---
+Domain         : linde-gaz.pl
+DCT bands    : [ 2.71615625e+03 -2.39587677e+02 -2.40021515e+02 ...  3.17382812e-03
+  3.56038404e-03  1.26953125e-02]
+phash         : 956ab8b3668c6b94
+Top 5 Coeffs   : [2716.16 -239.59 -240.02  118.01  -35.01]
+
+--- lindesaude_pt.ico ---
+Domain         : lindesaude.pt
+DCT bands    : [ 2.73478125e+03 -2.86923733e+01 -2.27225266e+02 ...  2.97037768e-03
+  5.35074854e-03  1.64184570e-02]
+phash         : 8c3933c6cc39b3c6
+Top 5 Coeffs   : [2734.78  -28.69 -227.23  -20.43   54.34]
+
+--- linde_co_th.jpg ---
+Domain         : linde.co.th
+DCT bands    : [ 2.63284375e+03 -2.09594818e+02 -2.26506271e+02 ...  1.97346997e-03
+  3.25520826e-03  1.35294599e-02]
+phash         : 956ab8b3668c699c
+Top 5 Coeffs   : [2632.84 -209.59 -226.51  102.66  -26.58]
+
+--- linde_pe.png ---
+Domain         : linde.pe
+DCT bands    : [ 2.69028101e+03 -2.41945381e+01 -2.19635590e+02 ...  2.54313159e-03
+  2.56347656e-03  2.06298828e-02]
+phash         : 8c3933c6cc39b3c6
+Top 5 Coeffs   : [2690.28  -24.19 -219.64  -28.2    61.04]
+
+--- linexaus_com_au.png ---
+Domain         : linexaus.com.au
+DCT bands    : [ 5.69931250e+03 -1.52866688e+01  1.10319934e+03 ...  3.01106763e-03
+  2.78727221e-03  6.44327775e-02]
+phash         : bcb4cb4bb0962c3c
+Top 5 Coeffs   : [5699.31  -15.29 1103.2    10.07  132.99]
+
+--- linexcoloradosprings_com.png ---
+Domain         : linexcoloradosprings.com
+DCT bands    : [ 7.30959326e+03 -2.21374603e+02  3.48397583e+02 ...  9.35872376e-04
+  1.46484375e-03  2.88370758e-01]
+phash         : afd0d06664999967
+Top 5 Coeffs   : [7309.59 -221.37  348.4   -41.41  115.06]
+
+--- manpowergroup_no.png ---
+Domain         : manpowergroup.no
+DCT bands    : [5.89681201e+03 4.45517670e+02 4.45364532e+02 ... 1.26139319e-03
+ 1.62760413e-03 1.64571121e-01]
+phash         : ea52d4b982bb9f08
+Top 5 Coeffs   : [5896.81  445.52  445.36 -306.23  300.94]
+
+--- mapfre_pr.png ---
+Domain         : mapfre.pr
+DCT bands    : [ 6.19340576e+03 -1.70370436e+00  2.76424500e+02 ...  1.99381518e-03
+  2.90934253e-03  2.02697754e-01]
+phash         : b639bac274ccf031
+Top 5 Coeffs   : [ 6.19341e+03 -1.70000e+00  2.76420e+02  6.50000e-01 -4.50600e+01]
+
+--- mateco_nl.ico ---
+Domain         : mateco.nl
+DCT bands    : [6.45784326e+03 9.47461395e+01 3.75854218e+02 ... 4.47591156e-04
+ 1.13932288e-03 2.29695633e-01]
+phash         : fa788183567c6b68
+Top 5 Coeffs   : [6457.84   94.75  375.85   58.    358.62]
+
+--- mazda-angola-autozuid_com.png ---
+Domain         : mazda-angola-autozuid.com
+DCT bands    : [ 5.94737402e+03 -5.70173025e-01 -2.73710571e+02 ...  3.64176440e-03
+  4.06901026e-03  1.97774246e-01]
+phash         : 9a6cbb87a13cc2b2
+Top 5 Coeffs   : [ 5.94737e+03 -5.70000e-01 -2.73710e+02  1.77000e+00  1.01510e+02]
+
+--- mazda-autohaus-albstadt-auto-domicil-ebingen_de.png ---
+Domain         : mazda-autohaus-albstadt-auto-domicil-ebingen.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-banaszak-kleve_de.png ---
+Domain         : mazda-autohaus-banaszak-kleve.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-becker-homburg-bruchhof_de.png ---
+Domain         : mazda-autohaus-becker-homburg-bruchhof.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-blank-dinkelsbuehl_de.png ---
+Domain         : mazda-autohaus-blank-dinkelsbuehl.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-buelo-naumburg_de.png ---
+Domain         : mazda-autohaus-buelo-naumburg.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-doerenkaemper-bad-hersfeld_de.png ---
+Domain         : mazda-autohaus-doerenkaemper-bad-hersfeld.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-dorner-riedlingen_de.png ---
+Domain         : mazda-autohaus-dorner-riedlingen.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-elstner-jena_de.png ---
+Domain         : mazda-autohaus-elstner-jena.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-fenzl-hauzenberg_de.png ---
+Domain         : mazda-autohaus-fenzl-hauzenberg.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-fritsche-grossschoenau_de.png ---
+Domain         : mazda-autohaus-fritsche-grossschoenau.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-haese-erkrath-hochdahl_de.png ---
+Domain         : mazda-autohaus-haese-erkrath-hochdahl.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-hansmann-kassel_de.png ---
+Domain         : mazda-autohaus-hansmann-kassel.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-hellwig-hoyerswerda_de.png ---
+Domain         : mazda-autohaus-hellwig-hoyerswerda.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-henseler-schwedt_de.png ---
+Domain         : mazda-autohaus-henseler-schwedt.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-kaschmieder-waren_de.png ---
+Domain         : mazda-autohaus-kaschmieder-waren.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-kilger-regen_de.png ---
+Domain         : mazda-autohaus-kilger-regen.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-lackmann-sendenhorst_de.png ---
+Domain         : mazda-autohaus-lackmann-sendenhorst.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-lotspeich-muenchen_de.png ---
+Domain         : mazda-autohaus-lotspeich-muenchen.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-ludwig-halle-neustadt_de.png ---
+Domain         : mazda-autohaus-ludwig-halle-neustadt.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-mueller-und-thurnes-tholey_de.png ---
+Domain         : mazda-autohaus-mueller-und-thurnes-tholey.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-roessel-birkenau_de.png ---
+Domain         : mazda-autohaus-roessel-birkenau.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-schindlbeck-straubing_de.png ---
+Domain         : mazda-autohaus-schindlbeck-straubing.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-sturne-grimma_de.png ---
+Domain         : mazda-autohaus-sturne-grimma.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-sturne-rochlitz_de.png ---
+Domain         : mazda-autohaus-sturne-rochlitz.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-tabbouch-speyer_de.png ---
+Domain         : mazda-autohaus-tabbouch-speyer.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-thoss-falkenstein_de.png ---
+Domain         : mazda-autohaus-thoss-falkenstein.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-autohaus-wassing-ahaus-wuellen_de.png ---
+Domain         : mazda-autohaus-wassing-ahaus-wuellen.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-krakow-kazokuluzar_pl.png ---
+Domain         : mazda-krakow-kazokuluzar.pl
+DCT bands    : [7.41059375e+03 5.35910378e+01 3.41146210e+02 ... 3.25520826e-03
+ 4.76074219e-03 2.61393219e-01]
+phash         : eac995164a699da6
+Top 5 Coeffs   : [ 7.41059e+03  5.35900e+01  3.41150e+02 -3.93000e+00  3.73070e+02]
+
+--- mazda-ma_com.ico ---
+Domain         : mazda-ma.com
+DCT bands    : [ 6.82896875e+03  1.49417633e+02 -1.72794342e+02 ...  6.63248682e-03
+  1.01114912e-02  1.98201492e-01]
+phash         : df98a895750ad266
+Top 5 Coeffs   : [6828.97  149.42 -172.79   91.87  118.54]
+
+--- mazda-poznan-voyager_pl.png ---
+Domain         : mazda-poznan-voyager.pl
+DCT bands    : [7.41059375e+03 5.35910378e+01 3.41146210e+02 ... 3.25520826e-03
+ 4.76074219e-03 2.61393219e-01]
+phash         : eac995164a699da6
+Top 5 Coeffs   : [ 7.41059e+03  5.35900e+01  3.41150e+02 -3.93000e+00  3.73070e+02]
+
+--- mazda-rzeszow-czach_pl.png ---
+Domain         : mazda-rzeszow-czach.pl
+DCT bands    : [7.41059375e+03 5.35910378e+01 3.41146210e+02 ... 3.25520826e-03
+ 4.76074219e-03 2.61393219e-01]
+phash         : eac995164a699da6
+Top 5 Coeffs   : [ 7.41059e+03  5.35900e+01  3.41150e+02 -3.93000e+00  3.73070e+02]
+
+--- mazda-service-koch-ludwigsfelde_de.png ---
+Domain         : mazda-service-koch-ludwigsfelde.de
+DCT bands    : [ 6.86112451e+03  7.22418671e+01 -1.85390289e+02 ...  4.37418604e-03
+  5.08626318e-03  2.17366531e-01]
+phash         : d75aa8b5750982e6
+Top 5 Coeffs   : [ 6.86112e+03  7.22400e+01 -1.85390e+02  4.86800e+01 -6.35000e+00]
+
+--- mazda-sosnowiec-mirai_pl.png ---
+Domain         : mazda-sosnowiec-mirai.pl
+DCT bands    : [7.41059375e+03 5.35910378e+01 3.41146210e+02 ... 3.25520826e-03
+ 4.76074219e-03 2.61393219e-01]
+phash         : eac995164a699da6
+Top 5 Coeffs   : [ 7.41059e+03  5.35900e+01  3.41150e+02 -3.93000e+00  3.73070e+02]
+
+--- mazdabali_co_id.png ---
+Domain         : mazdabali.co.id
+DCT bands    : [ 6.77996875e+03  1.26411686e+01 -3.50511078e+02 ...  6.02213526e-03
+  3.56038404e-03  2.19299316e-01]
+phash         : dfd8aa81b55e82a2
+Top 5 Coeffs   : [6779.97   12.64 -350.51   57.71   46.1 ]
+
+--- mazda_de.png ---
+Domain         : mazda.de
+DCT bands    : [ 6.94956250e+03  1.02503876e+02 -4.09603767e+01 ...  9.05354787e-03
+  9.17561818e-03  2.05281571e-01]
+phash         : df08a8f4750b92e6
+Top 5 Coeffs   : [6949.56  102.5   -40.96   38.7   171.44]
+
+--- mazda_fi.ico ---
+Domain         : mazda.fi
+DCT bands    : [ 5.81125049e+03 -1.49428296e+00 -2.66049255e+02 ...  9.31803416e-03
+  1.16373701e-02  1.29150391e-01]
+phash         : 8aedbe8035ca82f6
+Top 5 Coeffs   : [ 5.81125e+03 -1.49000e+00 -2.66050e+02  3.40000e-01  1.09880e+02]
+
+--- mcdonalds_co_za.ico ---
+Domain         : mcdonalds.co.za
+DCT bands    : [ 7.78159375e+03 -4.00826683e+01  1.26158478e+02 ...  3.21451831e-03
+  4.39453125e-03  2.46948242e-01]
+phash         : abb4d443d34323bc
+Top 5 Coeffs   : [7781.59  -40.08  126.16  -23.58   68.27]
+
+--- mcdonalds_md.png ---
+Domain         : mcdonalds.md
+DCT bands    : [ 7.72546826e+03 -4.75030136e+01  9.65877457e+01 ...  9.15527344e-04
+  1.38346350e-03  2.57222503e-01]
+phash         : abbcdc83d303338c
+Top 5 Coeffs   : [7725.47  -47.5    96.59  -33.54   28.98]
+
+--- medef-artois_fr.png ---
+Domain         : medef-artois.fr
+DCT bands    : [ 5.66209375e+03 -5.34260620e+02  1.22622452e+01 ...  3.92659521e-03
+  6.16455078e-03  1.66707352e-01]
+phash         : 9b35a536e43292cb
+Top 5 Coeffs   : [5662.09 -534.26   12.26  376.84  617.08]
+
+--- medef-bearnetsoule_com.png ---
+Domain         : medef-bearnetsoule.com
+DCT bands    : [ 5.66209375e+03 -5.34260620e+02  1.22622452e+01 ...  3.92659521e-03
+  6.16455078e-03  1.66707352e-01]
+phash         : 9b35a536e43292cb
+Top 5 Coeffs   : [5662.09 -534.26   12.26  376.84  617.08]
+
+--- medef-corse_com.png ---
+Domain         : medef-corse.com
+DCT bands    : [ 5.66209375e+03 -5.34260620e+02  1.22622452e+01 ...  3.92659521e-03
+  6.16455078e-03  1.66707352e-01]
+phash         : 9b35a536e43292cb
+Top 5 Coeffs   : [5662.09 -534.26   12.26  376.84  617.08]
+
+--- medef-sarthe_fr.png ---
+Domain         : medef-sarthe.fr
+DCT bands    : [ 5.66209375e+03 -5.34260620e+02  1.22622452e+01 ...  3.92659521e-03
+  6.16455078e-03  1.66707352e-01]
+phash         : 9b35a536e43292cb
+Top 5 Coeffs   : [5662.09 -534.26   12.26  376.84  617.08]
+
+--- meggle-bakery_com.png ---
+Domain         : meggle-bakery.com
+DCT bands    : [ 5.36290576e+03 -3.24942827e+00  7.80930786e+02 ...  3.27555346e-03
+  1.08642578e-02  1.61193848e-01]
+phash         : bb70944a8f8e4bb4
+Top 5 Coeffs   : [ 5.36291e+03 -3.25000e+00  7.80930e+02  2.16000e+00  3.58720e+02]
+
+--- meggle_co_jp.png ---
+Domain         : meggle.co.jp
+DCT bands    : [ 5.36290576e+03 -3.24942827e+00  7.80930786e+02 ...  3.27555346e-03
+  1.08642578e-02  1.61193848e-01]
+phash         : bb70944a8f8e4bb4
+Top 5 Coeffs   : [ 5.36291e+03 -3.25000e+00  7.80930e+02  2.16000e+00  3.58720e+02]
+
+--- menicon_de.ico ---
+Domain         : menicon.de
+DCT bands    : [ 5.03918750e+03 -3.16330528e+01  8.48626465e+02 ...  5.20833349e-03
+  9.72493459e-03  7.86946639e-02]
+phash         : be37e2ecb58110b2
+Top 5 Coeffs   : [5039.19  -31.63  848.63   36.68  360.21]
+
+--- menschenfuermenschen_at.png ---
+Domain         : menschenfuermenschen.at
+DCT bands    : [ 3.92253125e+03 -2.24955902e+01  6.24112129e+01 ...  0.00000000e+00
+  2.70446777e-01  6.28865585e-02]
+phash         : be9c4963b49c1a4b
+Top 5 Coeffs   : [3922.53  -22.5    62.41   18.74   35.87]
+
+--- mercyships_dk.png ---
+Domain         : mercyships.dk
+DCT bands    : [ 6.21406250e+03  1.94881790e+02 -4.75889511e+01 ...  1.46484375e-03
+  1.70898438e-03  2.32991531e-01]
+phash         : d63ec9c0b82b47d4
+Top 5 Coeffs   : [6214.06  194.88  -47.59   58.52  -59.32]
+
+--- mercyships_se.png ---
+Domain         : mercyships.se
+DCT bands    : [ 6.23284375e+03  1.93445953e+02 -4.91344109e+01 ...  1.85139978e-03
+  3.70279956e-03  2.27823898e-01]
+phash         : d63f89c0b82b47d4
+Top 5 Coeffs   : [6232.84  193.45  -49.13   59.59  -59.76]
+
+--- metlife_co_kr.ico ---
+Domain         : metlife.co.kr
+DCT bands    : [ 4.95871875e+03 -8.03776306e+02  1.13907761e+02 ...  2.40071607e-03
+  3.51969409e-03  5.04760742e-02]
+phash         : b6c9cce6e223f130
+Top 5 Coeffs   : [4958.72 -803.78  113.91   83.28 -175.51]
+
+--- misterwhat_nl.png ---
+Domain         : misterwhat.nl
+DCT bands    : [7.35675000e+03 1.74178284e+02 2.53321320e+02 ... 2.17692065e-03
+ 3.66210938e-03 2.50203460e-01]
+phash         : f19d8a749ce2c199
+Top 5 Coeffs   : [7356.75  174.18  253.32   25.65  -50.04]
+
+--- misterwhat_pl.png ---
+Domain         : misterwhat.pl
+DCT bands    : [7.35675000e+03 1.74178284e+02 2.53321320e+02 ... 2.17692065e-03
+ 3.66210938e-03 2.50203460e-01]
+phash         : f19d8a749ce2c199
+Top 5 Coeffs   : [7356.75  174.18  253.32   25.65  -50.04]
+
+--- misterwhat_pt.png ---
+Domain         : misterwhat.pt
+DCT bands    : [7.35675000e+03 1.74178284e+02 2.53321320e+02 ... 2.17692065e-03
+ 3.66210938e-03 2.50203460e-01]
+phash         : f19d8a749ce2c199
+Top 5 Coeffs   : [7356.75  174.18  253.32   25.65  -50.04]
+
+--- mitsubishi-motors_com_om.svg ---
+Domain         : mitsubishi-motors.com.om
+DCT bands    : [ 7.60646924e+03 -4.76568842e+00  5.62164062e+02 ...  5.28971374e-04
+  2.46175122e-03  2.93884277e-01]
+phash         : b133d3c32c3cd4c3
+Top 5 Coeffs   : [ 7.60647e+03 -4.77000e+00  5.62160e+02  7.02000e+00 -1.59510e+02]
+
+--- mitsubishielectric_cz.png ---
+Domain         : mitsubishielectric.cz
+DCT bands    : [7.59596875e+03 3.98333054e+01 1.97511368e+02 ... 1.56656897e-03
+ 2.46175122e-03 2.88126618e-01]
+phash         : efc690096b6e9495
+Top 5 Coeffs   : [7595.97   39.83  197.51  -51.76  160.32]
+
+--- modshair-bielefeld_de.png ---
+Domain         : modshair-bielefeld.de
+DCT bands    : [6.11268750e+03 1.51030960e+02 2.11375830e+03 ... 3.45865876e-04
+ 4.06901032e-04 1.99625656e-01]
+phash         : e5cf1ec81ec89e48
+Top 5 Coeffs   : [6112.69  151.03 2113.76 -241.44 -602.43]
+
+--- modshair-nuernberg_de.png ---
+Domain         : modshair-nuernberg.de
+DCT bands    : [6.08353076e+03 1.11423752e+02 2.13730811e+03 ... 8.34147155e-04
+ 1.22070312e-03 1.93033859e-01]
+phash         : e5cf9ecc8e489e40
+Top 5 Coeffs   : [6083.53  111.42 2137.31 -179.55 -593.71]
+
+--- moog_co_uk.ico ---
+Domain         : moog.co.uk
+DCT bands    : [ 2.80071851e+03 -3.65059328e+00 -9.65354443e+00 ...  9.56217467e-04
+  2.05485034e-03  2.63875332e-02]
+phash         : 90b62e4dc372bc8d
+Top 5 Coeffs   : [2800.72   -3.65   -9.65    7.14 -284.52]
+
+--- murrelektronik_be.png ---
+Domain         : murrelektronik.be
+DCT bands    : [ 4.33737500e+03  1.22903032e+01 -6.16330566e+02 ...  1.56656897e-03
+  1.95312500e-03  7.52156600e-02]
+phash         : c3932cacd243bdb4
+Top 5 Coeffs   : [4337.38   12.29 -616.33   -7.66  -66.96]
+
+--- murrelektronik_hu.png ---
+Domain         : murrelektronik.hu
+DCT bands    : [ 4.33737500e+03  1.22903032e+01 -6.16330566e+02 ...  1.56656897e-03
+  1.95312500e-03  7.52156600e-02]
+phash         : c3932cacd243bdb4
+Top 5 Coeffs   : [4337.38   12.29 -616.33   -7.66  -66.96]
+
+--- murrelektronik_sk.png ---
+Domain         : murrelektronik.sk
+DCT bands    : [ 4.33737500e+03  1.22903032e+01 -6.16330566e+02 ...  1.56656897e-03
+  1.95312500e-03  7.52156600e-02]
+phash         : c3932cacd243bdb4
+Top 5 Coeffs   : [4337.38   12.29 -616.33   -7.66  -66.96]
+
+--- myron_ca.png ---
+Domain         : myron.ca
+DCT bands    : [ 5.66990576e+03  1.42961082e+01 -3.94657410e+02 ...  5.55419922e-03
+  7.42594386e-03  1.15478516e-01]
+phash         : c58c93733c3c2f8c
+Top 5 Coeffs   : [ 5.66991e+03  1.43000e+01 -3.94660e+02 -3.91900e+01 -4.61000e+00]
+
+--- narscosmetics_es.ico ---
+Domain         : narscosmetics.es
+DCT bands    : [ 1.24912500e+03 -1.20928772e+02  2.04703842e+02 ...  1.03759766e-03
+  6.30696595e-04  1.11897790e-03]
+phash         : b6e4799e46532515
+Top 5 Coeffs   : [1249.12 -120.93  204.7   667.81  -22.05]
+
+--- nestle_bg.ico ---
+Domain         : nestle.bg
+DCT bands    : [ 7.25071826e+03 -3.95892601e+01  4.55602905e+02 ...  7.22249364e-03
+  9.90804005e-03  1.96105957e-01]
+phash         : ba95c56bc02dc5c3
+Top 5 Coeffs   : [7250.72  -39.59  455.6    56.29  280.47]
+
+--- nestle_ch.ico ---
+Domain         : nestle.ch
+DCT bands    : [ 7.25071826e+03 -3.95892601e+01  4.55602905e+02 ...  7.22249364e-03
+  9.90804005e-03  1.96105957e-01]
+phash         : ba95c56bc02dc5c3
+Top 5 Coeffs   : [7250.72  -39.59  455.6    56.29  280.47]
+
+--- nestle_com_vn.ico ---
+Domain         : nestle.com.vn
+DCT bands    : [ 7.25071826e+03 -3.95892601e+01  4.55602905e+02 ...  7.22249364e-03
+  9.90804005e-03  1.96105957e-01]
+phash         : ba95c56bc02dc5c3
+Top 5 Coeffs   : [7250.72  -39.59  455.6    56.29  280.47]
+
+--- nestle_mk.ico ---
+Domain         : nestle.mk
+DCT bands    : [ 7.25071826e+03 -3.95892601e+01  4.55602905e+02 ...  7.22249364e-03
+  9.90804005e-03  1.96105957e-01]
+phash         : ba95c56bc02dc5c3
+Top 5 Coeffs   : [7250.72  -39.59  455.6    56.29  280.47]
+
+--- nobleprog_co_th.png ---
+Domain         : nobleprog.co.th
+DCT bands    : [ 6.68662451e+03 -5.15198517e+01  1.06299048e+03 ...  4.10970068e-03
+  6.65283203e-03  2.25280762e-01]
+phash         : bcd9c286d316d326
+Top 5 Coeffs   : [6686.62  -51.52 1062.99   16.46  439.51]
+
+--- nobleprog_mx.png ---
+Domain         : nobleprog.mx
+DCT bands    : [ 6.68662451e+03 -5.15198517e+01  1.06299048e+03 ...  4.10970068e-03
+  6.65283203e-03  2.25280762e-01]
+phash         : bcd9c286d316d326
+Top 5 Coeffs   : [6686.62  -51.52 1062.99   16.46  439.51]
+
+--- noiseassessments_org.png ---
+Domain         : noiseassessments.org
+DCT bands    : [ 6.31925000e+03 -2.05655022e+01  1.76622665e+02 ...  1.98567715e-02
+  1.96940098e-02  1.06424965e-01]
+phash         : ac93bb4cb433b08b
+Top 5 Coeffs   : [6319.25  -20.57  176.62  -50.62  204.63]
+
+--- nordicpharma_pt.png ---
+Domain         : nordicpharma.pt
+DCT bands    : [4.51800000e+03 0.00000000e+00 2.39568140e+03 ... 5.20833349e-03
+ 0.00000000e+00 1.14583336e-01]
+phash         : a800000000000000
+Top 5 Coeffs   : [4518.      0.   2395.68    0.    939.01]
+
+--- nutriciababy_be.ico ---
+Domain         : nutriciababy.be
+DCT bands    : [ 7.41334326e+03 -2.30495544e+02  2.80373413e+02 ...  1.02132158e-02
+  1.20442705e-02  2.49206543e-01]
+phash         : b89fc670c1c93e25
+Top 5 Coeffs   : [7413.34 -230.5   280.37  300.51  205.24]
+
+--- nutricia_nl.ico ---
+Domain         : nutricia.nl
+DCT bands    : [ 7.64721875e+03 -5.03801819e+02 -2.81732056e+02 ...  3.47900391e-03
+  5.41178370e-03  2.85949707e-01]
+phash         : 80ffe0c09f1e7871
+Top 5 Coeffs   : [7647.22 -503.8  -281.73 -232.02 -177.29]
+
+--- oil-testing_de.png ---
+Domain         : oil-testing.de
+DCT bands    : [ 7.02618701e+03 -7.91125774e-01  8.82847168e+02 ...  8.87044240e-03
+  9.46044922e-03  1.63391113e-01]
+phash         : f939c6c4989970e6
+Top 5 Coeffs   : [ 7.02619e+03 -7.90000e-01  8.82850e+02  1.10000e+01  2.34800e+01]
+
+--- orange_sn.ico ---
+Domain         : orange.sn
+DCT bands    : [ 4.67581201e+03 -5.36418629e+00 -3.08934135e+01 ...  2.23795581e-03
+  1.56656897e-03  7.60904932e-03]
+phash         : 966bd42d3ac42bd4
+Top 5 Coeffs   : [4675.81   -5.36  -30.89   34.72  -33.61]
+
+--- pearsonclinical_ca.ico ---
+Domain         : pearsonclinical.ca
+DCT bands    : [ 4.95150000e+03 -1.78178772e+02  4.44664032e+02 ...  2.11588549e-03
+  3.43831372e-03  1.08784996e-01]
+phash         : bed2e328b425e193
+Top 5 Coeffs   : [4951.5  -178.18  444.66   67.43  450.71]
+
+--- pearsonclinical_co_uk.ico ---
+Domain         : pearsonclinical.co.uk
+DCT bands    : [ 4.95150000e+03 -1.78178772e+02  4.44664032e+02 ...  2.11588549e-03
+  3.43831372e-03  1.08784996e-01]
+phash         : bed2e328b425e193
+Top 5 Coeffs   : [4951.5  -178.18  444.66   67.43  450.71]
+
+--- pefc_fi.ico ---
+Domain         : pefc.fi
+DCT bands    : [ 7.30906250e+03 -8.49076233e+01  4.94538086e+02 ...  1.43229170e-02
+  1.73339844e-02  1.10921226e-01]
+phash         : bf68c9c5c5253236
+Top 5 Coeffs   : [7309.06  -84.91  494.54   37.51  202.39]
+
+--- peugeot_sk.ico ---
+Domain         : peugeot.sk
+DCT bands    : [4.93334375e+03 8.80131721e-01 1.95855713e+03 ... 3.92659521e-03
+ 2.52278638e-03 1.54724121e-01]
+phash         : ea5a87a59ca7a982
+Top 5 Coeffs   : [4.93334e+03 8.80000e-01 1.95856e+03 1.90000e-01 4.40360e+02]
+
+--- pirtek_be.png ---
+Domain         : pirtek.be
+DCT bands    : [ 5.61959375e+03 -3.88993919e-01 -8.49594574e+01 ...  6.87662745e-03
+  8.50423146e-03  1.19791664e-01]
+phash         : 9b3c66c3c43cb1c3
+Top 5 Coeffs   : [ 5.61959e+03 -3.90000e-01 -8.49600e+01  8.90000e-01  4.55700e+02]
+
+--- pkf_co_in.png ---
+Domain         : pkf.co.in
+DCT bands    : [ 5.16637500e+03 -8.10950439e+02  9.28446960e+02 ...  1.01928711e-02
+  1.13118486e-02  6.71386719e-02]
+phash         : ba94f65fc4fb0108
+Top 5 Coeffs   : [5166.38 -810.95  928.45  545.37  491.11]
+
+--- plameco-hannover_de.png ---
+Domain         : plameco-hannover.de
+DCT bands    : [ 2.96103101e+03  4.71046543e+00 -4.83295990e+02 ...  6.71386719e-03
+  6.22558594e-03  3.19620781e-02]
+phash         : c0e49f6bc168943f
+Top 5 Coeffs   : [ 2.96103e+03  4.71000e+00 -4.83300e+02 -6.90000e-01 -9.38800e+01]
+
+--- plameco_nl.ico ---
+Domain         : plameco.nl
+DCT bands    : [ 2.66268750e+03  8.22441254e+01 -9.58816406e+02 ...  1.99381518e-03
+  5.75764989e-03  7.83284530e-02]
+phash         : ce2ab124c69bb3cc
+Top 5 Coeffs   : [2662.69   82.24 -958.82 -188.46  321.94]
+
+--- propertyfinder_com.ico ---
+Domain         : propertyfinder.com
+DCT bands    : [ 7.03078076e+03 -6.65066528e+01  9.44461243e+02 ...  2.84830737e-03
+  3.37727857e-03  2.20031738e-01]
+phash         : bc659892c69b9b8c
+Top 5 Coeffs   : [7030.78  -66.51  944.46   73.16   39.34]
+
+--- rationalstock_es.png ---
+Domain         : rationalstock.es
+DCT bands    : [ 5.34309326e+03 -4.26651463e-02  3.87709778e+02 ...  1.13728838e-02
+  1.34073896e-02  8.22143555e-02]
+phash         : bec9e13694c1c396
+Top 5 Coeffs   : [ 5.34309e+03 -4.00000e-02  3.87710e+02 -1.40000e-01  3.22570e+02]
+
+--- reedglobal_hu.png ---
+Domain         : reedglobal.hu
+DCT bands    : [ 1.54859387e+03  4.05856438e+01 -8.74090698e+02 ...  3.25520843e-04
+  5.08626283e-04  3.22062187e-02]
+phash         : cccc33336ccc9339
+Top 5 Coeffs   : [1548.59   40.59 -874.09  -84.24  368.71]
+
+--- reedglobal_pl.png ---
+Domain         : reedglobal.pl
+DCT bands    : [ 1.54859387e+03  4.05856438e+01 -8.74090698e+02 ...  3.25520843e-04
+  5.08626283e-04  3.22062187e-02]
+phash         : cccc33336ccc9339
+Top 5 Coeffs   : [1548.59   40.59 -874.09  -84.24  368.71]
+
+--- renaultsanzhispano_es.png ---
+Domain         : renaultsanzhispano.es
+DCT bands    : [ 1.26668738e+03 -4.56035843e+01 -1.16075208e+03 ...  3.78417969e-03
+  5.08626283e-04  2.23795578e-04]
+phash         : 9e93791967646664
+Top 5 Coeffs   : [ 1266.69   -45.6  -1160.75    49.56    85.71]
+
+--- renaulttersa_com_mx.png ---
+Domain         : renaulttersa.com.mx
+DCT bands    : [ 1.49521875e+03  5.39753342e+00 -1.27176831e+03 ...  1.13932288e-03
+  1.77001953e-03  4.84008789e-02]
+phash         : c3b92c99306e33e6
+Top 5 Coeffs   : [ 1495.22     5.4  -1271.77    -4.41   -55.09]
+
+--- repsol_in_ua.png ---
+Domain         : repsol.in.ua
+DCT bands    : [ 7.02996826e+03 -4.20982208e+01  6.24458435e+02 ...  7.36490870e-03
+  8.91113281e-03  1.67622879e-01]
+phash         : bccb901c8b38cdd3
+Top 5 Coeffs   : [ 7.02997e+03 -4.21000e+01  6.24460e+02  3.09000e+00  5.52200e+01]
+
+--- rheine_schule.jpg ---
+Domain         : rheine.schule
+DCT bands    : [7.74921826e+03 2.16986969e+02 4.51443291e+00 ... 6.93766261e-03
+ 1.93888340e-02 2.53601074e-01]
+phash         : f47a2aa8a19595d5
+Top 5 Coeffs   : [7.74922e+03 2.16990e+02 4.51000e+00 2.98300e+01 1.74000e+00]
+
+--- rockvalleyculligan_com.ico ---
+Domain         : rockvalleyculligan.com
+DCT bands    : [4.89543750e+03 2.59206123e+01 5.25687927e+02 ... 0.00000000e+00
+ 0.00000000e+00 3.33333343e-01]
+phash         : fb99ac66e092866c
+Top 5 Coeffs   : [4895.44   25.92  525.69   59.05  245.6 ]
+
+--- rotary-bulgaria_org.png ---
+Domain         : rotary-bulgaria.org
+DCT bands    : [ 6.14131201e+03 -2.03646641e+01  6.73160034e+02 ...  2.24202480e-02
+  2.12809239e-02  1.20442711e-01]
+phash         : aaa4fd0af4e1c293
+Top 5 Coeffs   : [ 6.14131e+03 -2.03600e+01  6.73160e+02  1.32000e+00  1.57640e+02]
+
+--- rotaryclubofessex_com.png ---
+Domain         : rotaryclubofessex.com
+DCT bands    : [ 6.69856201e+03 -2.25944138e+00  4.09968628e+02 ...  8.07698537e-03
+  9.88769531e-03  9.58455428e-02]
+phash         : bab4a84aa5e1c6f1
+Top 5 Coeffs   : [ 6.69856e+03 -2.26000e+00  4.09970e+02  3.01000e+00  6.96300e+01]
+
+--- rsmpoland_pl.ico ---
+Domain         : rsmpoland.pl
+DCT bands    : [4.06353125e+03 2.79367676e+02 2.57362862e+01 ... 3.13313794e-03
+ 7.28352880e-03 5.20833349e-03]
+phash         : e619191919393d3f
+Top 5 Coeffs   : [4063.53  279.37   25.74 -107.77  -20.77]
+
+--- rsmthailand_com.png ---
+Domain         : rsmthailand.com
+DCT bands    : [4.06724976e+03 2.82253723e+02 2.42857819e+01 ... 2.95003247e-03
+ 4.86246729e-03 0.00000000e+00]
+phash         : e638383838387c7f
+Top 5 Coeffs   : [4067.25  282.25   24.29 -110.92  -22.44]
+
+--- rubiomonocoat_com_au.png ---
+Domain         : rubiomonocoat.com.au
+DCT bands    : [ 6.87790625e+03 -1.57072449e+01  9.02950745e+01 ...  5.24902344e-03
+  6.10351562e-03  2.24202469e-01]
+phash         : b9bf8604cc9913e3
+Top 5 Coeffs   : [6877.91  -15.71   90.3    23.38   43.99]
+
+--- rutscherlebnis_at.png ---
+Domain         : rutscherlebnis.at
+DCT bands    : [5.18793750e+03 2.14170166e+02 3.69814491e+01 ... 8.66699219e-03
+ 1.07014971e-02 1.04431152e-01]
+phash         : ea89bd6ab0616497
+Top 5 Coeffs   : [5187.94  214.17   36.98  -59.48  105.61]
+
+--- santillana_com_hn.webp ---
+Domain         : santillana.com.hn
+DCT bands    : [ 6.15009375e+03 -9.13508484e+02  5.33248169e+02 ...  2.07519531e-03
+  3.15348315e-03  1.69677734e-01]
+phash         : bf6ac8b4e0c8c197
+Top 5 Coeffs   : [6150.09 -913.51  533.25  367.92  257.15]
+
+--- santillana_com_uy.webp ---
+Domain         : santillana.com.uy
+DCT bands    : [ 6.15303125e+03 -9.14762939e+02  5.36638672e+02 ...  5.22867823e-03
+  7.32421875e-03  1.44673660e-01]
+phash         : bf6ac8b4e0c8c396
+Top 5 Coeffs   : [6153.03 -914.76  536.64  371.84  254.39]
+
+--- savethechildren_ca.png ---
+Domain         : savethechildren.ca
+DCT bands    : [6.14146826e+03 6.01407280e+01 1.49822998e+03 ... 2.78727221e-03
+ 3.15348315e-03 1.97652176e-01]
+phash         : e7da98a5903c8f62
+Top 5 Coeffs   : [6141.47   60.14 1498.23 -145.25 -295.33]
+
+--- savethechildren_it.ico ---
+Domain         : savethechildren.it
+DCT bands    : [5.77375000e+03 1.49450836e+02 1.37497827e+03 ... 4.41487646e-03
+ 5.71695948e-03 1.34460449e-01]
+phash         : e3d2baa1b01d8a8f
+Top 5 Coeffs   : [5773.75  149.45 1374.98 -201.5  -343.65]
+
+--- savethechildren_mx.png ---
+Domain         : savethechildren.mx
+DCT bands    : [ 6.77271826e+03 -2.81059132e+01  8.74372192e+02 ...  7.99560547e-03
+  1.00097656e-02  1.82881668e-01]
+phash         : a7e4d819c4b2db0d
+Top 5 Coeffs   : [6772.72  -28.11  874.37  -44.19 -101.01]
+
+--- scte-prod_herokuapp_com.png ---
+Domain         : scte-prod.herokuapp.com
+DCT bands    : [ 7.82253076e+03 -1.31211529e+01  3.58599396e+01 ...  1.50553382e-03
+  1.56656897e-03  3.07739258e-01]
+phash         : ae23d1982e63f19c
+Top 5 Coeffs   : [7822.53  -13.12   35.86  -35.15  120.01]
+
+--- seasonsrehab_in.png ---
+Domain         : seasonsrehab.in
+DCT bands    : [7.45259326e+03 1.58923279e+02 3.51945221e+02 ... 3.66210938e-03
+ 5.41178370e-03 2.27844238e-01]
+phash         : ee1897a5695a4c99
+Top 5 Coeffs   : [7452.59  158.92  351.95 -102.23  171.16]
+
+--- secureparkinghi_com.png ---
+Domain         : secureparkinghi.com
+DCT bands    : [4216.03125      -7.81942081 -542.91900635 ...    0.            0.
+    0.        ]
+phash         : 8a6a345e357e3465
+Top 5 Coeffs   : [4216.03   -7.82 -542.92  -10.16  161.85]
+
+--- secureparking_co_id.png ---
+Domain         : secureparking.co.id
+DCT bands    : [4365.56201172   13.02461433 -763.7467041  ...    0.            0.
+    0.        ]
+phash         : cbc334ca34c23d3d
+Top 5 Coeffs   : [4365.56   13.02 -763.75  -11.88   15.33]
+
+--- servier_com_ar.png ---
+Domain         : servier.com.ar
+DCT bands    : [ 2.31428125e+03 -1.76141148e+01 -3.09084290e+02 ...  2.46175122e-03
+  2.27864576e-03  2.14029942e-02]
+phash         : 92350fd06ccfb23c
+Top 5 Coeffs   : [2314.28  -17.61 -309.08  245.74 -395.12]
+
+--- servier_co_uk.png ---
+Domain         : servier.co.uk
+DCT bands    : [ 2.31428125e+03 -1.76141148e+01 -3.09084290e+02 ...  2.46175122e-03
+  2.27864576e-03  2.14029942e-02]
+phash         : 92350fd06ccfb23c
+Top 5 Coeffs   : [2314.28  -17.61 -309.08  245.74 -395.12]
+
+--- shimadzu-la_com.svg ---
+Domain         : shimadzu-la.com
+DCT bands    : [5.97528125e+03 4.62588997e+01 6.91728516e+01 ... 5.22867823e-03
+ 8.80940724e-03 1.77164719e-01]
+phash         : fa07fa81817cb4b1
+Top 5 Coeffs   : [5975.28   46.26   69.17   23.27   55.08]
+
+--- sitechnorthwest_com.png ---
+Domain         : sitechnorthwest.com
+DCT bands    : [6.05809375e+03 2.70872765e+01 1.29080615e+03 ... 1.01521807e-02
+ 1.16780596e-02 1.17614746e-01]
+phash         : e5709e4dc732988b
+Top 5 Coeffs   : [6058.09   27.09 1290.81  -47.01 -117.95]
+
+--- spie_lu.png ---
+Domain         : spie.lu
+DCT bands    : [7.10456250e+03 1.21714081e+02 3.39156860e+02 ... 1.74967444e-03
+ 1.54622400e-03 2.74108887e-01]
+phash         : ede4903b93dc2d42
+Top 5 Coeffs   : [7104.56  121.71  339.16 -325.62  303.53]
+
+--- spitex-oberfreiamt_ch.ico ---
+Domain         : spitex-oberfreiamt.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- spitex-oberthurgau_ch.ico ---
+Domain         : spitex-oberthurgau.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- spitex-region-stockhorn_ch.ico ---
+Domain         : spitex-region-stockhorn.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- spitex-regionbirs_ch.ico ---
+Domain         : spitex-regionbirs.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- spitex-wasseramt_ch.ico ---
+Domain         : spitex-wasseramt.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- spitex-wiggertal_ch.ico ---
+Domain         : spitex-wiggertal.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- spitexaadorf_ch.ico ---
+Domain         : spitexaadorf.ch
+DCT bands    : [ 6.15975000e+03 -2.12974567e+01  3.88411011e+02 ...  8.95182311e-04
+  1.18001306e-03  2.11914062e-01]
+phash         : af6ac28cb992b0f1
+Top 5 Coeffs   : [6159.75  -21.3   388.41  -91.75  670.71]
+
+--- spitexgossau_ch.ico ---
+Domain         : spitexgossau.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- spitexzug_ch.ico ---
+Domain         : spitexzug.ch
+DCT bands    : [5.76531201e+03 3.37921143e+01 1.11850754e+02 ... 3.03141284e-03
+ 4.15039062e-03 1.73889160e-01]
+phash         : e972c60cb994b993
+Top 5 Coeffs   : [5765.31   33.79  111.85  -53.2   574.5 ]
+
+--- srpb2b_com.png ---
+Domain         : srpb2b.com
+DCT bands    : [ 6.87162500e+03 -7.80077591e+01  1.77555634e+02 ...  5.18798828e-03
+  8.34147166e-03  2.18302414e-01]
+phash         : a743dbbd2444453b
+Top 5 Coeffs   : [6871.62  -78.01  177.56  -54.66  -74.39]
+
+--- stanbicbank_co_bw.ico ---
+Domain         : stanbicbank.co.bw
+DCT bands    : [ 6.51984326e+03 -1.39882603e+01  8.59617432e+02 ...  1.99381518e-03
+  2.70589185e-03  2.43469238e-01]
+phash         : ba1ea16196948ee7
+Top 5 Coeffs   : [6519.84  -13.99  859.62   55.33  515.34]
+
+--- stanbicbank_co_zw.ico ---
+Domain         : stanbicbank.co.zw
+DCT bands    : [ 6.51984326e+03 -1.39882603e+01  8.59617432e+02 ...  1.99381518e-03
+  2.70589185e-03  2.43469238e-01]
+phash         : ba1ea16196948ee7
+Top 5 Coeffs   : [6519.84  -13.99  859.62   55.33  515.34]
+
+--- starbucks_co_nz.ico ---
+Domain         : starbucks.co.nz
+DCT bands    : [ 5.60696875e+03 -3.73703241e-02  3.73974518e+02 ...  9.07389354e-03
+  1.11490889e-02  1.24715172e-01]
+phash         : ec6eb13ba4a4d053
+Top 5 Coeffs   : [ 5.60697e+03 -4.00000e-02  3.73970e+02  4.00000e-02  8.85140e+02]
+
+--- statkraft_ie.png ---
+Domain         : statkraft.ie
+DCT bands    : [6.91556201e+03 9.75433960e+01 6.84912048e+02 ... 1.82291660e-02
+ 1.43432617e-02 2.03653976e-01]
+phash         : fac985369acb9838
+Top 5 Coeffs   : [6915.56   97.54  684.91    7.14  269.76]
+
+--- sto_hr.ico ---
+Domain         : sto.hr
+DCT bands    : [ 6.01709326e+03 -4.27200623e+01  7.58340271e+02 ...  2.31933594e-03
+  2.97037768e-03  9.46858749e-02]
+phash         : bec3c13ca5c3d096
+Top 5 Coeffs   : [6017.09  -42.72  758.34   28.68  438.48]
+
+--- strabag-pfs_com.png ---
+Domain         : strabag-pfs.com
+DCT bands    : [ 6.58171826e+03 -1.13204660e+01  2.37996613e+02 ...  2.15657544e-03
+  3.88590503e-03  2.33093262e-01]
+phash         : aa32c5d9d1c43a3e
+Top 5 Coeffs   : [ 6.58172e+03 -1.13200e+01  2.38000e+02 -9.70000e-01  2.52280e+02]
+
+--- subaru-bd_com.jpg ---
+Domain         : subaru-bd.com
+DCT bands    : [ 6.95184375e+03 -8.02600403e+01  9.89125671e+02 ...  2.54313159e-03
+  3.09244799e-03  2.47375488e-01]
+phash         : b4e4cb9bd03cccc2
+Top 5 Coeffs   : [6951.84  -80.26  989.13   37.29  -58.56]
+
+--- svnefird_com.png ---
+Domain         : svnefird.com
+DCT bands    : [3.80337476e+03 8.15009308e+01 3.16749695e+02 ... 4.06901026e-03
+ 8.28043651e-03 8.66088867e-02]
+phash         : eb0cfcf1a1c2960e
+Top 5 Coeffs   : [3803.37   81.5   316.75 -177.71  816.  ]
+
+--- svntrinity_com.png ---
+Domain         : svntrinity.com
+DCT bands    : [ 5.81074951e+03 -2.17087479e+02  1.42998767e+03 ...  2.36002612e-03
+  1.89208984e-03  1.90368652e-01]
+phash         : b7f382409d4c3ccd
+Top 5 Coeffs   : [5810.75 -217.09 1429.99  287.91  -58.47]
+
+--- synlab_com_gh.ico ---
+Domain         : synlab.com.gh
+DCT bands    : [ 7.48834375e+03 -7.09140625e+01  3.51600647e+02 ...  8.30078125e-03
+  1.03352861e-02  2.56591797e-01]
+phash         : bccec3303ccfc330
+Top 5 Coeffs   : [7488.34  -70.91  351.6    89.5   364.82]
+
+--- synlab_com_tr.ico ---
+Domain         : synlab.com.tr
+DCT bands    : [ 7.48834375e+03 -7.09140625e+01  3.51600647e+02 ...  8.30078125e-03
+  1.03352861e-02  2.56591797e-01]
+phash         : bccec3303ccfc330
+Top 5 Coeffs   : [7488.34  -70.91  351.6    89.5   364.82]
+
+--- tbwa_co_za.png ---
+Domain         : tbwa.co.za
+DCT bands    : [6.23321777e+03 7.57669568e-01 9.32734192e+02 ... 7.32421875e-04
+ 1.87174475e-03 5.85123710e-02]
+phash         : a63399ccc6d36493
+Top 5 Coeffs   : [ 6.23322e+03  7.60000e-01  9.32730e+02 -2.16000e+00 -2.65810e+02]
+
+--- thebodyshop_si.png ---
+Domain         : thebodyshop.si
+DCT bands    : [ 6.48343701e+03 -9.13519096e+00 -7.32072998e+02 ...  4.06901026e-03
+  4.61832667e-03  2.09960938e-01]
+phash         : 8a0fbdf4f40fa0d0
+Top 5 Coeffs   : [6483.44   -9.14 -732.07   -8.08  653.93]
+
+--- toupret_ch.ico ---
+Domain         : toupret.ch
+DCT bands    : [6.37156250e+03 8.99983978e+01 4.27869263e+02 ... 4.82177734e-03
+ 4.55729151e-03 2.14925125e-01]
+phash         : f90e86a1a8689eb7
+Top 5 Coeffs   : [6371.56   90.    427.87   43.68  196.61]
+
+--- toyota-bauer_at.png ---
+Domain         : toyota-bauer.at
+DCT bands    : [ 6.39734424e+03 -1.25077777e-02  3.62635956e+02 ...  1.54622400e-03
+  2.29899096e-03  2.35127762e-01]
+phash         : e34bbea4817a4e85
+Top 5 Coeffs   : [ 6.39734e+03 -1.00000e-02  3.62640e+02 -5.90000e-01 -3.23860e+02]
+
+--- toyota-buchreiter-eisenstadt_at.png ---
+Domain         : toyota-buchreiter-eisenstadt.at
+DCT bands    : [ 6.39734424e+03 -1.25077777e-02  3.62635956e+02 ...  1.54622400e-03
+  2.29899096e-03  2.35127762e-01]
+phash         : e34bbea4817a4e85
+Top 5 Coeffs   : [ 6.39734e+03 -1.00000e-02  3.62640e+02 -5.90000e-01 -3.23860e+02]
+
+--- toyotaaktoy_com_tr.png ---
+Domain         : toyotaaktoy.com.tr
+DCT bands    : [6.98068701e+03 4.12105992e-02 5.47705933e+02 ... 1.22070312e-03
+ 1.66829431e-03 2.74698883e-01]
+phash         : aa3cc1c31e3c3c96
+Top 5 Coeffs   : [ 6.98069e+03  4.00000e-02  5.47710e+02 -8.00000e-02  5.55300e+01]
+
+--- toyotabacau_ro.png ---
+Domain         : toyotabacau.ro
+DCT bands    : [6.98053125e+03 9.26375628e-01 5.59695679e+02 ... 5.65592432e-03
+ 8.99251271e-03 2.34415695e-01]
+phash         : fa3885875b782c96
+Top 5 Coeffs   : [6.98053e+03 9.30000e-01 5.59700e+02 2.50000e-01 5.15700e+01]
+
+--- toyotafocsani_ro.png ---
+Domain         : toyotafocsani.ro
+DCT bands    : [6.98053125e+03 9.26375628e-01 5.59695679e+02 ... 5.65592432e-03
+ 8.99251271e-03 2.34415695e-01]
+phash         : fa3885875b782c96
+Top 5 Coeffs   : [6.98053e+03 9.30000e-01 5.59700e+02 2.50000e-01 5.15700e+01]
+
+--- toyotagocmenturk_com_tr.png ---
+Domain         : toyotagocmenturk.com.tr
+DCT bands    : [6.98068701e+03 4.12105992e-02 5.47705933e+02 ... 1.22070312e-03
+ 1.66829431e-03 2.74698883e-01]
+phash         : aa3cc1c31e3c3c96
+Top 5 Coeffs   : [ 6.98069e+03  4.00000e-02  5.47710e+02 -8.00000e-02  5.55300e+01]
+
+--- toyotanatas_com_tr.png ---
+Domain         : toyotanatas.com.tr
+DCT bands    : [6.98068701e+03 4.12105992e-02 5.47705933e+02 ... 1.22070312e-03
+ 1.66829431e-03 2.74698883e-01]
+phash         : aa3cc1c31e3c3c96
+Top 5 Coeffs   : [ 6.98069e+03  4.00000e-02  5.47710e+02 -8.00000e-02  5.55300e+01]
+
+--- toyotasandikci_com_tr.png ---
+Domain         : toyotasandikci.com.tr
+DCT bands    : [6.98068701e+03 4.12105992e-02 5.47705933e+02 ... 1.22070312e-03
+ 1.66829431e-03 2.74698883e-01]
+phash         : aa3cc1c31e3c3c96
+Top 5 Coeffs   : [ 6.98069e+03  4.00000e-02  5.47710e+02 -8.00000e-02  5.55300e+01]
+
+--- toysrus_com_my.png ---
+Domain         : toysrus.com.my
+DCT bands    : [ 5.11240625e+03 -6.33254204e+01  2.07931091e+02 ...  1.67643223e-02
+  2.07926426e-02  1.06933594e-01]
+phash         : ba0ce9d9b463c29c
+Top 5 Coeffs   : [5112.41  -63.33  207.93   14.66  150.18]
+
+--- toysrus_com_sg.png ---
+Domain         : toysrus.com.sg
+DCT bands    : [ 5.11240625e+03 -6.33254204e+01  2.07931091e+02 ...  1.67643223e-02
+  2.07926426e-02  1.06933594e-01]
+phash         : ba0ce9d9b463c29c
+Top 5 Coeffs   : [5112.41  -63.33  207.93   14.66  150.18]
+
+--- toysrus_fr.png ---
+Domain         : toysrus.fr
+DCT bands    : [6.27731201e+03 2.04483856e+02 4.88779175e+02 ... 2.66520190e-03
+ 3.49934888e-03 1.85587570e-01]
+phash         : e484ec7edb921385
+Top 5 Coeffs   : [6277.31  204.48  488.78 -430.5  -316.44]
+
+--- tupperware_co_kr.png ---
+Domain         : tupperware.co.kr
+DCT bands    : [6.61040576e+03 3.54662590e+01 1.37373462e+03 ... 2.03450513e-03
+ 3.80452466e-03 2.40214035e-01]
+phash         : e24dc9c7c3c3493a
+Top 5 Coeffs   : [6610.41   35.47 1373.73  -46.54 -476.95]
+
+--- unicharm_com_br.png ---
+Domain         : unicharm.com.br
+DCT bands    : [ 6.93759277e+03 -3.14602280e+01  3.86332489e+02 ...  1.70898438e-03
+  1.72932947e-03  2.19238281e-01]
+phash         : bb98e06583949e9b
+Top 5 Coeffs   : [6937.59  -31.46  386.33   67.43  427.53]
+
+--- urmet_com_br.png ---
+Domain         : urmet.com.br
+DCT bands    : [ 5.64424951e+03 -1.76537380e+01  6.60636963e+02 ...  7.73111999e-04
+  2.23795581e-03  1.65568039e-01]
+phash         : ba4b4c13c46c3aeb
+Top 5 Coeffs   : [5644.25  -17.65  660.64   35.09  212.49]
+
+--- vbh_be.png ---
+Domain         : vbh.be
+DCT bands    : [ 4.07281201e+03 -2.30003262e+00 -1.92220062e+02 ...  2.21761060e-03
+  7.52766908e-04  4.63663749e-02]
+phash         : c07f90c57f906f18
+Top 5 Coeffs   : [ 4.07281e+03 -2.30000e+00 -1.92220e+02 -9.62000e+00 -8.90200e+01]
+
+--- veka_pt.png ---
+Domain         : veka.pt
+DCT bands    : [6.46496875e+03 1.44389391e+01 1.20732666e+03 ... 1.24308271e-02
+ 1.55436201e-02 1.55069992e-01]
+phash         : e3b2844f9b983867
+Top 5 Coeffs   : [ 6.46497e+03  1.44400e+01  1.20733e+03 -1.14000e+00 -1.56860e+02]
+
+--- viacon_no.png ---
+Domain         : viacon.no
+DCT bands    : [ 6.77056250e+03 -3.67174759e+01  3.31596680e+02 ...  7.20214844e-03
+  1.06404619e-02  1.73807785e-01]
+phash         : ad4bd234dc30d4f4
+Top 5 Coeffs   : [6770.56  -36.72  331.6   -46.17  841.59]
+
+--- vitalimages_com.ico ---
+Domain         : vitalimages.com
+DCT bands    : [7.71549951e+03 2.40102005e+01 9.65519104e+01 ... 3.86555999e-04
+ 7.73111999e-04 3.03853363e-01]
+phash         : eb8794706b8f9470
+Top 5 Coeffs   : [7715.5    24.01   96.55  -21.4    46.33]
+
+--- vkf-renzel_com_tr.png ---
+Domain         : vkf-renzel.com.tr
+DCT bands    : [ 7.21962500e+03 -2.93560047e+01  7.39225525e+02 ...  1.93277991e-03
+  2.38037109e-03  2.61698395e-01]
+phash         : bc61c39691d97067
+Top 5 Coeffs   : [7219.62  -29.36  739.23   18.14   50.81]
+
+--- vkf-renzel_ro.png ---
+Domain         : vkf-renzel.ro
+DCT bands    : [ 7.21962500e+03 -2.93560047e+01  7.39225525e+02 ...  1.93277991e-03
+  2.38037109e-03  2.61698395e-01]
+phash         : bc61c39691d97067
+Top 5 Coeffs   : [7219.62  -29.36  739.23   18.14   50.81]
+
+--- webster_nl.png ---
+Domain         : webster.nl
+DCT bands    : [ 6.92203125e+03 -8.85917740e+01  7.33914917e+02 ...  4.41487646e-03
+  4.84212255e-03  2.45849609e-01]
+phash         : be16c1e9cc9e2316
+Top 5 Coeffs   : [6922.03  -88.59  733.91   90.31  118.83]
+
+--- williamblairfunds_com.png ---
+Domain         : williamblairfunds.com
+DCT bands    : [ 1.07643750e+03  1.48140839e+02 -5.31818726e+02 ...  2.01416016e-03
+  2.78727221e-03  8.91113281e-03]
+phash         : c32e60c13fb98e2e
+Top 5 Coeffs   : [1076.44  148.14 -531.82  -45.99   -5.29]
+
+--- worldvision_bo.jpg ---
+Domain         : worldvision.bo
+DCT bands    : [ 4.57059375e+03 -8.22246552e-01 -1.94664337e+02 ...  2.64485687e-04
+  4.27246094e-04  1.06201172e-02]
+phash         : 9999666699999965
+Top 5 Coeffs   : [ 4.57059e+03 -8.20000e-01 -1.94660e+02  6.71000e+00  1.54480e+02]
+
+--- worldvision_org_nz.png ---
+Domain         : worldvision.org.nz
+DCT bands    : [ 4.61237500e+03  7.56946087e-01 -2.10047882e+02 ...  4.27246094e-04
+  3.45865876e-04  1.11083984e-02]
+phash         : cccc333333cdcd30
+Top 5 Coeffs   : [ 4.61238e+03  7.60000e-01 -2.10050e+02 -1.96000e+00  1.62360e+02]
+
+--- worldvision_org_sv.jpg ---
+Domain         : worldvision.org.sv
+DCT bands    : [ 4.57059375e+03 -8.22246552e-01 -1.94664337e+02 ...  2.64485687e-04
+  4.27246094e-04  1.06201172e-02]
+phash         : 9999666699999965
+Top 5 Coeffs   : [ 4.57059e+03 -8.20000e-01 -1.94660e+02  6.71000e+00  1.54480e+02]
+
+--- wuerth_com_hr.ico ---
+Domain         : wuerth.com.hr
+DCT bands    : [ 5.24537451e+03 -1.70672727e+00  1.15558838e+03 ...  5.39143896e-03
+  9.50113963e-03  1.23799644e-01]
+phash         : ae5bc439c4f03365
+Top 5 Coeffs   : [ 5.24537e+03 -1.71000e+00  1.15559e+03 -5.40000e+00  9.51560e+02]
+
+--- wurth-international_com.png ---
+Domain         : wurth-international.com
+DCT bands    : [ 6.15184326e+03 -1.19687138e+01  1.27890747e+03 ...  7.83284474e-03
+  9.96907521e-03  1.61315918e-01]
+phash         : ad4bc0b4c3d23f23
+Top 5 Coeffs   : [ 6.15184e+03 -1.19700e+01  1.27891e+03  3.00000e-01  5.62820e+02]
+
+--- wurth-international_com_cn.png ---
+Domain         : wurth-international.com.cn
+DCT bands    : [ 6.15184326e+03 -1.19687138e+01  1.27890747e+03 ...  7.83284474e-03
+  9.96907521e-03  1.61315918e-01]
+phash         : ad4bc0b4c3d23f23
+Top 5 Coeffs   : [ 6.15184e+03 -1.19700e+01  1.27891e+03  3.00000e-01  5.62820e+02]
+
+--- wurthsaudi_com.png ---
+Domain         : wurthsaudi.com
+DCT bands    : [5.91240576e+03 5.80504608e+00 1.30518945e+03 ... 6.12386083e-03
+ 4.45556641e-03 1.80887863e-01]
+phash         : e91e956096c57a27
+Top 5 Coeffs   : [ 5.91241e+03  5.81000e+00  1.30519e+03 -2.38000e+00  7.16440e+02]
+
+--- wurth_co.png ---
+Domain         : wurth.co
+DCT bands    : [ 6.07343750e+03 -3.26333463e-01  1.27445190e+03 ...  2.31933594e-03
+  1.46484375e-03  1.95841476e-01]
+phash         : bc4bd035c3d02f27
+Top 5 Coeffs   : [ 6.07344e+03 -3.30000e-01  1.27445e+03  2.30000e-01  6.34390e+02]
+
+--- wurth_com_uy.png ---
+Domain         : wurth.com.uy
+DCT bands    : [4.98478076e+03 1.03706589e+01 1.04695166e+03 ... 1.14542646e-02
+ 1.08846026e-02 7.78605118e-02]
+phash         : fa5e897a85a16661
+Top 5 Coeffs   : [4984.78   10.37 1046.95    7.47  962.48]
+
+--- wurth_fi.png ---
+Domain         : wurth.fi
+DCT bands    : [ 6.15184326e+03 -1.19687138e+01  1.27890747e+03 ...  7.83284474e-03
+  9.96907521e-03  1.61315918e-01]
+phash         : ad4bc0b4c3d23f23
+Top 5 Coeffs   : [ 6.15184e+03 -1.19700e+01  1.27891e+03  3.00000e-01  5.62820e+02]
+
+--- wurth_ua.png ---
+Domain         : wurth.ua
+DCT bands    : [4.95450000e+03 9.45209789e+00 1.07435974e+03 ... 7.05973292e-03
+ 4.61832667e-03 1.24552406e-01]
+phash         : fb1e897a85a16661
+Top 5 Coeffs   : [4954.5     9.45 1074.36    7.15 1028.39]
+
+--- wwf_no.ico ---
+Domain         : wwf.no
+DCT bands    : [ 5.29837500e+03 -7.11794281e+01  6.89782349e+02 ...  1.07014971e-02
+  1.23291016e-02  8.45540389e-02]
+phash         : ba90e35be02ba59c
+Top 5 Coeffs   : [5298.38  -71.18  689.78  302.44  240.08]
+
+--- ymca-cnw_org.png ---
+Domain         : ymca-cnw.org
+DCT bands    : [6.88996826e+03 2.12311981e+02 6.85202515e+02 ... 2.47599278e-02
+ 1.61946621e-02 1.87052414e-01]
+phash         : e56999968eb1630d
+Top 5 Coeffs   : [6889.97  212.31  685.2  -269.75 -357.24]
+
+--- ymcasteuben_org.png ---
+Domain         : ymcasteuben.org
+DCT bands    : [7.06221826e+03 2.11267319e+02 8.72317383e+02 ... 1.38956709e-02
+ 1.37939453e-02 2.36185715e-01]
+phash         : e34999968cb3e30d
+Top 5 Coeffs   : [7062.22  211.27  872.32 -298.14 -194.89]
+
+--- yonyou_com_hk.png ---
+Domain         : yonyou.com.hk
+DCT bands    : [6.47543750e+03 2.21411362e+01 8.07361450e+01 ... 7.01904297e-03
+ 8.93147755e-03 1.60868332e-01]
+phash         : e91de5e29a7b4520
+Top 5 Coeffs   : [6475.44   22.14   80.74  -11.5   145.63]
+
+--- yves-rocher_pt.ico ---
+Domain         : yves-rocher.pt
+DCT bands    : [ 3.58768750e+03  2.73483067e+01 -1.09635352e+03 ...  6.44938136e-03
+  8.99251271e-03  4.61018868e-02]
+phash         : c5cc3b73321c6cc6
+Top 5 Coeffs   : [ 3587.69    27.35 -1096.35   -76.4   -467.14]
+
+--- zktecoma_com.png ---
+Domain         : zktecoma.com
+DCT bands    : [ 7.66834375e+03 -2.32912155e+02 -7.95901537e-01 ...  5.14729833e-03
+  7.91422557e-03  2.49898270e-01]
+phash         : 9dbec2403cbfc740
+Top 5 Coeffs   : [ 7.66834e+03 -2.32910e+02 -8.00000e-01  7.73300e+01  6.43300e+01]
+
+--- zkteco_vn.png ---
+Domain         : zkteco.vn
+DCT bands    : [ 7.81415527e+03 -1.27586197e+02  9.70307312e+01 ...  4.88281250e-04
+  7.73111999e-04  3.03019196e-01]
+phash         : bfa4c04b3eb4c24b
+Top 5 Coeffs   : [7814.16 -127.59   97.03  101.85  109.75]
+

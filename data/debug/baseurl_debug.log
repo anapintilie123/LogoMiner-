@@ -1,0 +1,4343 @@
+  ↳ Attempted URL: https://www.stanbicbank.co.zw
+  ↳ Status: 200
+  ↳ Final URL: https://www.stanbicbank.co.zw/zimbabwe/personal
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.stanbicbank.co.zw/
+     2. https://www.stanbicbank.co.zw/zimbabwe/personal
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.astrazeneca.ua
+  ↳ Status: 200
+  ↳ Final URL: https://www.astrazeneca.ua/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.autosecuritas-ct-seysses.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.autosecuritas-ct-seysses.fr/public/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.autosecuritas-ct-seysses.fr/
+     2. https://www.autosecuritas-ct-seysses.fr/public/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ovb.ro
+  ↳ Status: 200
+  ↳ Final URL: https://www.ovb.ro/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-hellwig-hoyerswerda.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-hellwig-hoyerswerda.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyota-buchreiter-eisenstadt.at
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyota-buchreiter-eisenstadt.at/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ebay.cn
+  ↳ Status: 200
+  ↳ Final URL: https://www.ebay.cn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.greatplacetowork.com.bo
+  ↳ Status: 200
+  ↳ Final URL: https://www.greatplacetowork.com.bo/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wurth-international.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.wurth-international.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.plameco-hannover.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.plameco-hannover.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-moeller-wunstorf.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.kia-moeller-wunstorf.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ccusa.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://ccusa.co.nz/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ccusa.co.nz/
+     2. https://ccusa.co.nz/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.tupperware.at
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.tupperware.at', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tupperware.at'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://tupperware.at
+  ↳ Status: 503
+  ↳ Final URL: https://tupperware.at/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: drop overload...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://tupperware.at
+  ↳ Status: 503
+  ↳ Final URL: https://tupperware.at/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://tupperware.at/
+     2. https://tupperware.at/
+  ↳ HTML snippet: drop overload...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.tupperware.at
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='www.tupperware.at', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000023255F06C10>, 'Connection to www.tupperware.at timed out. (connect timeout=10)'))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.zalando.cz
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.cz', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://zalando.cz
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.cz', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://zalando.cz
+  ↳ Status: 403
+  ↳ Final URL: https://www.zalando.cz/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://zalando.cz/
+     2. https://zalando.cz/
+     3. https://www.zalando.cz/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.crocs.com.uy
+  ↳ Status: 200
+  ↳ Final URL: https://www.crocs.com.uy/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ymcasteuben.org
+  ↳ Status: 200
+  ↳ Final URL: https://www.ymcasteuben.org/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.engie.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://www.engie.co.uk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ibc-solar.jp
+  ↳ Status: 200
+  ↳ Final URL: https://www.ibc-solar.jp/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.lidl.com.cy
+  ↳ Status: 200
+  ↳ Final URL: https://www.lidl.com.cy/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nobleprog.mx
+  ↳ Status: 200
+  ↳ Final URL: https://www.nobleprog.mx/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.freseniusmedicalcare.ca
+  ↳ Status: 200
+  ↳ Final URL: https://www.freseniusmedicalcare.ca/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.synlab.com.tr
+  ↳ Status: 200
+  ↳ Final URL: https://www.synlab.com.tr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.avis.cr
+  ↳ Status: 200
+  ↳ Final URL: https://avis.cr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.avis.cr/
+     2. https://avis.cr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ebayglobalshipping.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.ebayglobalshipping.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cafelasmargaritas.es
+  ↳ Status: 200
+  ↳ Final URL: https://cafelasmargaritas.es/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.cafelasmargaritas.es/
+     2. https://cafelasmargaritas.es/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.affidea.ba
+  ↳ Status: 200
+  ↳ Final URL: https://affidea.ba/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.affidea.ba/
+     2. https://affidea.ba/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.lu
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.lu/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitex-wasseramt.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitex-wasseramt.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoanaheim.net
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoanaheim.net/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.deheus.com.vn
+  ↳ Status: 200
+  ↳ Final URL: https://www.deheus.com.vn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.com.ru
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.com.ru/ru
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.veolia.com.ru/
+     2. https://www.veolia.com.ru/ru
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.julis-sh.de
+  ↳ Status: 200
+  ↳ Final URL: https://julis-sh.de/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.julis-sh.de/
+     2. https://julis-sh.de/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoconyersga.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoconyersga.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renault-tortosa.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.renault-tortosa.es/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.oil-testing.de
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.oil-testing.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F06350>: Failed to resolve 'www.oil-testing.de' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://oil-testing.de
+  ↳ Status: 200
+  ↳ Final URL: https://oil-testing.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.baywa-re.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.baywa-re.es/en/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.baywa-re.es/
+     2. https://www.baywa-re.es/en/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.menschenfuermenschen.at
+  ↳ Status: 200
+  ↳ Final URL: https://www.menschenfuermenschen.at/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.europa-union-sachsen-anhalt.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.europa-union-sachsen-anhalt.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wurthsaudi.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.wurthsaudi.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.wurthsaudi.com'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://wurthsaudi.com
+  ↳ Status: 200
+  ↳ Final URL: https://wurthsaudi.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pirtek.be
+  ↳ Status: 200
+  ↳ Final URL: https://www.pirtek.be/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoseguin.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoseguin.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.es/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-kaschmieder-waren.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-kaschmieder-waren.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.zkteco.vn
+  ↳ Status: 200
+  ↳ Final URL: https://www.zkteco.vn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.allianz.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.allianz.nl/zakelijk.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.allianz.nl/
+     2. https://www.allianz.nl/zakelijk.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.xella-colloquium.berlin
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.xella-colloquium.berlin', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F07B10>: Failed to resolve 'www.xella-colloquium.berlin' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://xella-colloquium.berlin
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='xella-colloquium.berlin', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F07D90>: Failed to resolve 'xella-colloquium.berlin' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://xella-colloquium.berlin
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='xella-colloquium.berlin', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023255EFB490>: Failed to resolve 'xella-colloquium.berlin' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.xella-colloquium.berlin
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='www.xella-colloquium.berlin', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023255EFB6F0>: Failed to resolve 'www.xella-colloquium.berlin' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.unicharm.com.br
+  ↳ Status: 200
+  ↳ Final URL: https://www.unicharm.com.br/pt/home.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.unicharm.com.br/
+     2. https://www.unicharm.com.br/pt/home.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.berlitz-augsburg.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.berlitz-augsburg.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.intertongn.es
+  ↳ Status: 200
+  ↳ Final URL: https://intertongn.es/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.intertongn.es/
+     2. https://intertongn.es/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bmw-motorrad-euromotos-lyon.fr
+  ↳ Status: 200
+  ↳ Final URL: https://bmw-motorrad-euromotos-lyon.fr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bmw-motorrad-euromotos-lyon.fr/
+     2. https://bmw-motorrad-euromotos-lyon.fr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rsmpoland.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.rsmpoland.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.esseskincare.sg
+  ↳ Status: 200
+  ↳ Final URL: https://esseskincare.sg/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.esseskincare.sg/
+     2. https://esseskincare.sg/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.secureparkinghi.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.secureparkinghi.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.trinkgutlippstadt.de
+  ↳ Status: 200
+  ↳ Final URL: https://trinkgutlippstadt.de/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.trinkgutlippstadt.de/
+     2. https://trinkgutlippstadt.de/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bauder.lt
+  ↳ Status: 200
+  ↳ Final URL: https://www.bauder.lt/lt/bauder-lithuania.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bauder.lt/
+     2. https://www.bauder.lt/lt/
+     3. https://www.bauder.lt/lt/bauder-lithuania.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.savethechildren.ca
+  ↳ Status: 200
+  ↳ Final URL: https://www.savethechildren.ca/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-lackmann-sendenhorst.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-lackmann-sendenhorst.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.avoncameroun.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.avoncameroun.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.avoncameroun.com'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://avoncameroun.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='avoncameroun.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'avoncameroun.com'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://avoncameroun.com
+  ↳ Status: 404
+  ↳ Final URL: http://avoncameroun.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.menicon.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.menicon.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde-gas.fi
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde-gas.fi/shop/fi/fi-ig/home
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linde-gas.fi/
+     2. https://www.linde-gas.fi/shop/fi/fi-ig/home
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mateco.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.mateco.nl/nl/start-een-huurverzoek/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.mateco.nl/
+     2. https://www.mateco.nl/nl/start-een-huurverzoek/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.svnefird.com
+  ↳ Status: 200
+  ↳ Final URL: https://svnefird.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.svnefird.com/
+     2. https://svnefird.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.svntrinity.com
+  ↳ Status: 200
+  ↳ Final URL: https://svntrinity.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.svntrinity.com/
+     2. http://svntrinity.com/
+     3. https://svntrinity.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.orient-food.sk
+  ↳ Status: 200
+  ↳ Final URL: https://www.orient-food.sk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.noiseassessments.org
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.noiseassessments.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F074D0>: Failed to resolve 'www.noiseassessments.org' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://noiseassessments.org
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='noiseassessments.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000023255F06350>, 'Connection to noiseassessments.org timed out. (connect timeout=10)'))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://noiseassessments.org
+  ↳ Status: 200
+  ↳ Final URL: https://noiseassessments.co.uk/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. http://noiseassessments.org/
+     2. https://noiseassessments.co.uk/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.equans.hu
+  ↳ Status: 200
+  ↳ Final URL: https://equans.hu/hu/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.equans.hu/
+     2. https://equans.hu/hu/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.williamblairfunds.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.williamblairfunds.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazdaofamarillo.com
+  ↳ Status: 405
+  ↳ Final URL: https://www.mazdaofamarillo.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-roessel-birkenau.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-roessel-birkenau.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcodelran.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcodelran.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-poznan-voyager.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-poznan-voyager.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kapanfastigheter.se
+  ↳ Status: 200
+  ↳ Final URL: https://kapanfastigheter.se/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.kapanfastigheter.se/
+     2. https://kapanfastigheter.se/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-wassing-ahaus-wuellen.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-wassing-ahaus-wuellen.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rheine.schule
+  ↳ Status: 200
+  ↳ Final URL: https://rheine.schule/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.rheine.schule/
+     2. https://rheine.schule/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ford.pl.ua
+  ↳ Status: 200
+  ↳ Final URL: https://ford.pl.ua/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ford.pl.ua/
+     2. https://ford.pl.ua/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bioderma.co.za
+  ↳ Status: 200
+  ↳ Final URL: https://www.bioderma.co.za/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linexps.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.linexps.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kalyanmachines.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.kalyanmachines.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-suedmobile-radolfzell.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.kia-suedmobile-radolfzell.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.worldvision.ca
+  ↳ Status: 404
+  ↳ Final URL: https://www.worldvision.ca/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde-gas.at
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde-gas.at/shop/de/at-ig/home
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linde-gas.at/
+     2. https://www.linde-gas.at/shop/de/at-ig/home
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaultsanzhispano.es
+  ↳ Status: 200
+  ↳ Final URL: https://renaultsanzhispano.es/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.renaultsanzhispano.es/
+     2. https://renaultsanzhispano.es/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.avia.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.avia.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cdviberica.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.cdviberica.com/es/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.cdviberica.com/
+     2. https://www.cdviberica.com/es/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.adecco.cl
+  ↳ Status: 200
+  ↳ Final URL: https://www.adecco.com/es-cl
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.adecco.cl/
+     2. https://www.adecco.com/es-cl
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wurth.co
+  ↳ Status: 200
+  ↳ Final URL: https://www.wurth.co/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nestle.com.vn
+  ↳ Status: 200
+  ↳ Final URL: https://www.nestle.com.vn/vi
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.nestle.com.vn/
+     2. https://www.nestle.com.vn/vi
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikin.ge
+  ↳ Status: 200
+  ↳ Final URL: https://www.daikin.ge/en_GE/home.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.daikin.ge/
+     2. https://www.daikin.ge/en_GE/home.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ibc-solar.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.ibc-solar.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyotanatas.com.tr
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyotanatas.com.tr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-henseler-schwedt.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-henseler-schwedt.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcobloomfield.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcobloomfield.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.zalando.dk
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.dk', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://zalando.dk
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.dk', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://zalando.dk
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.dk', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.zalando.dk
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.dk', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.crocs.co.id
+  ↳ Status: 200
+  ↳ Final URL: https://www.crocs.co.id/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikinkuwait.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.daikinkuwait.com/en_us/customers.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.daikinkuwait.com/
+     2. https://www.daikinkuwait.com/en_us/customers.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bbraun.rs
+  ↳ Status: 200
+  ↳ Final URL: https://www.bbraun.rs/sr.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bbraun.rs/
+     2. https://www.bbraun.rs/sr.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikin.com.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.daikin.com.sg/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcosalemor.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcosalemor.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitex-regionbirs.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitex-regionbirs.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-hansmann-kassel.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-hansmann-kassel.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.einhell.ba
+  ↳ Status: 200
+  ↳ Final URL: https://www.einhell.ba/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linexofschererville.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.linexofschererville.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://linexofschererville.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='linexofschererville.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://linexofschererville.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.linex.com/find-a-location
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. http://linexofschererville.com/
+     2. https://www.linex.com/us/line-x-of-schererville-F1040
+     3. https://www.linex.com/find-a-location
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.webster.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.webster.nl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.flashbay.ca
+  ↳ Status: 200
+  ↳ Final URL: https://www.flashbay.ca/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pingusenglish.com.tr
+  ↳ Status: 503
+  ↳ Final URL: https://www.pingusenglish.com.tr/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd"> <HTML><HEAD><TITLE>Service Unavailable</TITLE> <META HTTP-EQUIV="Content-Type" Content="text/html; charset=u...
+[-----------------------------------]
+
+  ↳ Attempted URL: https://pingusenglish.com.tr
+  ↳ Status: 503
+  ↳ Final URL: https://pingusenglish.com.tr/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd"> <HTML><HEAD><TITLE>Service Unavailable</TITLE> <META HTTP-EQUIV="Content-Type" Content="text/html; charset=u...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://pingusenglish.com.tr
+  ↳ Status: 503
+  ↳ Final URL: http://pingusenglish.com.tr/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd"> <HTML><HEAD><TITLE>Service Unavailable</TITLE> <META HTTP-EQUIV="Content-Type" Content="text/html; charset=u...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.pingusenglish.com.tr
+  ↳ Status: 503
+  ↳ Final URL: http://www.pingusenglish.com.tr/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd"> <HTML><HEAD><TITLE>Service Unavailable</TITLE> <META HTTP-EQUIV="Content-Type" Content="text/html; charset=u...
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.compo.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.compo.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcowilliamsportpa.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcowilliamsportpa.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pkf-hk.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.pkf-hk.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde-electronics.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde-electronics.com/shop/de/de-le/home
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linde-electronics.com/
+     2. https://www.linde-electronics.com/shop/de/de-le/home
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.besins-healthcare.se
+  ↳ Status: 200
+  ↳ Final URL: https://www.besins-healthcare.se/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.subaru.jp
+  ↳ Status: 200
+  ↳ Final URL: https://www.subaru.jp/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaultmerida.com.mx
+  ↳ Status: 403
+  ↳ Final URL: https://www.renaultmerida.com.mx/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cvjm-pfalz.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.cvjm-pfalz.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.medef-alsace.com
+  ↳ Status: 500
+  ↳ Final URL: https://www.medef-alsace.com/fr/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. https://www.medef-alsace.com/
+     2. https://www.medef-alsace.com/fr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.allianz-kuhlemann.de
+  ↳ Status: 200
+  ↳ Final URL: https://vertretung.allianz.de/kuhlemann.vertretung/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.allianz-kuhlemann.de/
+     2. https://vertretung.allianz.de/kuhlemann.vertretung/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.tbwa.co.za
+  ↳ Status: 200
+  ↳ Final URL: https://www.tbwa.co.za/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.fr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.engie.pt
+  ↳ Status: 200
+  ↳ Final URL: https://www.engie.pt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.subaru.nc
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.subaru.nc', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.subaru.nc'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://subaru.nc
+  ↳ Status: 200
+  ↳ Final URL: https://subaru.nc/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.peugeot.sk
+  ↳ Status: 200
+  ↳ Final URL: https://www.peugeot.sk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.siebtechnik-tema.cn
+  ↳ Status: 200
+  ↳ Final URL: https://www.siebtechnik-tema.cn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.santillana.com.hn
+  ↳ Status: 200
+  ↳ Final URL: https://www.santillana.com.hn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.intersport-rent.fr
+  ↳ Status: 403
+  ↳ Final URL: https://www.intersport-rent.fr/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazdabali.co.id
+  ↳ Status: 200
+  ↳ Final URL: https://mazdabali.co.id/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.mazdabali.co.id/
+     2. https://mazdabali.co.id/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rsmthailand.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.rsm.global/thailand
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.rsmthailand.com/
+     2. http://rsm.global/thailand/
+     3. https://rsm.global/thailand/
+     4. https://www.rsm.global/thailand/
+     5. https://www.rsm.global/thailand
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitex-wiggertal.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitex-wiggertal.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcocatonsvillemd.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcocatonsvillemd.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.strabag-pfs.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.strabag-pfs.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.autosecuritas-barlin.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.autosecuritas-barlin.fr/public/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.autosecuritas-barlin.fr/
+     2. https://www.autosecuritas-barlin.fr/public/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamco-councilbluffs.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamco-councilbluffs.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.meggle-bakery.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.meggle-bakery.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nutriciababy.be
+  ↳ Status: 200
+  ↳ Final URL: https://www.nutriciababy.be/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pcllawyersfrankston.com.au
+  ↳ Status: 200
+  ↳ Final URL: https://www.pcllawyersfrankston.com.au/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.adra.org.pe
+  ↳ Status: 200
+  ↳ Final URL: https://adra.org.pe/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.adra.org.pe/
+     2. https://adra.org.pe/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nestle.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.nestle.ch/de
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.nestle.ch/
+     2. https://www.nestle.ch/de
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-sturne-rochlitz.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-sturne-rochlitz.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.inductotherm.co.kr
+  ↳ Status: 200
+  ↳ Final URL: https://inductotherm.co.kr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.inductotherm.co.kr/
+     2. https://inductotherm.co.kr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renault.dk
+  ↳ Status: 200
+  ↳ Final URL: https://www.renault.dk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wurth.com.uy
+  ↳ Status: 200
+  ↳ Final URL: https://eshop.wurth.com.uy/es/UY/UYU/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.wurth.com.uy/
+     2. https://eshop.wurth.com.uy/es/UY/UYU/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaultchiva.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.renaultchiva.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.culliganwi.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.culliganwi.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-blank-dinkelsbuehl.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-blank-dinkelsbuehl.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.ca
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.ca/en
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.veolia.ca/
+     2. https://www.veolia.ca/en
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.vitalimages.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.mi.medical.canon/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.vitalimages.com/
+     2. https://www.mi.medical.canon/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.amnesty.is
+  ↳ Status: 200
+  ↳ Final URL: https://amnesty.is/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.amnesty.is/
+     2. https://amnesty.is/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.meggle.co.jp
+  ↳ Status: 200
+  ↳ Final URL: https://www.meggle.co.jp/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.engie.cl
+  ↳ Status: 200
+  ↳ Final URL: https://www.engie.cl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde-finance.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde-finance.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde.pe
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde.pe/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.narscosmetics.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.narscosmetics.es/es
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.narscosmetics.es/
+     2. https://www.narscosmetics.es/es
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.brother.com.pe
+  ↳ Status: 200
+  ↳ Final URL: https://www.brother.com.pe/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaultrycauto.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.renaultrycauto.es/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-gorny-eislingen.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.kia-gorny-eislingen.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ikea.com.hk
+  ↳ Status: 200
+  ↳ Final URL: https://www.ikea.com.hk/zh
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ikea.com.hk/
+     2. https://www.ikea.com.hk/zh
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-becker-homburg-bruchhof.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-becker-homburg-bruchhof.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.catsprotectionshop.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://www.catsprotectionshop.co.uk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.culliganheartland.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.culliganheartland.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wurth-international.com.cn
+  ↳ Status: 200
+  ↳ Final URL: https://www.wurth-international.com.cn/en/w_int/company/index/start_page.php
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.wurth-international.com.cn/
+     2. http://www.wurth-international.com.cn/en/index.php
+     3. https://www.wurth-international.com.cn/en/index.php
+     4. http://www.wurth-international.com.cn/en/w_int/company/index/start_page.php
+     5. https://www.wurth-international.com.cn/en/w_int/company/index/start_page.php
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.medef-artois.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.medef-artois.fr/fr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.medef-artois.fr/
+     2. https://www.medef-artois.fr/fr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.sephora.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.sephora.pl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://sephora.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='sephora.pl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://sephora.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.sephora.pl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.sephora.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.sephora.pl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikin-ksa.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.daikin-ksa.com/ar_sa/customers.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.daikin-ksa.com/
+     2. https://www.daikin-ksa.com/ar_sa/customers.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.sherwin-williams.com.ec
+  ↳ Status: 200
+  ↳ Final URL: https://www.sherwin-williams.com.ec/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.culligantotalwater.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.culligantotalwater.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ecslupsk.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.ecslupsk.pl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://ecslupsk.pl
+  ↳ Status: 200
+  ↳ Final URL: https://ecslupsk.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kierpensions.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://kierpensions.co.uk/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.kierpensions.co.uk/
+     2. https://kierpensions.co.uk/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.ci
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.ci/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.allianz-rose.info
+  ↳ Status: 200
+  ↳ Final URL: https://vertretung.allianz.de/ulrich.rose/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.allianz-rose.info/
+     2. https://vertretung.allianz.de/ulrich.rose/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linak.nl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.linak.nl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://linak.nl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.linak.nl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://linak.nl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.linak.nl', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.linak.nl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.taylorfarmsdeli.com
+  ↳ Status: 200
+  ↳ Final URL: https://taylorfarmsdeli.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.taylorfarmsdeli.com/
+     2. https://taylorfarmsdeli.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.actemium.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.actemium.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.ky
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.ky/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.chip.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.chip.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.grantthornton.com.sv
+  ↳ Status: 200
+  ↳ Final URL: https://www.grantthornton.com.sv/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.com.pa
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.com.pa/es/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bakertilly.com.pa/
+     2. https://www.bakertilly.com.pa/espanol
+     3. https://www.bakertilly.com.pa/es/espanol/
+     4. https://www.bakertilly.com.pa/es/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.vkf-renzel.com.tr
+  ↳ Status: 200
+  ↳ Final URL: https://www.vkf-renzel.com.tr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.fleishmanhillard.cn
+  ↳ Status: 200
+  ↳ Final URL: https://fleishmanhillard.cn/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.fleishmanhillard.cn/
+     2. https://fleishmanhillard.cn/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.isover.hu
+  ↳ Status: 200
+  ↳ Final URL: https://www.isover.hu/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bauder.at
+  ↳ Status: 200
+  ↳ Final URL: https://www.bauder.at/at/bauder-oesterreich.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bauder.at/
+     2. https://www.bauder.at/at/bauder-oesterreich.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaulttersa.com.mx
+  ↳ Status: 200
+  ↳ Final URL: https://renaulttersa.com.mx/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.renaulttersa.com.mx/
+     2. https://renaulttersa.com.mx/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.zktecoma.com
+  ↳ Status: 200
+  ↳ Final URL: https://zktecoma.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.zktecoma.com/
+     2. https://zktecoma.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcotulsa-memorial.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcotulsa-memorial.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.azets.ie
+  ↳ Status: 200
+  ↳ Final URL: https://www.azets.ie/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.lidl.lt
+  ↳ Status: 200
+  ↳ Final URL: https://www.lidl.lt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mooresingapore.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.mooresingapore.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.urmet.com.br
+  ↳ Status: 200
+  ↳ Final URL: https://www.urmet.com.br/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ccusa.com.au
+  ↳ Status: 200
+  ↳ Final URL: https://ccusa.com.au/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ccusa.com.au/
+     2. https://ccusa.com.au/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toysrus.com.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.toysrus.com.sg/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcopasadenatx.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcopasadenatx.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.manpowergroup.no
+  ↳ Status: 200
+  ↳ Final URL: https://www.manpowergroup.no/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mapfre.pr
+  ↳ Status: 200
+  ↳ Final URL: https://www.mapfre.pr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.medef-bearnetsoule.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.medef-bearnetsoule.com/fr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.medef-bearnetsoule.com/
+     2. https://www.medef-bearnetsoule.com/fr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.moore.swiss
+  ↳ Status: 200
+  ↳ Final URL: https://moore.swiss/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.moore.swiss/
+     2. https://moore.swiss/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ccusa.hu
+  ↳ Status: 200
+  ↳ Final URL: https://ccusa.hu/hu/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ccusa.hu/
+     2. https://ccusa.hu/hu/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.modshair-nuernberg.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.modshair-nuernberg.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cdu-aldenhoven.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.cdu-aldenhoven.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.axabreakdown.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://www.axabreakdown.co.uk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.crif.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.crif.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-sturne-grimma.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-sturne-grimma.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.panpuri.fr
+  ↳ Status: 200
+  ↳ Final URL: https://panpuri.fr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.panpuri.fr/
+     2. https://panpuri.fr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.despec.eu
+  ↳ Status: 200
+  ↳ Final URL: https://www.despec.eu/homepage
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.despec.eu/
+     2. https://www.despec.eu/homepage
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.savethechildren.mx
+  ↳ Status: 200
+  ↳ Final URL: https://savethechildren.mx/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.savethechildren.mx/
+     2. https://savethechildren.mx/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.chicco.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.chicco.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://chicco.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='chicco.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://chicco.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.chicco.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.chicco.pl
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.chicco.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-fenzl-hauzenberg.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-fenzl-hauzenberg.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.algordanza.com.au
+  ↳ Status: 200
+  ↳ Final URL: https://www.algordanza.com.au/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.honda-pirola.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.honda-pirola.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rotaryclubofessex.com
+  ↳ Status: 200
+  ↳ Final URL: https://rotaryclubofessex.com/?doing_wp_cron=1743446976.5659589767456054687500
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.rotaryclubofessex.com/
+     2. https://www.rotaryclubofessex.com/?doing_wp_cron=1743446976.5659589767456054687500
+     3. https://rotaryclubofessex.com/?doing_wp_cron=1743446976.5659589767456054687500
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.carglass.rs
+  ↳ Status: 200
+  ↳ Final URL: https://carglass.rs/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.carglass.rs/
+     2. https://carglass.rs/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nutricia.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.nutricia.nl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toofacedcosmetics.jp
+  ↳ Status: 200
+  ↳ Final URL: https://www.toofacedcosmetics.jp/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linexaus.com.au
+  ↳ Status: 200
+  ↳ Final URL: https://www.linexaus.com.au/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.seasonsrehab.in
+  ↳ Status: 200
+  ↳ Final URL: https://seasonsrehab.in/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.seasonsrehab.in/
+     2. https://seasonsrehab.in/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.berlitz-dublin.ie
+  ↳ Status: 200
+  ↳ Final URL: https://berlitz-dublin.ie/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.berlitz-dublin.ie/
+     2. https://berlitz-dublin.ie/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.julis-nuernberg.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.julis-nuernberg.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linak.com.br
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.linak.com.br', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://linak.com.br
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.linak.com.br', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://linak.com.br
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.linak.com.br', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.linak.com.br
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wurth.fi
+  ↳ Status: 200
+  ↳ Final URL: https://www.wurth.fi/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikincareers.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.daikincareers.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.daikincareers.com'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://daikincareers.com
+  ↳ Status: 200
+  ↳ Final URL: https://daikincareers.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pkf.co.in
+  ↳ Status: 200
+  ↳ Final URL: https://www.pkf.co.in/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.worldvision.bo
+  ↳ Status: 200
+  ↳ Final URL: https://www.worldvision.bo/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.affidea.pt
+  ↳ Status: 200
+  ↳ Final URL: https://affidea.pt/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.affidea.pt/
+     2. https://affidea.pt/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikintexastechnologypark.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.daikintexastechnologypark.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikin-china.com.cn
+  ↳ Status: 200
+  ↳ Final URL: https://www.daikin-china.com.cn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rubiomonocoat.com.au
+  ↳ Status: 200
+  ↳ Final URL: https://rubiomonocoat.com.au/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.rubiomonocoat.com.au/
+     2. https://rubiomonocoat.com.au/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mitsubishi-motors.com.om
+  ↳ Status: 200
+  ↳ Final URL: https://www.mitsubishi-motors.com.om/en?rd=true
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.mitsubishi-motors.com.om/
+     2. https://www.mitsubishi-motors.com.om/en?rd=true
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-tabbouch-speyer.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-tabbouch-speyer.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kumonla.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.kumonla.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.infiniti-bahrain.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.infiniti-bahrain.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ford.vn.ua
+  ↳ Status: 200
+  ↳ Final URL: https://ford.vn.ua/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ford.vn.ua/
+     2. https://ford.vn.ua/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde-gas.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde-gas.nl/shop/nl/nl-ig/home
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linde-gas.nl/
+     2. https://www.linde-gas.nl/shop/nl/nl-ig/home
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcofeastervillepa.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcofeastervillepa.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.engie.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.engie.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.scte-prod.herokuapp.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.scte-prod.herokuapp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000232560C0190>: Failed to resolve 'www.scte-prod.herokuapp.com' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://scte-prod.herokuapp.com
+  ↳ Status: 200
+  ↳ Final URL: https://scte-prod.herokuapp.com/accounts/login/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://scte-prod.herokuapp.com/
+     2. https://scte-prod.herokuapp.com/accounts/login/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spie.lu
+  ↳ Status: 200
+  ↳ Final URL: https://spie.lu/en
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.spie.lu/
+     2. https://spie.lu/
+     3. https://spie.lu/en
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-haese-erkrath-hochdahl.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-haese-erkrath-hochdahl.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.intersport-arc1950.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.intersport-arc1950.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.savethechildren.it
+  ↳ Status: 200
+  ↳ Final URL: https://www.savethechildren.it/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.misterwhat.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.misterwhat.nl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.saint-gobain.ru
+  ↳ Status: 403
+  ↳ Final URL: https://www.saint-gobain.ru/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ikea.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.ikea.es/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.daikin.com.vn
+  ↳ Status: 200
+  ↳ Final URL: https://www.daikin.com.vn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nobleprog.co.th
+  ↳ Status: 200
+  ↳ Final URL: https://www.nobleprog.co.th/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcowintervillenc.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcowintervillenc.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitexaadorf.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitexaadorf.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.in
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.in/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wurth.ua
+  ↳ Status: 200
+  ↳ Final URL: https://wurth.ua/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.wurth.ua/
+     2. https://wurth.ua/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.metlife.co.kr
+  ↳ Status: 200
+  ↳ Final URL: https://www.metlife.co.kr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.einhell.hr
+  ↳ Status: 200
+  ↳ Final URL: https://www.einhell.hr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyotafocsani.ro
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyotafocsani.ro/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamco-newbraunfels.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamco-newbraunfels.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bestrucksofmn.net
+  ↳ Status: 200
+  ↳ Final URL: https://www.bestrucksofmn.net/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.berlitzph.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.berlitzph.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.fmc-mexico.com
+  ↳ Status: 200
+  ↳ Final URL: https://fmc-mexico.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.fmc-mexico.com/
+     2. https://fmc-mexico.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mitsubishielectric.cz
+  ↳ Status: 200
+  ↳ Final URL: https://www.mitsubishielectric.cz/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaultsancosme.com.mx
+  ↳ Status: 403
+  ↳ Final URL: https://www.renaultsancosme.com.mx/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-kilger-regen.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-kilger-regen.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toupret.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.toupret.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazdalakeland.com
+  ↳ Status: 405
+  ↳ Final URL: https://www.mazdalakeland.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ikea.com.tr
+  ↳ Status: 200
+  ↳ Final URL: https://www.ikea.com.tr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-rzeszow-czach.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-rzeszow-czach.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ymca-cnw.org
+  ↳ Status: 200
+  ↳ Final URL: https://ymca-cnw.org/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ymca-cnw.org/
+     2. https://ymca-cnw.org/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.pt
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.pt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.srpb2b.com
+  ↳ Status: 200
+  ↳ Final URL: https://srpb2b.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.srpb2b.com/
+     2. https://srpb2b.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcosantaclaritaca.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcosantaclaritaca.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.edenred.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.edenred.es/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.airbnb.rs
+  ↳ Status: 200
+  ↳ Final URL: https://www.airbnb.rs/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaulttlalnepantla.com.mx
+  ↳ Status: 403
+  ↳ Final URL: https://www.renaulttlalnepantla.com.mx/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.dulux.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.dulux.pl/pl
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.dulux.pl/
+     2. https://www.dulux.pl/pl
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.thebodyshop.si
+  ↳ Status: 200
+  ↳ Final URL: https://thebodyshop.si/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.thebodyshop.si/
+     2. https://thebodyshop.si/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.immunospot.eu
+  ↳ Status: 200
+  ↳ Final URL: https://immunospot.eu/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.immunospot.eu/
+     2. https://immunospot.eu/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-moeller-eisenach.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.kia-moeller-eisenach.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.greatplacetowork.com.cy
+  ↳ Status: 200
+  ↳ Final URL: https://www.greatplacetowork.com.cy/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.orange.sn
+  ↳ Status: 200
+  ↳ Final URL: https://www.orange.sn/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.dk
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.dk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-banaszak-kleve.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-banaszak-kleve.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.ke
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.ke/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.araihelmet.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.araihelmet.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://araihelmet.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='araihelmet.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://araihelmet.com
+  ↳ Status: 200
+  ↳ Final URL: http://araihelmet.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nestle.mk
+  ↳ Status: 200
+  ↳ Final URL: https://www.nestle.mk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.globalconnectgroup.com
+  ↳ Status: 200
+  ↳ Final URL: https://globalconnectgroup.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.globalconnectgroup.com/
+     2. https://globalconnectgroup.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcofortworth.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcofortworth.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcosuffolkva.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcosuffolkva.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.papasaveriospizzeria.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://papasaveriospizzeria.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://papasaveriospizzeria.com
+  ↳ Status: 200
+  ↳ Final URL: http://papasaveriospizzeria.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde-gas.ee
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde-gas.ee/shop/et/ee-ig/home
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linde-gas.ee/
+     2. https://www.linde-gas.ee/shop/ee/ee-ig/home
+     3. https://www.linde-gas.ee/shop/et/ee-ig/home
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-elstner-jena.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-elstner-jena.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.servier.com.ar
+  ↳ Status: 200
+  ↳ Final URL: https://servier.com.ar/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.servier.com.ar/
+     2. https://servier.com.ar/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.sitechnorthwest.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.sitechnorthwest.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023255F079D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://sitechnorthwest.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='sitechnorthwest.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000023255F07B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://sitechnorthwest.com
+  ↳ Status: 200
+  ↳ Final URL: https://sitechnw.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. http://sitechnorthwest.com/
+     2. http://www.sitechnw.com
+     3. https://sitechnw.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rotary-bulgaria.org
+  ↳ Status: 200
+  ↳ Final URL: https://www.rotary-bulgaria.org/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.moog.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://www.moog.co.uk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-mueller-genthin.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.kia-mueller-genthin.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.carglass.gr
+  ↳ Status: 200
+  ↳ Final URL: https://www.carglass.gr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.murrelektronik.sk
+  ↳ Status: 200
+  ↳ Final URL: https://www.murrelektronik.sk/sk/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.murrelektronik.sk/
+     2. https://www.murrelektronik.sk/sk/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cfmotoperu.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.cfmoto.com.pe/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.cfmotoperu.com/
+     2. https://www.cfmoto.com.pe/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcometuchen.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcometuchen.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-dorner-riedlingen.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-dorner-riedlingen.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcotulsa-brokenarrow.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcotulsa-brokenarrow.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mercyships.se
+  ↳ Status: 200
+  ↳ Final URL: https://mercyships.se/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.mercyships.se/
+     2. https://mercyships.se/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-service-koch-ludwigsfelde.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-service-koch-ludwigsfelde.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-plt.ru
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.kia-plt.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-plt.ru'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://kia-plt.ru
+  ↳ Status: 200
+  ↳ Final URL: https://kia-plt.ru/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.lamborghini-zh.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.lamborghini-zh.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.secureparking.co.id
+  ↳ Status: 200
+  ↳ Final URL: https://secureparking.co.id/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.secureparking.co.id/
+     2. https://secureparking.co.id/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.solatube.se
+  ↳ Status: 200
+  ↳ Final URL: https://solatube.se/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.solatube.se/
+     2. https://solatube.se/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aviapolska.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.aviapolska.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.statkraft.ie
+  ↳ Status: 200
+  ↳ Final URL: https://www.statkraft.ie/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.carglass.cz
+  ↳ Status: 200
+  ↳ Final URL: https://carglass.cz/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.carglass.cz/
+     2. https://carglass.cz/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.intersport-martinique-guadeloupe.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.intersport-martinique-guadeloupe.fr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.bg
+  ↳ Status: 200
+  ↳ Final URL: https://bakertillysee.com/bg/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bakertilly.bg/
+     2. https://bakertillysee.com/bg/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.allianz-assistance.ie
+  ↳ Status: 403
+  ↳ Final URL: https://www.allianz-assistance.ie/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.isic.de
+  ↳ Status: 200
+  ↳ Final URL: https://isic.de/de/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.isic.de/
+     2. https://www.isic.de/de/
+     3. https://isic.de/de/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.starbucks.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.starbucks.co.nz/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.benu.ee
+  ↳ Status: 200
+  ↳ Final URL: https://www.benu.ee/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.sto.hr
+  ↳ Status: 200
+  ↳ Final URL: https://www.sto.hr/s/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.sto.hr/
+     2. https://www.sto.hr/s/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.decathlon.ch
+  ↳ Status: 403
+  ↳ Final URL: https://www.decathlon.ch/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.enterprise.dk
+  ↳ Status: 403
+  ↳ Final URL: https://www.enterprise.dk/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;www&#46;enterprise&#46;dk&#47;" on this server.<P> Reference&#3...
+[-----------------------------------]
+
+  ↳ Attempted URL: https://enterprise.dk
+  ↳ Status: 403
+  ↳ Final URL: https://www.enterprise.dk/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. https://enterprise.dk/
+     2. https://www.enterprise.dk/
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;www&#46;enterprise&#46;dk&#47;" on this server.<P> Reference&#3...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://enterprise.dk
+  ↳ Status: 403
+  ↳ Final URL: https://www.enterprise.dk/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://enterprise.dk/
+     2. https://www.enterprise.dk/
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;www&#46;enterprise&#46;dk&#47;" on this server.<P> Reference&#3...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.enterprise.dk
+  ↳ Status: 403
+  ↳ Final URL: https://www.enterprise.dk/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://www.enterprise.dk/
+     2. https://www.enterprise.dk/
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;www&#46;enterprise&#46;dk&#47;" on this server.<P> Reference&#3...
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.demeter-bw.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.demeter-bw.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.carlsjr.com.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.carlsjr.com.sg/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.dertour.sk
+  ↳ Status: 200
+  ↳ Final URL: https://www.dertour.sk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-ludwig-halle-neustadt.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-ludwig-halle-neustadt.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyotaaktoy.com.tr
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyotaaktoy.com.tr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-angola-autozuid.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-angola-autozuid.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.santillana.com.uy
+  ↳ Status: 200
+  ↳ Final URL: https://www.santillana.com.uy/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.africell.ao
+  ↳ Status: 200
+  ↳ Final URL: https://www.africell.ao/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.crocs.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.crocs.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-ma.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-ma.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cdlbarreiras.com.br
+  ↳ Status: 200
+  ↳ Final URL: https://www.cdlbarreiras.com.br/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bonprix.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.bonprix.nl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mcdonalds.co.za
+  ↳ Status: 200
+  ↳ Final URL: https://www.mcdonalds.co.za/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pearsonclinical.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://www.pearsonclinical.co.uk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.tupperware.co.kr
+  ↳ Status: 200
+  ↳ Final URL: https://www.tupperware.co.kr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ford.if.ua
+  ↳ Status: 200
+  ↳ Final URL: https://ford.if.ua/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ford.if.ua/
+     2. https://ford.if.ua/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ikea.ee
+  ↳ Status: 200
+  ↳ Final URL: https://www.ikea.ee/et
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.ikea.ee/
+     2. https://www.ikea.ee/et
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda.fi
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda.fi/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyotagocmenturk.com.tr
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyotagocmenturk.com.tr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-buelo-naumburg.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-buelo-naumburg.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.culliganquadcities.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.culliganquadcities.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nikonschool.de
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.nikonschool.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F06350>: Failed to resolve 'www.nikonschool.de' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://nikonschool.de
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='nikonschool.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F07ED0>: Failed to resolve 'nikonschool.de' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://nikonschool.de
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='nikonschool.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000232560717B0>: Failed to resolve 'nikonschool.de' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.nikonschool.de
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='www.nikonschool.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023256071480>: Failed to resolve 'www.nikonschool.de' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.baywa-re.vn
+  ↳ Status: 200
+  ↳ Final URL: https://www.baywa-re.vn/en/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.baywa-re.vn/
+     2. https://www.baywa-re.vn/en/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.worldvision.org.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.worldvision.org.nz/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bioderma-sk.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.bioderma-sk.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyotabacau.ro
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyotabacau.ro/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toysrus.com.my
+  ↳ Status: 200
+  ↳ Final URL: https://www.toysrus.com.my/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.medef-corse.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.medef-corse.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://medef-corse.com
+  ↳ Status: 200
+  ↳ Final URL: https://medef-corse.com/fr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://medef-corse.com/
+     2. https://medef-corse.com/fr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mcdonalds.md
+  ↳ Status: 200
+  ↳ Final URL: https://www.mcdonalds.md/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoconwaysc.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoconwaysc.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.murrelektronik.be
+  ↳ Status: 200
+  ↳ Final URL: https://www.murrelektronik.be/be-nl/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.murrelektronik.be/
+     2. https://www.murrelektronik.be/be-nl/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.decathlon.hu
+  ↳ Status: 403
+  ↳ Final URL: https://www.decathlon.hu/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.jungheinrich.com.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.jungheinrich.com.sg/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.culliganwatertreatment.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.culliganwatertreatment.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-thoss-falkenstein.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-thoss-falkenstein.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bbraun.ae
+  ↳ Status: 200
+  ↳ Final URL: https://www.bbraun.ae/en.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bbraun.ae/
+     2. https://www.bbraun.ae/en.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.isover.se
+  ↳ Status: 200
+  ↳ Final URL: https://www.isover.se/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.synlab.com.gh
+  ↳ Status: 200
+  ↳ Final URL: https://www.synlab.com.gh/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.culligantulsa.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.culligantulsa.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rutscherlebnis.at
+  ↳ Status: 200
+  ↳ Final URL: https://www.rutscherlebnis.at/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.grantthornton.com.ve
+  ↳ Status: 200
+  ↳ Final URL: https://www.grantthornton.com.ve/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.adecco.com.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.adecco.com.sg/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.modshair-bielefeld.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.modshair-bielefeld.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoeverett.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoeverett.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.reedglobal.hu
+  ↳ Status: 200
+  ↳ Final URL: https://www.reedglobal.hu/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazdaoforange.com
+  ↳ Status: 403
+  ↳ Final URL: https://www.mazdaoforange.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.reedglobal.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.reedglobal.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.actemium.pt
+  ↳ Status: 200
+  ↳ Final URL: https://www.actemium.pt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pearsonclinical.ca
+  ↳ Status: 200
+  ↳ Final URL: https://www.pearsonclinical.ca/en.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.pearsonclinical.ca/
+     2. https://www.pearsonclinical.ca/en.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kiamarin.com
+  ↳ Status: 405
+  ↳ Final URL: https://www.kiamarin.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyota-annecy.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://toyota-annecy.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://toyota-annecy.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.toyota-annecy.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.medef-sarthe.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.medef-sarthe.fr/fr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.medef-sarthe.fr/
+     2. https://www.medef-sarthe.fr/fr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoclaymontde.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoclaymontde.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bosch-industry-consulting.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.bosch-industry-consulting.com/home/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bosch-industry-consulting.com/
+     2. https://www.bosch-industry-consulting.com/home/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bbraun.ca
+  ↳ Status: 200
+  ↳ Final URL: https://www.bbraun.ca/en.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bbraun.ca/
+     2. https://www.bbraun.ca/en.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.lv
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.lv/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.flashbay.com.my
+  ↳ Status: 200
+  ↳ Final URL: https://www.flashbay.com.my/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.murrelektronik.hu
+  ↳ Status: 200
+  ↳ Final URL: https://www.murrelektronik.hu/hu/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.murrelektronik.hu/
+     2. https://www.murrelektronik.hu/hu/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.sg/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pingusenglish.co.id
+  ↳ Status: 403
+  ↳ Final URL: https://www.pingusenglish.co.id/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.atalian.pl
+  ↳ Status: 200
+  ↳ Final URL: https://atalian.pl/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.atalian.pl/
+     2. https://atalian.pl/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde.co.th
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde.co.th/shop/en/thai/home
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linde.co.th/
+     2. https://www.linde.co.th/shop/en/thai/home
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoeastmesa.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoeastmesa.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.repsol.in.ua
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.repsol.in.ua', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://repsol.in.ua
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='repsol.in.ua', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://repsol.in.ua
+  ↳ Status: 200
+  ↳ Final URL: http://repsol.in.ua/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.engie-africa.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.engie-africa.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veka.pt
+  ↳ Status: 200
+  ↳ Final URL: https://www.veka.pt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.stanbicbank.co.bw
+  ↳ Status: 200
+  ↳ Final URL: https://www.stanbicbank.co.bw/botswana/personal
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.stanbicbank.co.bw/
+     2. https://www.stanbicbank.co.bw/botswana/personal
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.zalando.no
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.no', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://zalando.no
+  ↳ Status: 403
+  ↳ Final URL: https://www.zalando.no/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. https://zalando.no/
+     2. https://www.zalando.no/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitexgossau.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitexgossau.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toysrus.com.ph
+  ↳ Status: 200
+  ↳ Final URL: https://www.toysrus.com.ph/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitex-region-stockhorn.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitex-region-stockhorn.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.algeco.sk
+  ↳ Status: 200
+  ↳ Final URL: https://www.algeco.sk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoparkvillemd.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoparkvillemd.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wuerth.com.hr
+  ↳ Status: 200
+  ↳ Final URL: https://eshop.wuerth.com.hr/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.wuerth.com.hr/
+     2. https://eshop.wuerth.com.hr/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.autosecuritas-ct-notre-dame-doe.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.autosecuritas-ct-notre-dame-doe.fr/public/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.autosecuritas-ct-notre-dame-doe.fr/
+     2. https://www.autosecuritas-ct-notre-dame-doe.fr/public/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-lotspeich-muenchen.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-lotspeich-muenchen.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.actemium.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.actemium.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veoliawatertechnologies.fi
+  ↳ Status: 200
+  ↳ Final URL: https://www.veoliawatertechnologies.fi/fi
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.veoliawatertechnologies.fi/
+     2. https://www.veoliawatertechnologies.fi/fi
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.flashbay.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.flashbay.co.nz/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.ford.dn.ua
+  ↳ Status: 200
+  ↳ Final URL: https://www.ford.dn.ua/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda.ru
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda.ru/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcowestbroward.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcowestbroward.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.yonyou.com.hk
+  ↳ Status: 200
+  ↳ Final URL: https://www.yonyou.com.hk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.renaultcampeche.mx
+  ↳ Status: 403
+  ↳ Final URL: https://www.renaultcampeche.mx/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.viacon.no
+  ↳ Status: 200
+  ↳ Final URL: https://viacon.no/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.viacon.no/
+     2. https://viacon.no/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamco-omahasouth.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamco-omahasouth.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.bg
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.bg/bg
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.veolia.bg/
+     2. https://www.veolia.bg/bg
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.adecco.co.th
+  ↳ Status: 200
+  ↳ Final URL: https://adecco.co.th/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.adecco.co.th/
+     2. https://adecco.co.th/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nordicpharma.pt
+  ↳ Status: 200
+  ↳ Final URL: https://www.nordicpharma.pt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcohialeahfl.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcohialeahfl.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kiaofdaphne.com
+  ↳ Status: 405
+  ↳ Final URL: https://www.kiaofdaphne.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.isover.ua
+  ↳ Status: 200
+  ↳ Final URL: https://www.isover.ua/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.vans.at
+  ↳ Status: 403
+  ↳ Final URL: https://www.vans.at/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;www&#46;vans&#46;at&#47;" on this server.<P> Reference&#32;&#35...
+[-----------------------------------]
+
+  ↳ Attempted URL: https://vans.at
+  ↳ Status: 403
+  ↳ Final URL: https://vans.at/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;vans&#46;at&#47;403fail&#47;" on this server.<P> Reference&#32;...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://vans.at
+  ↳ Status: 403
+  ↳ Final URL: https://www.vans.at/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://vans.at/
+     2. https://www.vans.at/
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;www&#46;vans&#46;at&#47;" on this server.<P> Reference&#32;&#35...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.vans.at
+  ↳ Status: 403
+  ↳ Final URL: https://www.vans.com/de-at/cctld=www_vans_at
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://www.vans.at/
+     2. https://www.vans.com/de-at/cctld=www_vans_at
+  ↳ HTML snippet: <HTML><HEAD> <TITLE>Access Denied</TITLE> </HEAD><BODY> <H1>Access Denied</H1>   You don't have permission to access "http&#58;&#47;&#47;www&#46;vans&#46;com&#47;de&#45;at&#47;cctld&#61;www&#95;vans&#...
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.globalconnectcarrier.com
+  ↳ Status: 200
+  ↳ Final URL: https://globalconnectcarrier.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.globalconnectcarrier.com/
+     2. https://globalconnectcarrier.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.vbh.be
+  ↳ Status: 200
+  ↳ Final URL: https://www.vbh.be/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-fritsche-grossschoenau.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-fritsche-grossschoenau.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.techtel.com.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.techtel.com.sg/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitex-oberthurgau.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitex-oberthurgau.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pragroup.pl
+  ↳ Status: 200
+  ↳ Final URL: https://pragroup.pl/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.pragroup.pl/
+     2. https://pragroup.pl/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veoliawatertechnologies.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.veoliawatertechnologies.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cvjm-hemer.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.cvjm-hemer.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-sosnowiec-mirai.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-sosnowiec-mirai.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.yves-rocher.pt
+  ↳ Status: 200
+  ↳ Final URL: https://www.yves-rocher.pt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.wwf.no
+  ↳ Status: 200
+  ↳ Final URL: https://www.wwf.no/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.vkf-renzel.ro
+  ↳ Status: 200
+  ↳ Final URL: https://www.vkf-renzel.ro/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rockvalleyculligan.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.rockvalleyculligan.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.atalian.hu
+  ↳ Status: 200
+  ↳ Final URL: https://atalian.hu/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.atalian.hu/
+     2. https://atalian.hu/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.amnesty.id
+  ↳ Status: 200
+  ↳ Final URL: https://www.amnesty.id/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.fi
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.fi/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.roca.co.th
+  ↳ Status: 200
+  ↳ Final URL: https://www.roca.co.th/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.fleishmanhillard.ph
+  ↳ Status: 200
+  ↳ Final URL: https://fleishmanhillard.ph/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.fleishmanhillard.ph/
+     2. https://fleishmanhillard.ph/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.avia-belgomine.be
+  ↳ Status: 200
+  ↳ Final URL: https://www.avia-belgomine.be/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.greatplacetowork.se
+  ↳ Status: 200
+  ↳ Final URL: https://greatplacetowork.se/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.greatplacetowork.se/
+     2. https://greatplacetowork.se/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyota-bauer.at
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyota-bauer.at/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyota-rillieux.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://toyota-rillieux.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://toyota-rillieux.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.toyota-rillieux.fr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.manpowergroup.dk
+  ↳ Status: 200
+  ↳ Final URL: https://www.manpowergroup.dk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.dysartsservicecenter.com
+  ↳ Status: 200
+  ↳ Final URL: https://dysartsservicecenter.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.dysartsservicecenter.com/
+     2. https://dysartsservicecenter.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pefc.fi
+  ↳ Status: 200
+  ↳ Final URL: https://www.pefc.fi/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoindependencemo.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoindependencemo.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.caspak.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.caspak.co.nz/web/database/selector
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.caspak.co.nz/
+     2. https://www.caspak.co.nz/odoo
+     3. https://www.caspak.co.nz/web/database/selector
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyotasandikci.com.tr
+  ↳ Status: 200
+  ↳ Final URL: https://www.toyotasandikci.com.tr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitexzug.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitexzug.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bakertilly.sl
+  ↳ Status: 200
+  ↳ Final URL: https://www.bakertilly.sl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.papajohns.co.nl
+  ↳ Status: 403
+  ↳ Final URL: https://www.papajohns.co.nl/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.spitex-oberfreiamt.ch
+  ↳ Status: 200
+  ↳ Final URL: https://www.spitex-oberfreiamt.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-schindlbeck-straubing.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-schindlbeck-straubing.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.chicco.ru
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.chicco.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://chicco.ru
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='chicco.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://chicco.ru
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.chicco.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.chicco.ru
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.chicco.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.co.za
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.co.za/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.misterwhat.pt
+  ↳ Status: 200
+  ↳ Final URL: https://www.misterwhat.pt/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.zalando.at
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.at', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: https://zalando.at
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.zalando.at', port=443): Read timed out. (read timeout=10)
+[-----------------------------------]
+
+  ↳ Attempted URL: http://zalando.at
+  ↳ Status: 403
+  ↳ Final URL: https://www.zalando.at/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://zalando.at/
+     2. https://zalando.at/
+     3. https://www.zalando.at/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.shimadzu-la.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.shimadzu-la.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.infiniti-abudhabi.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.infiniti-abudhabi.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-mueller-und-thurnes-tholey.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-mueller-und-thurnes-tholey.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcoburbank.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcoburbank.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.tupperware.es
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.tupperware.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tupperware.es'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://tupperware.es
+  ↳ Status: 503
+  ↳ Final URL: https://tupperware.es/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: drop overload...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://tupperware.es
+  ↳ Status: 503
+  ↳ Final URL: https://tupperware.es/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://tupperware.es/
+     2. https://tupperware.es/
+  ↳ HTML snippet: drop overload...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.tupperware.es
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='www.tupperware.es', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000232560717B0>, 'Connection to www.tupperware.es timed out. (connect timeout=10)'))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-albstadt-auto-domicil-ebingen.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-albstadt-auto-domicil-ebingen.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.hondasemarangcenter.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.hondasemarangcenter.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.adlatus-nordwestschweiz.ch
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.adlatus-nordwestschweiz.ch', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.adlatus-nordwestschweiz.ch'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://adlatus-nordwestschweiz.ch
+  ↳ Status: 200
+  ↳ Final URL: https://adlatus-nordwestschweiz.ch/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.demetercs.eu
+  ↳ Status: 200
+  ↳ Final URL: https://www.demetercs.eu/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.sitechsolutions.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.sitechsolutions.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.subaru-bd.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.subaru-bd.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://subaru-bd.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='subaru-bd.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)')))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://subaru-bd.com
+  ↳ Status: 200
+  ↳ Final URL: http://subaru-bd.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toysrus.fr
+  ↳ Status: 200
+  ↳ Final URL: https://www.toysrus.fr/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-krakow-kazokuluzar.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-krakow-kazokuluzar.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.carglass.hu
+  ↳ Status: 200
+  ↳ Final URL: https://www.carglass.hu/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.astrazeneca.hu
+  ↳ Status: 200
+  ↳ Final URL: https://www.astrazeneca.hu/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pragroup.com.au
+  ↳ Status: 200
+  ↳ Final URL: https://www.pragroup.com.au/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aonsolutions.com.cy
+  ↳ Status: 200
+  ↳ Final URL: https://www.aonsolutions.com.cy/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.toyotaortakoy.com.tr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.toyotaortakoy.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F07890>: Failed to resolve 'www.toyotaortakoy.com.tr' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://toyotaortakoy.com.tr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='toyotaortakoy.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F060D0>: Failed to resolve 'toyotaortakoy.com.tr' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://toyotaortakoy.com.tr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='toyotaortakoy.com.tr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000232560716A0>: Failed to resolve 'toyotaortakoy.com.tr' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.toyotaortakoy.com.tr
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='www.toyotaortakoy.com.tr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023256071AE0>: Failed to resolve 'www.toyotaortakoy.com.tr' ([Errno 11001] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.culligansiouxcity.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.culligansiouxcity.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-ci.com
+  ↳ Status: 200
+  ↳ Final URL: https://kia-ci.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.kia-ci.com/
+     2. https://kia-ci.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kia-crimea.ru
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.kia-crimea.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-crimea.ru'. (_ssl.c:1018)")))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://kia-crimea.ru
+  ↳ Status: 200
+  ↳ Final URL: https://kia-crimea.ru/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.einhell.com.ar
+  ↳ Status: 200
+  ↳ Final URL: https://www.einhell.com.ar/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.lidl-ni.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://www.lidl-ni.co.uk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.acuraofwestchester.com
+  ↳ Status: 403
+  ↳ Final URL: https://www.acuraofwestchester.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.chicco.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.chicco.co.nz/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: {"html":"\n\u003csection class=\"SC-ContentBlockContainer\" id=\"SC-ContentBlockContainer-chicco-nz-hero-banner-container\" data-cb=\"chicco-nz-hero-banner-container\"\u003e\n\n  \u003cdiv class=\"SC-...
+[-----------------------------------]
+
+  ↳ Attempted URL: https://chicco.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.chicco.co.nz/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. https://chicco.co.nz/
+     2. https://www.chicco.co.nz/
+  ↳ HTML snippet: {"html":"\n\u003csection class=\"SC-ContentBlockContainer\" id=\"SC-ContentBlockContainer-chicco-nz-hero-banner-container\" data-cb=\"chicco-nz-hero-banner-container\"\u003e\n\n  \u003cdiv class=\"SC-...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://chicco.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.chicco.co.nz/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://chicco.co.nz/
+     2. https://www.chicco.co.nz/
+  ↳ HTML snippet: {"html":"\n\u003csection class=\"SC-ContentBlockContainer\" id=\"SC-ContentBlockContainer-chicco-nz-hero-banner-container\" data-cb=\"chicco-nz-hero-banner-container\"\u003e\n\n  \u003cdiv class=\"SC-...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.chicco.co.nz
+  ↳ Status: 200
+  ↳ Final URL: https://www.chicco.co.nz/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://www.chicco.co.nz/
+     2. https://www.chicco.co.nz/
+  ↳ HTML snippet: {"html":"\n\u003csection class=\"SC-ContentBlockContainer\" id=\"SC-ContentBlockContainer-chicco-nz-hero-banner-container\" data-cb=\"chicco-nz-hero-banner-container\"\u003e\n\n  \u003cdiv class=\"SC-...
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.veolia.am
+  ↳ Status: 200
+  ↳ Final URL: https://www.veolia.am/hy
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.veolia.am/
+     2. https://www.veolia.am/hy
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.lindesaude.pt
+  ↳ Status: 200
+  ↳ Final URL: https://lindesaude.pt/shop/pt/pt-homecare-store
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.lindesaude.pt/
+     2. https://lindesaude.pt/shop/pt/pt-homecare-store
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bioderma.it
+  ↳ Status: 200
+  ↳ Final URL: https://www.bioderma.it/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.rationalstock.es
+  ↳ Status: 200
+  ↳ Final URL: https://www.rationalstock.es/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.bbraun.ph
+  ↳ Status: 200
+  ↳ Final URL: https://www.bbraun.ph/en.html
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.bbraun.ph/
+     2. https://www.bbraun.ph/en.html
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.lidl-giftcard.eu
+  ↳ Status: 200
+  ↳ Final URL: https://www.lidl-giftcard.eu/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.salvationarmy.org.sg
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.salvationarmy.org.sg', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000023255F06490>, 'Connection to www.salvationarmy.org.sg timed out. (connect timeout=10)'))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://salvationarmy.org.sg
+  ↳ Status: 200
+  ↳ Final URL: https://www.salvationarmy.org.sg/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://salvationarmy.org.sg/
+     2. https://www.salvationarmy.org.sg/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.hyundaiblacktown.com.au
+  ↳ Status: 200
+  ↳ Final URL: https://www.hyundaiblacktown.com.au/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.kuraray.us.com
+  ↳ Status: 200
+  ↳ Final URL: https://kuraray.us.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.kuraray.us.com/
+     2. https://kuraray.us.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.infiniti-dubai.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.infiniti-dubai.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.muvpropiedades.com.ar
+  ↳ Status: 200
+  ↳ Final URL: https://www.muvpropiedades.com.ar/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.myron.ca
+  ↳ Status: 200
+  ↳ Final URL: https://www.myron.ca/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.crocssa.co.za
+  ↳ Status: 200
+  ↳ Final URL: https://www.crocssa.co.za/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mercyships.dk
+  ↳ Status: 200
+  ↳ Final URL: https://mercyships.dk/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.mercyships.dk/
+     2. https://mercyships.dk/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-uae.com
+  ↳ Status: 307
+  ↳ Final URL: https://www.mazda-uae.com/
+  ↳ Result: ❌ Fail
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcomissouricitytx.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcomissouricitytx.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.colorflexpackaging.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.colorflexpackaging.com/
+  ↳ Result: ❌ Fail
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <HTML> <HEAD> <TITLE>Packaging Pouches, Packaging Material Manufacturer, Laminated Pouches</TI...
+[-----------------------------------]
+
+  ↳ Attempted URL: https://colorflexpackaging.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.colorflexpackaging.com/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. https://colorflexpackaging.com/
+     2. https://www.colorflexpackaging.com/
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <HTML> <HEAD> <TITLE>Packaging Pouches, Packaging Material Manufacturer, Laminated Pouches</TI...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://colorflexpackaging.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.colorflexpackaging.com/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://colorflexpackaging.com/
+     2. https://www.colorflexpackaging.com/
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <HTML> <HEAD> <TITLE>Packaging Pouches, Packaging Material Manufacturer, Laminated Pouches</TI...
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.colorflexpackaging.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.colorflexpackaging.com/
+  ↳ Result: ❌ Fail
+  ↳ Redirect chain:
+     1. http://www.colorflexpackaging.com/
+     2. https://www.colorflexpackaging.com/
+  ↳ HTML snippet: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <HTML> <HEAD> <TITLE>Packaging Pouches, Packaging Material Manufacturer, Laminated Pouches</TI...
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linexcoloradosprings.com
+  ↳ Status: 200
+  ↳ Final URL: https://linexcoloradosprings.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linexcoloradosprings.com/
+     2. https://linexcoloradosprings.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.propertyfinder.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.propertyfinder.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.misterwhat.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.misterwhat.pl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.mazda-autohaus-doerenkaemper-bad-hersfeld.de
+  ↳ Status: 200
+  ↳ Final URL: https://www.mazda-autohaus-doerenkaemper-bad-hersfeld.de/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linde-gaz.pl
+  ↳ Status: 200
+  ↳ Final URL: https://www.linde-gaz.pl/shop/pl/pl-ig/polska
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.linde-gaz.pl/
+     2. https://www.linde-gaz.pl/shop/pl/pl-ig/polska
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.servier.co.uk
+  ↳ Status: 200
+  ↳ Final URL: https://www.servier.co.uk/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.pingusenglishbd.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='www.pingusenglishbd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F07890>: Failed to resolve 'www.pingusenglishbd.com' ([Errno 11002] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: https://pingusenglishbd.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPSConnectionPool(host='pingusenglishbd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000023255F06AD0>: Failed to resolve 'pingusenglishbd.com' ([Errno 11002] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://pingusenglishbd.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='pingusenglishbd.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023256072030>: Failed to resolve 'pingusenglishbd.com' ([Errno 11002] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: http://www.pingusenglishbd.com
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: Unhandled exception
+  ↳ Exception: HTTPConnectionPool(host='www.pingusenglishbd.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000023256072140>: Failed to resolve 'www.pingusenglishbd.com' ([Errno 11002] getaddrinfo failed)"))
+[-----------------------------------]
+
+  ↳ Attempted URL: All variants exhausted
+  ↳ Status: ❌ Error
+  ↳ Final URL: N/A
+  ↳ Result: ❌ Fail
+  ↳ Notes: No working URL found
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.cvjm-muensingen.de
+  ↳ Status: 200
+  ↳ Final URL: https://cvjm-muensingen.de/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.cvjm-muensingen.de/
+     2. https://cvjm-muensingen.de/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcopompanobeach.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.aamcopompanobeach.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.aamcovinelandnj.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.mylocalaamco.com/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.aamcovinelandnj.com/
+     2. https://www.mylocalaamco.com/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.nestle.bg
+  ↳ Status: 200
+  ↳ Final URL: https://www.nestle.bg/bg
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.nestle.bg/
+     2. https://www.nestle.bg/bg
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.linexofmacon.com
+  ↳ Status: 200
+  ↳ Final URL: https://www.linexofmacon.com/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.worldvision.org.sv
+  ↳ Status: 200
+  ↳ Final URL: https://worldvision.org.sv/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.worldvision.org.sv/
+     2. https://worldvision.org.sv/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.inductothermgroup.com.br
+  ↳ Status: 200
+  ↳ Final URL: https://inductothermgroup.com.br/
+  ↳ Result: ✅ Success
+  ↳ Redirect chain:
+     1. https://www.inductothermgroup.com.br/
+     2. https://inductothermgroup.com.br/
+[-----------------------------------]
+
+  ↳ Attempted URL: https://www.plameco.nl
+  ↳ Status: 200
+  ↳ Final URL: https://www.plameco.nl/
+  ↳ Result: ✅ Success
+[-----------------------------------]
+
