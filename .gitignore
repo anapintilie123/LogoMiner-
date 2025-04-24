@@ -16,3 +16,5 @@ data/
 Thumbs.db
 
 data/test
+
+__pycache__/
