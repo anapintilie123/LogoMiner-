@@ -23,9 +23,9 @@ MAX_WORKERS = 100          # tune per bandwidth / memory
 # Configuration constants
 # ----------------------------------------------------------
 
-OUTPUT_CSV = "data/test/output_pool.csv"
-HTML_DEBUG_DIR = "data/test/debug/html_debug"
-BASEURL_LOG_FILE = "data/test/debug/baseurl_debug.log"
+OUTPUT_CSV = "data/output_pool.csv"
+HTML_DEBUG_DIR = "data/debug/html_debug"
+BASEURL_LOG_FILE = "data/debug/baseurl_debug.log"
 
 HEADERS = {
     "User-Agent": (
