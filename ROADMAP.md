@@ -7,13 +7,13 @@ Am început cu un **script secvențial** simplu, dar procesarea devenea lentă �
 - **Problema**: aveam logo-uri în formate variate (SVG, ICO, PNG). Unele erau transparente, altele foarte mari.
 - **Soluție**: convertirea la **format unitar** (`RGBA` + resize la 128×128). SVG-urile le transform cu `cairosvg`, iar ICO-urile mari le deschid în PIL și le pun pe fundal alb dacă aveau transparență.
 
-## Extragerea de Caracteristici (Feature Extraction)
+## Feature Extraction
 
 - **Inițial** am încercat doar DCT combinat cu histograme de culoare, dar weighting-ul (ex. 70% DCT, 30% histogram) nu a dat rezultate consistente.  
 - **Apoi** am renunțat la histogramă, însă logo-urile cu culori similare și forme diferite erau grupate greșit.  
 - **Acum** extrag și HOG pentru forme/contururi, plus pHash pentru duplicate. Rezultatul e un vector bogat (DCT, HOG, histogram) normalizat cu `StandardScaler`.
 
-## Clustering Ierarhic (Agglomerative)
+## Clustering Agglomerative
 
 - **Ce n-a mers**:
   - **K-Means**: trebuia să aleg un număr fix de clustere din start, iar eu nu-l știam.
