@@ -1,0 +1,18 @@
+FORME.md
+logo_scraper_pool.py
+
+# virtual-env
+.venv/
+
+# data & debug output
+data/
+*.csv
+*.parquet
+*.html
+
+# IDE / OS cruft
+.vscode/
+.DS_Store
+Thumbs.db
+
+data/test

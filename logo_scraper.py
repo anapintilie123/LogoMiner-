@@ -1,13 +1,14 @@
-import asyncio
-import httpx
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm  # plain tqdm, not tqdm_asyncio
 import pandas as pd
 import requests
+from requests import exceptions as rex
 from selectolax.parser import HTMLParser
 from urllib.parse import urlparse, urljoin
-from tqdm.asyncio import tqdm_asyncio
 import os
-import tqdm
-import datetime
+import time
+import os, sys
+import threading
 
 from collections import Counter
 
@@ -15,15 +16,16 @@ from collections import Counter
 # Global stats tracked for summary
 # ----------------------------------------------------------
 stats = Counter()
+_thread_local = threading.local()
+MAX_WORKERS = 100          # tune per bandwidth / memory
 
 # ----------------------------------------------------------
 # Configuration constants
 # ----------------------------------------------------------
 
-
-OUTPUT_CSV = "data/output.csv"
-HTML_DEBUG_DIR = "data/debug/html_debug"
-BASEURL_LOG_FILE = "data/debug/baseurl_debug.log"
+OUTPUT_CSV = "data/test/output_pool.csv"
+HTML_DEBUG_DIR = "data/test/debug/html_debug"
+BASEURL_LOG_FILE = "data/test/debug/baseurl_debug.log"
 
 HEADERS = {
     "User-Agent": (
@@ -53,8 +55,6 @@ HEADERS2 = {
     "sec-fetch-user": "?1",
     "upgrade-insecure-requests": "1"
 }
-
-
 
 
 def is_valid_svg_content(content: str) -> bool:
@@ -111,7 +111,7 @@ def detailed_log_baseurl_attempt(
 # Core function to find a working base URL (www vs no www, http vs https)
 # ----------------------------------------------------------
 
-def detect_base_url(domain: str) -> tuple[str | None, str | None]:
+def detect_base_url(domain: str,session: requests.Session) -> tuple[str | None, str | None]:
     # Step 1: Define all common domain variants to try
     variants = [
         f"https://www.{domain}",
@@ -123,8 +123,22 @@ def detect_base_url(domain: str) -> tuple[str | None, str | None]:
     for variant in variants:
         redirect_chain = []
         try:
+            
             # Step 2: Make a request to the variant with 10s timeout and follow redirects
-            r =  requests.get(variant, timeout=10, allow_redirects=True,headers=HEADERS)
+            #r =  requests.get(variant, timeout=10, allow_redirects=True,headers=HEADERS)
+            #r = session.get(variant, timeout=(5, 10), allow_redirects=True)
+            t0 = time.perf_counter()
+            #r = session.get(variant, timeout=(3, 7), allow_redirects=True)
+            
+            #lets try this 
+            head = session.head(variant, timeout=(3,7), allow_redirects=True)
+            if head.status_code >= 400: continue
+            r = session.get(str(head.url), timeout=(3,7))   
+
+            #trying to figure out 
+            elapsed = time.perf_counter() - t0
+            if elapsed > 8:
+                print(f"⚠ URL variant {variant} took {elapsed:.1f}s")
 
             # Step 3: Save the full redirect chain for later logging/debugging
             redirect_chain = [str(resp.url) for resp in r.history] + [str(r.url)]
@@ -163,11 +177,11 @@ def detect_base_url(domain: str) -> tuple[str | None, str | None]:
                 return str(r.url), "spa_suspected"
 
         # Step 7: Handle known connection issues with logging
-        except httpx.ConnectTimeout as e:
+        except rex.ConnectTimeout as e:
             detailed_log_baseurl_attempt(domain, variant, error=e, notes="Connection timeout")
-        except httpx.ReadTimeout as e:
+        except rex.ReadTimeout as e:
             detailed_log_baseurl_attempt(domain, variant, error=e, notes="Read timeout")
-        except httpx.HTTPError as e:
+        except rex.RequestException as e: # base-class for HTTPError, SSLError, etc
             detailed_log_baseurl_attempt(domain, variant, error=e, notes="HTTP error")
         except UnicodeDecodeError as e:
             detailed_log_baseurl_attempt(domain, variant, error=e, notes="Unicode decode error")
@@ -218,6 +232,19 @@ def extract_logo_url(html, final_url):
 
     return None, None
 
+
+def get_session() -> requests.Session:
+    if not hasattr(_thread_local, "sess"):
+        s = requests.Session() # new session , per worker
+        adapter = requests.adapters.HTTPAdapter(pool_connections=MAX_WORKERS,
+                                                pool_maxsize=MAX_WORKERS) # the adaptor 
+        s.mount("http://", adapter)             # attach to both schemes
+        s.mount("https://", adapter)
+        s.headers.update(HEADERS)          # default headers once
+        _thread_local.sess = s
+    return _thread_local.sess
+
+
 # ----------------------------------------------------------
 # Scrape logic for a single domain
 # ----------------------------------------------------------
@@ -231,7 +258,8 @@ def scrape_domain(domain):
         "error": None,
     }
     try:
-        base_url, reason =  detect_base_url(domain)
+        session = get_session() ### gettign a session per worker
+        base_url, reason =  detect_base_url(domain,session)
         result["base_url"] = base_url
         
         if not base_url:
@@ -239,14 +267,12 @@ def scrape_domain(domain):
             if reason == "spa_suspected":
                 stats["spa_suspected"] += 1
                 return result
-            else:
-                stats["base_url_not_found"] += 1
-                return result
         else:
             stats["base_url_found"] += 1
 
         # Fetch final page HTML
-        r =  requests.get(base_url, timeout=10,headers=HEADERS)
+        #r =  requests.get(base_url, timeout=10,headers=HEADERS)
+        r = session.get(base_url, timeout=(5, 10))
         result["html_length"] = len(r.text)
 
         # Attempt to extract a logo
@@ -262,10 +288,18 @@ def scrape_domain(domain):
             stats["logo_not_found"] += 1
             result["status"] = "no_logo_found"
             # Save HTML snapshot for debugging
+            #--- Build a filename that matches the domain  (e.g.  example_com.html)
             parsed = urlparse(base_url)
             filename = parsed.netloc.replace(".", "_") + ".html"
             os.makedirs(HTML_DEBUG_DIR, exist_ok=True)
-            os.remove(os.path.join(HTML_DEBUG_DIR, filename))
+            #os.remove(os.path.join(HTML_DEBUG_DIR, filename))
+            path = os.path.join(HTML_DEBUG_DIR, filename)
+            #--- Ensure debug directory exists
+            #--- Delete any previous snapshot of that site (the guard should go here)
+            if os.path.exists(path):          # ← prevent FileNotFoundError
+                os.remove(path)
+
+            #--- Write the full HTML page to disk so to inspect manually later
             with open(os.path.join(HTML_DEBUG_DIR, filename), "w", encoding="utf-8") as f:
                 f.write(r.text)
 
@@ -281,26 +315,43 @@ def scrape_domain(domain):
 # Main async driver
 # ----------------------------------------------------------
 
-async def main():
-    df = pd.read_parquet("data/logos_snappy.parquet", engine="pyarrow")
-    domains = df["domain"].dropna().unique().tolist()[:500] # Limit to first 500 for testing
 
-    # Get the current executor list
-    loop = asyncio.get_event_loop()
-    results = []
+def main():
     
-    for i in tqdm_asyncio(range(0, len(domains))):
-        result = await loop.run_in_executor(None, scrape_domain, domains[i])
-        results.append(result)
-   
-        
+    print(f"PID {os.getpid()}  –  {sys.executable}")
+    sys.stdout.flush()        # make sure it appears immediately
+
+    t0 = time.perf_counter()  
+    df = pd.read_parquet("data/logos_snappy.parquet", engine="pyarrow")
+    domains = df["domain"].dropna().unique().tolist()[:500] # Limit to first 200 for testing
+
+    results, stats = [], Counter()
+    
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+        futures = {pool.submit(scrape_domain, d): d for d in domains}
+
+        for fut in tqdm(as_completed(futures), total=len(futures), desc="Scraping"):
+            try:
+                res = fut.result(timeout=20)
+                results.append(res)
+            
+            except TimeoutError:
+                # task still running after 20 s → treat as failure
+                res = {"domain": futures[fut], "status": "timeout"}
+                results.append(res)
+
     pd.DataFrame(results).to_csv(OUTPUT_CSV, index=False)
-    print(f"Step 1) Results saved to {OUTPUT_CSV}")
+    print(f"\n✔ Results written to {OUTPUT_CSV}")
     
-    print("\n🧾 Summary:")
-    for key, value in stats.items():
-        print(f"  {key}: {value}")
+    elapsed = time.perf_counter() - t0        # ◄──┘ stop
+    print(f"\n⏱  Finished {len(domains)} domains in {elapsed:,.2f} s "
+          f"({len(domains)/elapsed:,.1f} req/s)")
+
+    print("\n🧾 Summary counters:")
+    for k, v in stats.items():
+        print(f"  {k}: {v}")
+    
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    (main())
