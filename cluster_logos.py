@@ -5,6 +5,7 @@ import imagehash
 from PIL import Image
 from typing import List, Tuple, Dict
 from extract_features import extract_features, log_feature_summary
+from extract_features2 import extract_deep_features
 from preprocess_logos import preprocess_logos_from_folder
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.preprocessing import StandardScaler
@@ -29,83 +30,86 @@ Cluster = List[FeatureData]
 def dct_bands_to_vector(f: FeatureData) -> np.ndarray:
     return f[1].astype(np.float32)
 
+def hamming(phash1: np.ndarray, phash2: np.ndarray) -> int:
+    if phash1.shape != phash2.shape:
+        raise ValueError(f"phash shapes differ: {phash1.shape} vs {phash2.shape}")
+    return int((phash1 != phash2).sum())
 
-def hamming(phash1: str, phash2: str) -> float:
-    """Calculate similarity between two hex-formatted perceptual hashes."""
-    
-    # Ensure they are strings
-    phash1 = str(phash1).strip()
-    phash2 = str(phash2).strip()
-
-    bin1 = bin(int(phash1, 16))[2:].zfill(64)
-    bin2 = bin(int(phash2, 16))[2:].zfill(64)
-    
-    # Calculate Hamming distance
-    hamming_dist = sum(bit1 != bit2 for bit1, bit2 in zip(bin1, bin2))
-    
-    # Normalize similarity score (1 = identical, 0 = completely different)
-    similarity = 1 - (hamming_dist / 64)
-    
-    return similarity
-
-def deduplicate_features(features :List[FeatureData] ,dct_threshold: float = 0.90) -> List[FeatureData]:
+def deduplicate_features(
+    features: List[FeatureData],
+    similarity_threshold: float = 0.90
+) -> List[FeatureData]:
+    """
+    Keep only one representative among near-duplicates.
+    `similarity_threshold` is fraction of matching bits (0–1).
+    """
     deduped = []
-    
-    for feature in features:
-        is_duplicate = False
+    hash_len = None
+
+    for fd in features:
+        _, _feat_vec, ph = fd
+        if hash_len is None:
+            hash_len = ph.size  # e.g. 64
+        is_dup = False
+
         for kept in deduped:
-            if hamming(feature[2], kept[2]) > dct_threshold:
-                is_duplicate = True
+            ph2 = kept[2]
+            # compute normalized hamming
+            dist = hamming(ph, ph2)
+            similarity = 1.0 - (dist / hash_len)
+            if similarity >= similarity_threshold:
+                is_dup = True
                 break
-        if not is_duplicate:
-            deduped.append(feature)
+
+        if not is_dup:
+            deduped.append(fd)
+
     return deduped
 
-def cluster_features(features: List[FeatureData], threshold=0.75) -> List[Cluster]:
+
+
+# ----------------------------------------------------------
+# Combine DCT and pHash into a single matrix
+# Scale features to zero mean/unit variance
+# Reduce dimensionality with PCA
+# ----------------------------------------------------------
+def cluster_features(features: List[FeatureData], variance_threshold=0.90) -> List[Cluster]:
     print(f"[INFO] Converting {len(features)} features to combined vectors...")
+
+    #############################################################################
+    #combine dct and phash into a single matrix
+    X = np.stack([
+        np.concatenate((fd[1], fd[2]))
+        for fd in features
+    ], axis=0)  # shape = (n_samples, d1 + d2)
     
-    # After all features collected
-    vectors = np.array([f[1] for f in features])  # f[1] = full_vector
-    
-    #we should normalise the vectors
+    #standardize
     scaler = StandardScaler()
-    vectors_scaled = scaler.fit_transform(vectors)
+    X_scaled = scaler.fit_transform(X)
     
-    with open("data/debug/debug_normalised_features.txt", "a") as f_debug:
-        # Write shape and a small sample
-        f_debug.write("Shape of vectors: " + str(vectors.shape) + "\n")
-        f_debug.write("Number of elements: " + str(vectors.size) + "\n\n")
-
-        # Option 1: Write only the first few rows
-        f_debug.write("First 5 rows of vectors:\n")
-        f_debug.write(str(vectors[:5]) + "\n")
-        
-    #pca
-    n_components = min(10, vectors_scaled.shape[0], vectors_scaled.shape[1])
-    pca = PCA(n_components=n_components)
-    reduced_vectors = pca.fit_transform(vectors_scaled)
-
-    # Rebuild FeatureData with reduced vectors
-    features = [(f[0], reduced_vector, f[2]) for f, reduced_vector in zip(features, reduced_vectors)]
-
+    pca = PCA(n_components=variance_threshold, svd_solver='full')
+    X_reduced = pca.fit_transform(X_scaled)
+    
+    ###########################################################################
     
     ## Dendrogram visualization (Ward linkage)
     plt.figure(figsize=(10, 7))  
     plt.title("ward Dendrogram")  
-    shc.dendrogram(shc.linkage(reduced_vectors, method='ward'))
-    plt.show()
+    shc.dendrogram(shc.linkage(X_reduced, method='ward'))
     plt.savefig("data/dendrogram_pca.png")
+    plt.show()
+    
     plt.close()
 
     print("[INFO] Running Agglomerative Clustering...")
     model = AgglomerativeClustering(
         metric="euclidean",
-        linkage="ward", #or average
-        distance_threshold=9.5,
+        linkage="average", #or average
+        distance_threshold=5,
         #distance_threshold=0.65,
         n_clusters=None
     )
-    labels = model.fit_predict(reduced_vectors)
+    labels = model.fit_predict(X_reduced)
 
     clusters_dict: Dict[int, Cluster] = {}
     for label, feature in zip(labels, features):
@@ -143,8 +147,6 @@ def save_cluster_folders(clusters: List[Cluster], output_dir="data/logo_clusters
                     print(f"[Warning] Failed to copy {filename}: {e}")
 
 
-
-
 def plot_clusters_dendrogram(clusters: List[Cluster], linkage_method='average', title="Clusters Dendrogram", output_path=None):
     """
     Plots dendrogram from clustered FeatureData.
@@ -180,17 +182,16 @@ if __name__ == "__main__":
     folder = "data/logos"
     images = preprocess_logos_from_folder(folder) # png, vg, ico-> pngs
     print(f"Step 3) Preprocessed {len(images)} logos")
-    features = extract_features(images) #tuple(domain , csv , downoad histograms)
+    features = extract_deep_features(images) #tuple(domain , csv , downoad histograms)
+    #features = extract_features_from_paths(images)
     print(f"Step 4) Extracted {len(features)} features")
 
     log_feature_summary(features)  # log again if needed
     
     features = deduplicate_features(features)   
     print(f"Deduplicated {len(features)} features - {len(images) - len(features)} duplicates removed")
-    
-    
 
-    clusters = cluster_features(features, threshold=0.6)
+    clusters = cluster_features(features)
     print(f"[INFO] Found {len(clusters)} clusters")
 
     save_cluster_csv(clusters)
@@ -198,4 +199,4 @@ if __name__ == "__main__":
     print("[DONE] Step 5) Clustering complete. CSV and folders saved.")
     
     # Plot dendrogram to compare with PCA dendrogram
-    plot_clusters_dendrogram(clusters, linkage_method='ward', title="Clusters Dendrogram", output_path="data/clusters_dendrogram.png")
+    #plot_clusters_dendrogram(clusters, linkage_method='ward', title="Clusters Dendrogram", output_path="data/clusters_dendrogram.png")

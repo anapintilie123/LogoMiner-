@@ -18,7 +18,7 @@ from typing import List
 from skimage.feature import hog
 
 # New DCT-only feature data type
-FeatureData = Tuple[str, np.ndarray ,np.ndarray]  # (filename, dct_vector,phash)
+FeatureData = Tuple[str, np.ndarray ,np.ndarray]  # (filename, combined,phash)
 
 def extract_hog_features(img: Image.Image, resize_dim=(128, 128)) -> np.ndarray:
     gray = img.convert('L').resize(resize_dim)
@@ -59,14 +59,16 @@ def compute_dct_bands(gray_image: Image.Image, dct_size=32) -> np.ndarray:
     return band_vector
 
 
-def compute_dct_vector(gray_image: Image.Image, dct_size: int = 16) -> np.ndarray:
+def compute_phash_vec(gray_image: Image.Image, dct_size: int = 16) -> np.ndarray:
     """
     Compute a flat vector of top-left DCT coefficients from a grayscale image.
     - Resize to (dct_size, dct_size)
     - Apply 2D Discrete Cosine Transform
     - Flatten top-left (e.g. 16x16) low-frequency block
     """
-    return  imagehash.phash(gray_image)
+    h: imagehash.ImageHash = imagehash.phash(gray_image)
+    # h.hash is a 2D boolean array; flatten to 1D of 0/1 ints
+    return h.hash.flatten().astype(np.uint8)
 
 
 
@@ -76,7 +78,7 @@ def extract_features(image_data: List[Tuple[str, Image.Image, Image.Image]]) -> 
     Returns:
         Tuple containing:
             - List of (filename, dct_vector) feature data
-            - List of (filename, phash) perceptual hash data
+            - List of (filename, phash) perceptual hash data ( kept separatelly for deduplication)
     """
     features = []
 
@@ -84,7 +86,7 @@ def extract_features(image_data: List[Tuple[str, Image.Image, Image.Image]]) -> 
         with open("data/debug/debug_features.txt", "a") as f_debug:
             f_debug.write("Extracting features...for filename : " + filename + "\n")
         dct_vector = compute_dct_bands(gray)
-        phash = compute_dct_vector(gray)
+        phash = compute_phash_vec(gray)
         hog_vec = extract_hog_features(gray)
         color_hist = extract_color_histogram(rgb, bins=32)
         with open("data/debug/debug_features.txt", "a") as f_debug:
